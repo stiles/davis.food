@@ -1,9 +1,9 @@
 name: Update Davis Food Dashboard
 
 on:
-  # Run daily at 6 PM ET (11 PM UTC, accounting for EST)
+  # Run every 15 minutes
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '*/15 * * * *'
   
   # Allow manual trigger
   workflow_dispatch:
