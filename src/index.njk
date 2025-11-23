@@ -4,6 +4,78 @@ title: davis.food - School Lunch Reviews Dashboard
 ---
 
 <div class="container">
+  <!-- Latest Review Feature -->
+  {% if dashboard.latest_review and dashboard.latest_review.post_id %}
+  <section class="latest-review-section">
+    <div class="latest-review-card">
+      <div class="latest-review-content">
+        <!-- Thumbnail -->
+        <div class="latest-review-thumbnail" data-review-date="{{ dashboard.latest_review.date }}">
+          {% if dashboard.latest_review.thumbnail_url %}
+          <img src="{{ dashboard.latest_review.thumbnail_url }}" alt="Latest review thumbnail">
+          {% else %}
+          <div class="thumbnail-placeholder">
+            <i class="fas fa-video"></i>
+          </div>
+          {% endif %}
+        </div>
+        
+        <!-- Foods and Scores -->
+        <div class="latest-review-foods">
+          <h3 class="latest-review-title">Latest review</h3>
+          <div class="latest-review-meta">
+            {% if dashboard.latest_review.day_number %}
+            <span class="review-day">Review #{{ dashboard.latest_review.review_number or dashboard.latest_review.day_number }}</span>
+            {% endif %}
+            <span class="review-rating">
+              <i class="fas fa-star"></i>
+              {{ dashboard.latest_review.average_rating }}/10
+            </span>
+          </div>
+          <div class="foods-list">
+            {% for food in dashboard.latest_review.foods %}
+            <div class="food-item">
+              <span class="food-name">{{ food.name }}</span>
+              <span class="food-score">{{ food.score }}/10</span>
+            </div>
+            {% endfor %}
+          </div>
+          <a href="{{ dashboard.latest_review.tiktok_url }}" target="_blank" rel="noopener noreferrer" class="view-review-link">
+            View on TikTok <i class="fas fa-external-link-alt"></i>
+          </a>
+        </div>
+        
+        <!-- Engagement Stats -->
+        <div class="latest-review-engagement">
+          <h4 class="engagement-title">Engagement</h4>
+          <div class="engagement-stats">
+            <div class="engagement-stat">
+              <i class="fas fa-eye"></i>
+              <span class="stat-number">{{ dashboard.latest_review.engagement.views_formatted }}</span>
+              <span class="stat-label">views</span>
+            </div>
+            <div class="engagement-stat">
+              <i class="fas fa-heart"></i>
+              <span class="stat-number">{{ dashboard.latest_review.engagement.likes_formatted }}</span>
+              <span class="stat-label">likes</span>
+            </div>
+            <div class="engagement-stat">
+              <i class="fas fa-comment"></i>
+              <span class="stat-number">{{ dashboard.latest_review.engagement.comments_formatted }}</span>
+              <span class="stat-label">comments</span>
+            </div>
+            <div class="engagement-stat">
+              <i class="fas fa-share"></i>
+              <span class="stat-number">{{ dashboard.latest_review.engagement.shares_formatted }}</span>
+              <span class="stat-label">shares</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+  
   <!-- Key Stats Cards -->
   <section class="stats-section">
     <div class="section-header">
@@ -255,4 +327,20 @@ title: davis.food - School Lunch Reviews Dashboard
     postsTable: {{ dashboard.posts_table | dump | safe }},
     foodFrequency: {{ dashboard.food_frequency | dump | safe }}
   };
+  
+  // Check if latest review is from today and show NEW badge
+  document.addEventListener('DOMContentLoaded', function() {
+    const thumbnailEl = document.querySelector('.latest-review-thumbnail[data-review-date]');
+    if (thumbnailEl) {
+      const reviewDate = thumbnailEl.getAttribute('data-review-date');
+      const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD format
+      
+      if (reviewDate === today) {
+        const newBadge = document.createElement('div');
+        newBadge.className = 'new-badge';
+        newBadge.textContent = 'NEW';
+        thumbnailEl.appendChild(newBadge);
+      }
+    }
+  });
 </script>

@@ -357,6 +357,115 @@ def calculate_overall_metrics(reviews: List[Dict]) -> Dict:
     }
 
 
+def get_latest_review(reviews: List[Dict], posts_data: Dict) -> Dict:
+    """
+    Get the latest review with full details including thumbnail.
+    
+    Args:
+        reviews: List of review dictionaries
+        posts_data: Posts JSON data with metadata
+        
+    Returns:
+        Dictionary with latest review data
+    """
+    # Filter out Texas Roadhouse
+    filtered_reviews = [r for r in reviews if r.get('post_id') != '7556759729863724301']
+    
+    if not filtered_reviews:
+        return {}
+    
+    # Sort by timestamp (most recent first)  
+    sorted_reviews = sorted(
+        filtered_reviews,
+        key=lambda x: x.get('create_time', 0),
+        reverse=True
+    )
+    
+    # Calculate review number (chronological order)
+    chronological_reviews = sorted(
+        filtered_reviews,
+        key=lambda x: x.get('create_time', 0)
+    )
+    
+    latest = sorted_reviews[0]
+    post_id = latest.get('post_id')
+    
+    # Find review number (1-indexed chronological position)
+    review_number = next(
+        (i + 1 for i, r in enumerate(chronological_reviews) if r.get('post_id') == post_id),
+        None
+    )
+    
+    # Find matching post for thumbnail and stats
+    thumbnail_url = None
+    tiktok_url = f"https://www.tiktok.com/@davis_big_dawg/video/{post_id}"
+    engagement = {
+        'likes': 0,
+        'comments': 0,
+        'shares': 0,
+        'views': 0,
+        'likes_formatted': '0',
+        'comments_formatted': '0',
+        'shares_formatted': '0',
+        'views_formatted': '0'
+    }
+    
+    for post in posts_data.get('posts', []):
+        if post.get('id') == post_id:
+            # Get cover image
+            video_data = post.get('video', {})
+            cover = video_data.get('cover', '')
+            if not cover:
+                # Try cover field directly
+                cover = video_data.get('dynamicCover', '')
+            thumbnail_url = cover
+            
+            # Get engagement stats
+            stats = post.get('stats', {})
+            engagement = {
+                'likes': stats.get('diggCount', 0),
+                'comments': stats.get('commentCount', 0),
+                'shares': stats.get('shareCount', 0),
+                'views': stats.get('playCount', 0),
+                'likes_formatted': format_number(stats.get('diggCount', 0)),
+                'comments_formatted': format_number(stats.get('commentCount', 0)),
+                'shares_formatted': format_number(stats.get('shareCount', 0)),
+                'views_formatted': format_number(stats.get('playCount', 0))
+            }
+            break
+    
+    # Calculate average rating
+    foods = latest.get('foods', [])
+    if foods:
+        avg_rating = sum(f.get('score', 0) for f in foods) / len(foods)
+    else:
+        avg_rating = 0
+    
+    # Sentence case food names
+    for food in foods:
+        food['name'] = sentence_case(food.get('name', ''))
+    
+    # Get create time for date comparison
+    create_time = latest.get('create_time', 0)
+    if create_time:
+        from datetime import datetime
+        post_date = datetime.fromtimestamp(create_time).strftime('%Y-%m-%d')
+    else:
+        post_date = latest.get('date', '')
+    
+    return {
+        'post_id': post_id,
+        'day_number': latest.get('day_number'),
+        'review_number': review_number,
+        'date': post_date,
+        'foods': foods,
+        'average_rating': round(avg_rating, 1),
+        'thumbnail_url': thumbnail_url,
+        'tiktok_url': tiktok_url,
+        'engagement': engagement
+    }
+
+
 def generate_dashboard_data(reviews_json_path: Path, output_path: Path):
     """
     Generate comprehensive dashboard data file.
@@ -372,6 +481,13 @@ def generate_dashboard_data(reviews_json_path: Path, output_path: Path):
     
     username = data.get('username', 'unknown')
     reviews = data.get('reviews', [])
+    
+    # Load posts data for thumbnails
+    posts_json_path = reviews_json_path.parent / f"{username}_posts.json"
+    print(f"Loading posts from {posts_json_path}...")
+    
+    with open(posts_json_path, 'r', encoding='utf-8') as f:
+        posts_data = json.load(f)
     
     print(f"Processing {len(reviews)} reviews for @{username}...")
     
@@ -396,6 +512,9 @@ def generate_dashboard_data(reviews_json_path: Path, output_path: Path):
     
     print("  - Calculating food frequency...")
     food_frequency = calculate_food_frequency(reviews, limit=10)
+    
+    print("  - Getting latest review...")
+    latest_review = get_latest_review(reviews, posts_data)
     
     # Generate Pacific Time timestamp in desired format
     pacific_tz = ZoneInfo('America/Los_Angeles')
@@ -430,7 +549,8 @@ def generate_dashboard_data(reviews_json_path: Path, output_path: Path):
         'top_posts': top_posts,
         'key_phrases': key_phrases,
         'posts_table': posts_table,
-        'food_frequency': food_frequency
+        'food_frequency': food_frequency,
+        'latest_review': latest_review
     }
     
     # Save to file
