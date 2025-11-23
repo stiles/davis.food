@@ -184,24 +184,34 @@ body {
   border-radius: var(--radius);
   padding: 2px;
   margin-bottom: 2rem;
+  box-shadow: var(--shadow-lg);
 }
 
 .latest-review-content {
   background: var(--card-bg);
   border-radius: calc(var(--radius) - 2px);
-  padding: 2rem;
+  padding: 1.5rem;
   display: grid;
-  grid-template-columns: 200px 1fr 200px;
-  gap: 2rem;
-  align-items: start;
+  grid-template-columns: 180px 1fr 320px;
+  gap: 1.5rem;
+  align-items: center;
 }
 
 .latest-review-thumbnail {
   position: relative;
+  display: block;
   aspect-ratio: 9/16;
   border-radius: var(--radius-sm);
   overflow: hidden;
   background: var(--border-color);
+  box-shadow: var(--shadow-md);
+  transition: transform 0.2s, box-shadow 0.2s;
+  text-decoration: none;
+}
+
+.latest-review-thumbnail:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .latest-review-thumbnail img {
@@ -216,7 +226,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 3rem;
+  font-size: 2rem;
   color: var(--text-secondary);
 }
 
@@ -226,12 +236,12 @@ body {
   right: -8px;
   background: var(--tiktok-pink);
   color: var(--tiktok-white);
-  padding: 0.35rem 0.75rem;
+  padding: 0.3rem 0.7rem;
   border-radius: var(--radius-sm);
   font-size: 0.7rem;
   font-weight: 800;
-  letter-spacing: 0.05em;
-  box-shadow: 0 2px 8px rgba(254, 44, 85, 0.4);
+  letter-spacing: 0.08em;
+  box-shadow: 0 4px 12px rgba(255, 0, 80, 0.5);
   z-index: 10;
   transform: rotate(8deg);
 }
@@ -239,97 +249,107 @@ body {
 .latest-review-foods {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 0.75rem;
 }
 
 .latest-review-title {
-  font-size: 1.5rem;
-  font-weight: 700;
+  font-size: 1.35rem;
+  font-weight: 800;
   color: var(--text-primary);
   margin: 0;
+  letter-spacing: -0.02em;
 }
 
 .latest-review-meta {
   display: flex;
-  gap: 1rem;
-  font-size: 0.9rem;
-  color: var(--text-secondary);
+  align-items: center;
+  gap: 1.5rem;
 }
 
 .review-day {
-  font-weight: 600;
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--tiktok-pink);
+  text-decoration: none;
+  transition: opacity 0.2s;
+  cursor: pointer;
+}
+
+.review-day:hover {
+  opacity: 0.7;
 }
 
 .review-rating {
   display: flex;
   align-items: center;
-  gap: 0.25rem;
+  gap: 0.3rem;
+  color: var(--text-primary);
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.review-rating i {
   color: var(--tiktok-pink);
-  font-weight: 600;
+  font-size: 0.9rem;
 }
 
 .foods-list {
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
+  gap: 0.5rem;
 }
 
 .food-item {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.75rem;
+  padding: 0.5rem 0.75rem;
   background: var(--bg-color);
   border-radius: var(--radius-sm);
+  border-left: 3px solid var(--tiktok-cyan);
 }
 
 .food-name {
-  font-weight: 600;
+  font-weight: 500;
   color: var(--text-primary);
+  font-size: 0.9rem;
 }
 
 .food-score {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.25rem 0.6rem;
+  background: var(--tiktok-pink);
+  color: var(--tiktok-white);
+  border-radius: 14px;
   font-weight: 700;
-  color: var(--tiktok-pink);
-  font-size: 0.95rem;
+  font-size: 0.8rem;
+  min-width: 45px;
 }
 
 .view-review-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  padding: 0.6rem 1.2rem;
-  background: var(--tiktok-pink);
-  color: var(--tiktok-white);
-  text-decoration: none;
-  border-radius: var(--radius-sm);
-  font-weight: 600;
-  font-size: 0.9rem;
-  transition: opacity 0.2s;
-  margin-top: 0.5rem;
-}
-
-.view-review-link:hover {
-  opacity: 0.9;
+  display: none;
 }
 
 .latest-review-engagement {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 0.75rem;
 }
 
 .engagement-title {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
   font-weight: 700;
   color: var(--text-primary);
   margin: 0;
+  text-align: center;
 }
 
 .engagement-stats {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
 }
 
 .engagement-stat {
@@ -337,27 +357,32 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 0.75rem;
-  background: var(--bg-color);
+  background: transparent;
   border-radius: var(--radius-sm);
+  text-align: center;
 }
 
 .engagement-stat i {
-  font-size: 1.2rem;
-  color: var(--tiktok-cyan);
-  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  color: var(--text-primary);
+  margin-bottom: 0.35rem;
 }
 
 .engagement-stat .stat-number {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font-weight: 700;
   color: var(--text-primary);
+  line-height: 1;
+  margin-bottom: 0.25rem;
+  letter-spacing: -0.01em;
 }
 
 .engagement-stat .stat-label {
-  font-size: 0.75rem;
+  font-size: 0.65rem;
   color: var(--text-secondary);
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.08em;
+  font-weight: 600;
 }
 
 /* Stats Cards */
@@ -1087,17 +1112,42 @@ body {
   }
   
   .latest-review-content {
-    grid-template-columns: 150px 1fr 150px;
-    gap: 1.5rem;
-    padding: 1.5rem;
+    grid-template-columns: 150px 1fr 280px;
+    gap: 1.25rem;
+    padding: 1.25rem;
+  }
+  
+  .latest-review-title {
+    font-size: 1.2rem;
+  }
+  
+  .review-day,
+  .review-rating {
+    font-size: 0.9rem;
+  }
+  
+  .engagement-title {
+    font-size: 1rem;
   }
   
   .engagement-stats {
-    gap: 0.75rem;
+    gap: 0.5rem;
   }
   
   .engagement-stat {
     padding: 0.5rem;
+  }
+  
+  .engagement-stat i {
+    font-size: 1rem;
+  }
+  
+  .engagement-stat .stat-number {
+    font-size: 1.15rem;
+  }
+  
+  .engagement-stat .stat-label {
+    font-size: 0.6rem;
   }
   
   .stats-cards {
@@ -1132,14 +1182,48 @@ body {
   }
   
   .latest-review-thumbnail {
-    max-width: 250px;
+    max-width: 200px;
     margin: 0 auto;
   }
   
+  .latest-review-title {
+    font-size: 1.25rem;
+    text-align: center;
+  }
+  
+  .latest-review-meta {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .review-day,
+  .review-rating {
+    font-size: 0.9rem;
+  }
+  
+  .foods-list {
+    gap: 0.65rem;
+  }
+  
+  .engagement-title {
+    font-size: 1.1rem;
+  }
+  
   .engagement-stats {
-    display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 0.75rem;
+  }
+  
+  .engagement-stat i {
+    font-size: 0.95rem;
+  }
+  
+  .engagement-stat .stat-number {
+    font-size: 1.1rem;
+  }
+  
+  .engagement-stat .stat-label {
+    font-size: 0.6rem;
   }
   
   .hero-content {

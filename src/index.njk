@@ -10,7 +10,7 @@ title: davis.food - School Lunch Reviews Dashboard
     <div class="latest-review-card">
       <div class="latest-review-content">
         <!-- Thumbnail -->
-        <div class="latest-review-thumbnail" data-review-date="{{ dashboard.latest_review.date }}">
+        <a href="{{ dashboard.latest_review.tiktok_url }}" target="_blank" rel="noopener noreferrer" class="latest-review-thumbnail" data-review-date="{{ dashboard.latest_review.date }}">
           {% if dashboard.latest_review.thumbnail_url %}
           <img src="{{ dashboard.latest_review.thumbnail_url }}" alt="Latest review thumbnail">
           {% else %}
@@ -18,14 +18,14 @@ title: davis.food - School Lunch Reviews Dashboard
             <i class="fas fa-video"></i>
           </div>
           {% endif %}
-        </div>
+        </a>
         
         <!-- Foods and Scores -->
         <div class="latest-review-foods">
           <h3 class="latest-review-title">Latest review</h3>
           <div class="latest-review-meta">
             {% if dashboard.latest_review.day_number %}
-            <span class="review-day">Review #{{ dashboard.latest_review.review_number or dashboard.latest_review.day_number }}</span>
+            <a href="{{ dashboard.latest_review.tiktok_url }}" target="_blank" rel="noopener noreferrer" class="review-day">Review #{{ dashboard.latest_review.review_number or dashboard.latest_review.day_number }}</a>
             {% endif %}
             <span class="review-rating">
               <i class="fas fa-star"></i>
