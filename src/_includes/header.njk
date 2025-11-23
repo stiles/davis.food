@@ -1,0 +1,53 @@
+<header class="site-header">
+  <div class="header-content">
+    <div class="site-title">
+      <h1>davis.food</h1>
+    </div>
+    
+    <nav class="header-nav">
+      <a href="https://www.tiktok.com/@davis_big_dawg" target="_blank" rel="noopener noreferrer" class="tiktok-link">
+        <i class="fab fa-tiktok"></i>
+        @davis_big_dawg
+      </a>
+    </nav>
+  </div>
+</header>
+
+<!-- Hero section with tagline and animated phrases -->
+<div class="hero-section">
+  <div class="hero-content">
+    <h2 class="hero-title">Tracking Davis' school lunch reviews</h2>
+    <p class="hero-subtitle">A dashboard to chronicle the middle schooler whose cafeteria critiques made him TikTok famous. <strong>Updated regularly.</strong></p>
+  </div>
+  
+  <!-- Subtle animated phrases -->
+  <div class="phrases-ticker" aria-hidden="true">
+    <div class="ticker-track" id="ticker-track">
+      {% if dashboard.key_phrases and dashboard.key_phrases.length > 0 %}
+        {% for phrase in dashboard.key_phrases %}
+          <span class="phrase">"{{ phrase }}"</span>
+          <span class="phrase-separator"><i class="fas fa-utensils"></i></span>
+        {% endfor %}
+        <!-- Duplicate for seamless loop -->
+        {% for phrase in dashboard.key_phrases %}
+          <span class="phrase">"{{ phrase }}"</span>
+          <span class="phrase-separator"><i class="fas fa-utensils"></i></span>
+        {% endfor %}
+      {% else %}
+        <span class="phrase">"Pretty good"</span>
+        <span class="phrase-separator"><i class="fas fa-utensils"></i></span>
+        <span class="phrase">"Really good"</span>
+        <span class="phrase-separator"><i class="fas fa-utensils"></i></span>
+        <span class="phrase">"Super bland"</span>
+        <span class="phrase-separator"><i class="fas fa-utensils"></i></span>
+        <span class="phrase">"Nice and crispy"</span>
+        <span class="phrase-separator"><i class="fas fa-utensils"></i></span>
+        <span class="phrase">"Not that great"</span>
+        <span class="phrase-separator"><i class="fas fa-utensils"></i></span>
+        <span class="phrase">"I love this"</span>
+        <span class="phrase-separator"><i class="fas fa-utensils"></i></span>
+      {% endif %}
+    </div>
+  </div>
+</div>
+

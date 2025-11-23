@@ -1,0 +1,258 @@
+---
+layout: layout.njk
+title: davis.food - School Lunch Reviews Dashboard
+---
+
+<div class="container">
+  <!-- Key Stats Cards -->
+  <section class="stats-section">
+    <div class="section-header">
+      <h2 class="section-title">Davis' reviews at a glance</h2>
+      <p class="section-subtitle">Summary statistics from all school lunch reviews</p>
+    </div>
+  <div class="stats-cards">
+    <div class="stat-card">
+      <div class="stat-icon"><i class="fas fa-video"></i></div>
+      <div class="stat-content">
+        <div class="stat-value">{{ dashboard.overall_metrics.school_lunch_reviews }}</div>
+        <div class="stat-label">School lunch reviews</div>
+      </div>
+    </div>
+    
+    <div class="stat-card">
+      <div class="stat-icon"><i class="fas fa-star"></i></div>
+      <div class="stat-content">
+        <div class="stat-value">{{ dashboard.overall_metrics.overall_average_rating | ratingFormat }}</div>
+        <div class="stat-label">Average rating</div>
+      </div>
+    </div>
+    
+    <div class="stat-card">
+      <div class="stat-icon"><i class="fas fa-utensils"></i></div>
+      <div class="stat-content">
+        <div class="stat-value">{{ dashboard.overall_metrics.total_food_items }}</div>
+        <div class="stat-label">Food items reviewed</div>
+      </div>
+    </div>
+    
+    <div class="stat-card">
+      <div class="stat-icon">
+        {% if dashboard.overall_metrics.favorite_category == "drink" %}
+          <i class="fas fa-glass-water"></i>
+        {% elif dashboard.overall_metrics.favorite_category == "dessert" %}
+          <i class="fas fa-ice-cream"></i>
+        {% elif dashboard.overall_metrics.favorite_category == "main_dish" %}
+          <i class="fas fa-hamburger"></i>
+        {% elif dashboard.overall_metrics.favorite_category == "side" %}
+          <i class="fas fa-drumstick-bite"></i>
+        {% elif dashboard.overall_metrics.favorite_category == "snack" %}
+          <i class="fas fa-cookie-bite"></i>
+        {% else %}
+          <i class="fas fa-utensils"></i>
+        {% endif %}
+      </div>
+      <div class="stat-content">
+        <div class="stat-value">{{ dashboard.overall_metrics.favorite_category | categoryFormat }}</div>
+        <div class="stat-label">Top-rated category</div>
+      </div>
+    </div>
+  </div>
+  </section>
+
+  <!-- Charts Section -->
+  <section class="charts-section">
+    <div class="chart-row">
+      <div class="chart-container">
+        <h2>Cumulative views over time</h2>
+        <div id="views-chart" class="chart"></div>
+      </div>
+      
+      <div class="chart-container">
+        <h2>Cumulative likes over time</h2>
+        <div id="likes-chart" class="chart"></div>
+      </div>
+    </div>
+    
+    <div class="chart-row">
+      <div class="chart-container">
+        <h2>Average ratings by category</h2>
+        <div id="category-chart" class="chart"></div>
+      </div>
+      
+      <div class="chart-container">
+        <h2>Most reviewed foods</h2>
+        <div id="food-frequency-chart" class="chart"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Top Posts Grid -->
+  <section class="top-posts-section">
+    <div class="section-header">
+      <h2 class="section-title">Most popular reviews</h2>
+      <p class="section-subtitle">Top posts ranked by total engagement (likes, comments, shares)</p>
+    </div>
+    <div class="top-posts-grid">
+      {% for post in dashboard.top_posts %}
+        <div class="post-card">
+          <div class="post-header">
+            {% if post.day_number %}
+              <span class="day-badge">Day {{ post.day_number }}</span>
+            {% endif %}
+            <span class="date">{{ post.date | readableDate }}</span>
+          </div>
+          
+          <div class="post-stats">
+            <div class="post-stat">
+              <i class="fas fa-heart"></i>
+              <span class="stat-number">{{ post.likes_formatted }}</span>
+            </div>
+            <div class="post-stat">
+              <i class="fas fa-eye"></i>
+              <span class="stat-number">{{ post.views_formatted }}</span>
+            </div>
+            <div class="post-stat">
+              <i class="fas fa-comment"></i>
+              <span class="stat-number">{{ post.comments_formatted }}</span>
+            </div>
+          </div>
+          
+          <div class="post-rating">
+            <div class="rating-label">Average rating</div>
+            {% if post.average_rating %}
+              <div>
+                <span class="rating-value">{{ post.average_rating | ratingFormat }}</span>
+                <span class="rating-max">/10</span>
+              </div>
+            {% else %}
+              <span class="rating-na">N/A</span>
+            {% endif %}
+          </div>
+          
+          <div class="post-footer">
+            <span class="food-count">{{ post.food_count }} items</span>
+            {% if post.tiktok_url %}
+              <a href="{{ post.tiktok_url }}" target="_blank" rel="noopener noreferrer" class="view-link">
+                View on TikTok →
+              </a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- All Posts Table -->
+  <section class="posts-table-section">
+    <div class="section-header">
+      <h2 class="section-title">Complete review archive</h2>
+      <p class="section-subtitle">Tap any review to see details</p>
+    </div>
+    <div class="table-controls">
+      <input type="text" id="search-input" placeholder="Search reviews..." class="search-input">
+    </div>
+    
+    <div class="reviews-header">
+      <div class="reviews-header-row">
+        <div class="header-col-review">Review</div>
+        <div class="header-col-date">Date</div>
+        <div class="header-col-rating">Rating</div>
+      </div>
+    </div>
+    
+    <div class="reviews-list" id="reviews-list">
+      {% for post in dashboard.posts_table %}
+        <div class="review-row" data-day="{{ post.day_number or '' }}" data-date="{{ post.timestamp }}" data-rating="{{ post.average_rating or 0 }}" data-views="{{ post.views }}" data-likes="{{ post.likes }}" data-comments="{{ post.comments }}" data-foods="{{ post.food_count }}">
+          <div class="review-row-header">
+            <div class="review-main-info">
+              <div class="review-day">
+                {% if post.review_number %}
+                  #{{ post.review_number }}
+                {% else %}
+                  —
+                {% endif %}
+              </div>
+              <div class="review-date">
+                <time datetime="{{ post.date }}">{{ post.date | readableDate }}</time>
+              </div>
+              <div class="review-rating">
+                {% if post.average_rating %}
+                  <span class="rating-badge">{{ post.average_rating | ratingFormat }}</span>
+                {% else %}
+                  <span class="rating-na">N/A</span>
+                {% endif %}
+              </div>
+            </div>
+            <button class="review-expand-btn" aria-label="Expand review details">
+              <i class="fas fa-chevron-down"></i>
+            </button>
+          </div>
+          <div class="review-details">
+            {% if post.foods and post.foods.length > 0 %}
+              <div class="foods-list">
+                <h4 class="foods-title">Items reviewed</h4>
+                <div class="food-items">
+                  {% for food in post.foods %}
+                    <div class="food-item">
+                      <span class="food-name">{{ food.name }}</span>
+                      {% if food.score %}
+                        <span class="food-score">{{ food.score }}</span>
+                      {% else %}
+                        <span class="food-score-na">N/A</span>
+                      {% endif %}
+                    </div>
+                  {% endfor %}
+                </div>
+              </div>
+            {% endif %}
+            
+            <div class="review-stats">
+              <div class="stat-item">
+                <i class="fas fa-eye"></i>
+                <span class="stat-label">Views</span>
+                <span class="stat-value">{{ post.views | shortNumber }}</span>
+              </div>
+              <div class="stat-item">
+                <i class="fas fa-heart"></i>
+                <span class="stat-label">Likes</span>
+                <span class="stat-value">{{ post.likes | shortNumber }}</span>
+              </div>
+              <div class="stat-item">
+                <i class="fas fa-comment"></i>
+                <span class="stat-label">Comments</span>
+                <span class="stat-value">{{ post.comments | shortNumber }}</span>
+              </div>
+              <div class="stat-item">
+                <i class="fas fa-utensils"></i>
+                <span class="stat-label">Items</span>
+                <span class="stat-value">{{ post.food_count }}</span>
+              </div>
+            </div>
+            {% if post.tiktok_url %}
+              <a href="{{ post.tiktok_url }}" target="_blank" rel="noopener noreferrer" class="review-link">
+                <i class="fab fa-tiktok"></i> View on TikTok
+              </a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    
+    <div class="show-more-container">
+      <button id="show-more-btn" class="show-more-btn">
+        <span class="show-more-text">Show more</span>
+        <i class="fas fa-chevron-down"></i>
+      </button>
+    </div>
+  </section>
+</div>
+
+<!-- Pass data to JavaScript for charts -->
+<script>
+  window.dashboardData = {
+    timeSeries: {{ dashboard.time_series | dump | safe }},
+    categoryStats: {{ dashboard.category_stats | dump | safe }},
+    postsTable: {{ dashboard.posts_table | dump | safe }},
+    foodFrequency: {{ dashboard.food_frequency | dump | safe }}
+  };
+</script>

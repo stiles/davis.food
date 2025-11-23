@@ -1,0 +1,1693 @@
+{
+  "generated_at": "2025-11-23T07:57:58.521996-08:00",
+  "generated_at_formatted": "Nov. 23, 2025, at 7 a.m. PT",
+  "username": "davis_big_dawg",
+  "overall_metrics": {
+    "total_reviews": 32,
+    "school_lunch_reviews": 31,
+    "total_food_items": 131,
+    "overall_average_rating": 6.44,
+    "favorite_category": "drink",
+    "category_counts": {
+      "main_dish": 34,
+      "drink": 13,
+      "side": 46,
+      "dessert": 5,
+      "other": 17,
+      "snack": 14,
+      "condiment": 2
+    }
+  },
+  "category_stats": {
+    "main_dish": {
+      "average_rating": 6.51,
+      "count": 34,
+      "min": 3,
+      "max": 9
+    },
+    "drink": {
+      "average_rating": 7.58,
+      "count": 13,
+      "min": 5,
+      "max": 9
+    },
+    "side": {
+      "average_rating": 5.89,
+      "count": 46,
+      "min": 1,
+      "max": 8.5
+    },
+    "dessert": {
+      "average_rating": 7.4,
+      "count": 5,
+      "min": 5.5,
+      "max": 9
+    },
+    "other": {
+      "average_rating": 6.21,
+      "count": 17,
+      "min": 0,
+      "max": 9
+    },
+    "snack": {
+      "average_rating": 7.07,
+      "count": 14,
+      "min": 4,
+      "max": 9
+    },
+    "condiment": {
+      "average_rating": 5.75,
+      "count": 2,
+      "min": 5.5,
+      "max": 6
+    }
+  },
+  "time_series": [
+    {
+      "date": "2025-09-22",
+      "timestamp": 1758564718,
+      "day_number": null,
+      "cumulative_likes": 175300,
+      "cumulative_views": 1900000,
+      "cumulative_comments": 3408,
+      "cumulative_shares": 6631
+    },
+    {
+      "date": "2025-09-24",
+      "timestamp": 1758751582,
+      "day_number": 2,
+      "cumulative_likes": 655500,
+      "cumulative_views": 7100000,
+      "cumulative_comments": 11688,
+      "cumulative_shares": 22031
+    },
+    {
+      "date": "2025-09-25",
+      "timestamp": 1758827114,
+      "day_number": 3,
+      "cumulative_likes": 841700,
+      "cumulative_views": 10600000,
+      "cumulative_comments": 15384,
+      "cumulative_shares": 28569
+    },
+    {
+      "date": "2025-09-26",
+      "timestamp": 1758924744,
+      "day_number": 4,
+      "cumulative_likes": 1256600,
+      "cumulative_views": 15900000,
+      "cumulative_comments": 24866,
+      "cumulative_shares": 65769
+    },
+    {
+      "date": "2025-09-29",
+      "timestamp": 1759170184,
+      "day_number": 5,
+      "cumulative_likes": 2105000,
+      "cumulative_views": 25400000,
+      "cumulative_comments": 36766,
+      "cumulative_shares": 117969
+    },
+    {
+      "date": "2025-09-30",
+      "timestamp": 1759256591,
+      "day_number": 6,
+      "cumulative_likes": 2573600,
+      "cumulative_views": 30300000,
+      "cumulative_comments": 46190,
+      "cumulative_shares": 139469
+    },
+    {
+      "date": "2025-10-01",
+      "timestamp": 1759346710,
+      "day_number": 7,
+      "cumulative_likes": 3153100,
+      "cumulative_views": 38900000,
+      "cumulative_comments": 57690,
+      "cumulative_shares": 182969
+    },
+    {
+      "date": "2025-10-02",
+      "timestamp": 1759445263,
+      "day_number": null,
+      "cumulative_likes": 3589500,
+      "cumulative_views": 41900000,
+      "cumulative_comments": 67165,
+      "cumulative_shares": 194369
+    },
+    {
+      "date": "2025-10-03",
+      "timestamp": 1759543925,
+      "day_number": 8,
+      "cumulative_likes": 3660500,
+      "cumulative_views": 42607100,
+      "cumulative_comments": 69232,
+      "cumulative_shares": 195474
+    },
+    {
+      "date": "2025-10-06",
+      "timestamp": 1759783208,
+      "day_number": 9,
+      "cumulative_likes": 3972000,
+      "cumulative_views": 45407100,
+      "cumulative_comments": 77563,
+      "cumulative_shares": 206974
+    },
+    {
+      "date": "2025-10-07",
+      "timestamp": 1759867566,
+      "day_number": 10,
+      "cumulative_likes": 4219300,
+      "cumulative_views": 47307100,
+      "cumulative_comments": 83533,
+      "cumulative_shares": 214331
+    },
+    {
+      "date": "2025-10-08",
+      "timestamp": 1759946716,
+      "day_number": 11,
+      "cumulative_likes": 4483900,
+      "cumulative_views": 49407100,
+      "cumulative_comments": 89630,
+      "cumulative_shares": 222495
+    },
+    {
+      "date": "2025-10-09",
+      "timestamp": 1760037767,
+      "day_number": 12,
+      "cumulative_likes": 4652700,
+      "cumulative_views": 50807100,
+      "cumulative_comments": 94972,
+      "cumulative_shares": 227021
+    },
+    {
+      "date": "2025-10-10",
+      "timestamp": 1760130461,
+      "day_number": 13,
+      "cumulative_likes": 4863500,
+      "cumulative_views": 52507100,
+      "cumulative_comments": 100592,
+      "cumulative_shares": 233043
+    },
+    {
+      "date": "2025-10-13",
+      "timestamp": 1760388736,
+      "day_number": 14,
+      "cumulative_likes": 5024000,
+      "cumulative_views": 53907100,
+      "cumulative_comments": 104845,
+      "cumulative_shares": 236212
+    },
+    {
+      "date": "2025-10-14",
+      "timestamp": 1760472535,
+      "day_number": 15,
+      "cumulative_likes": 5170900,
+      "cumulative_views": 54907100,
+      "cumulative_comments": 108543,
+      "cumulative_shares": 239827
+    },
+    {
+      "date": "2025-10-15",
+      "timestamp": 1760553990,
+      "day_number": 16,
+      "cumulative_likes": 5403400,
+      "cumulative_views": 56507100,
+      "cumulative_comments": 115318,
+      "cumulative_shares": 245927
+    },
+    {
+      "date": "2025-10-16",
+      "timestamp": 1760643637,
+      "day_number": 17,
+      "cumulative_likes": 5518800,
+      "cumulative_views": 57314800,
+      "cumulative_comments": 118778,
+      "cumulative_shares": 248795
+    },
+    {
+      "date": "2025-10-20",
+      "timestamp": 1760995349,
+      "day_number": 18,
+      "cumulative_likes": 5657900,
+      "cumulative_views": 58182600,
+      "cumulative_comments": 122643,
+      "cumulative_shares": 251204
+    },
+    {
+      "date": "2025-10-21",
+      "timestamp": 1761074001,
+      "day_number": 19,
+      "cumulative_likes": 5743300,
+      "cumulative_views": 58721100,
+      "cumulative_comments": 125680,
+      "cumulative_shares": 252476
+    },
+    {
+      "date": "2025-10-23",
+      "timestamp": 1761256271,
+      "day_number": 20,
+      "cumulative_likes": 5859300,
+      "cumulative_views": 59397800,
+      "cumulative_comments": 129195,
+      "cumulative_shares": 254598
+    },
+    {
+      "date": "2025-10-24",
+      "timestamp": 1761344806,
+      "day_number": 21,
+      "cumulative_likes": 5985900,
+      "cumulative_views": 60192200,
+      "cumulative_comments": 131957,
+      "cumulative_shares": 256634
+    },
+    {
+      "date": "2025-10-27",
+      "timestamp": 1761602860,
+      "day_number": 22,
+      "cumulative_likes": 6061100,
+      "cumulative_views": 60647200,
+      "cumulative_comments": 133664,
+      "cumulative_shares": 257924
+    },
+    {
+      "date": "2025-10-28",
+      "timestamp": 1761693210,
+      "day_number": 23,
+      "cumulative_likes": 6189500,
+      "cumulative_views": 61510200,
+      "cumulative_comments": 135820,
+      "cumulative_shares": 259730
+    },
+    {
+      "date": "2025-10-30",
+      "timestamp": 1761855870,
+      "day_number": 24,
+      "cumulative_likes": 6269500,
+      "cumulative_views": 61998900,
+      "cumulative_comments": 137579,
+      "cumulative_shares": 260972
+    },
+    {
+      "date": "2025-11-06",
+      "timestamp": 1762462110,
+      "day_number": 25,
+      "cumulative_likes": 6339400,
+      "cumulative_views": 62429200,
+      "cumulative_comments": 139559,
+      "cumulative_shares": 262009
+    },
+    {
+      "date": "2025-11-07",
+      "timestamp": 1762551338,
+      "day_number": 26,
+      "cumulative_likes": 6401900,
+      "cumulative_views": 62888000,
+      "cumulative_comments": 141091,
+      "cumulative_shares": 262911
+    },
+    {
+      "date": "2025-11-10",
+      "timestamp": 1762821287,
+      "day_number": 26,
+      "cumulative_likes": 6462600,
+      "cumulative_views": 63296900,
+      "cumulative_comments": 142782,
+      "cumulative_shares": 263705
+    },
+    {
+      "date": "2025-11-12",
+      "timestamp": 1762982988,
+      "day_number": 27,
+      "cumulative_likes": 6517100,
+      "cumulative_views": 63612500,
+      "cumulative_comments": 143999,
+      "cumulative_shares": 264578
+    },
+    {
+      "date": "2025-11-17",
+      "timestamp": 1763424806,
+      "day_number": 28,
+      "cumulative_likes": 6557100,
+      "cumulative_views": 63825500,
+      "cumulative_comments": 144913,
+      "cumulative_shares": 265059
+    },
+    {
+      "date": "2025-11-18",
+      "timestamp": 1763501305,
+      "day_number": 29,
+      "cumulative_likes": 6604600,
+      "cumulative_views": 64087200,
+      "cumulative_comments": 146063,
+      "cumulative_shares": 265745
+    },
+    {
+      "date": "2025-11-21",
+      "timestamp": 1763763162,
+      "day_number": 30,
+      "cumulative_likes": 6637500,
+      "cumulative_views": 64261100,
+      "cumulative_comments": 147987,
+      "cumulative_shares": 266144
+    }
+  ],
+  "top_posts": [
+    {
+      "post_id": "7555578354791877901",
+      "day_number": 5,
+      "date": "2025-09-29",
+      "timestamp": 1759170184,
+      "engagement_score": 912500,
+      "likes": 848400,
+      "likes_formatted": "848K",
+      "views": 9500000,
+      "views_formatted": "9.5M",
+      "comments": 11900,
+      "comments_formatted": "12K",
+      "shares": 52200,
+      "average_rating": 6.67,
+      "food_count": 6,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7555578354791877901",
+      "thumbnail_url": "https://www.tiktok.com/@davis_big_dawg/video/7555578354791877901"
+    },
+    {
+      "post_id": "7556336396600937742",
+      "day_number": 7,
+      "date": "2025-10-01",
+      "timestamp": 1759346710,
+      "engagement_score": 634500,
+      "likes": 579500,
+      "likes_formatted": "580K",
+      "views": 8600000,
+      "views_formatted": "8.6M",
+      "comments": 11500,
+      "comments_formatted": "12K",
+      "shares": 43500,
+      "average_rating": 6.3,
+      "food_count": 5,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7556336396600937742",
+      "thumbnail_url": "https://www.tiktok.com/@davis_big_dawg/video/7556336396600937742"
+    },
+    {
+      "post_id": "7553780390721260855",
+      "day_number": 2,
+      "date": "2025-09-24",
+      "timestamp": 1758751582,
+      "engagement_score": 503880,
+      "likes": 480200,
+      "likes_formatted": "480K",
+      "views": 5200000,
+      "views_formatted": "5.2M",
+      "comments": 8280,
+      "comments_formatted": "8K",
+      "shares": 15400,
+      "average_rating": 4.5,
+      "food_count": 4,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7553780390721260855",
+      "thumbnail_url": "https://www.tiktok.com/@davis_big_dawg/video/7553780390721260855"
+    },
+    {
+      "post_id": "7555949335674981645",
+      "day_number": 6,
+      "date": "2025-09-30",
+      "timestamp": 1759256591,
+      "engagement_score": 499524,
+      "likes": 468600,
+      "likes_formatted": "469K",
+      "views": 4900000,
+      "views_formatted": "4.9M",
+      "comments": 9424,
+      "comments_formatted": "9K",
+      "shares": 21500,
+      "average_rating": 7.4,
+      "food_count": 5,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7555949335674981645",
+      "thumbnail_url": "https://www.tiktok.com/@davis_big_dawg/video/7555949335674981645"
+    },
+    {
+      "post_id": "7554524188732706103",
+      "day_number": 4,
+      "date": "2025-09-26",
+      "timestamp": 1758924744,
+      "engagement_score": 461582,
+      "likes": 414900,
+      "likes_formatted": "415K",
+      "views": 5300000,
+      "views_formatted": "5.3M",
+      "comments": 9482,
+      "comments_formatted": "9K",
+      "shares": 37200,
+      "average_rating": 5.5,
+      "food_count": 4,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7554524188732706103",
+      "thumbnail_url": "https://www.tiktok.com/@davis_big_dawg/video/7554524188732706103"
+    },
+    {
+      "post_id": "7558211203458174222",
+      "day_number": 9,
+      "date": "2025-10-06",
+      "timestamp": 1759783208,
+      "engagement_score": 331331,
+      "likes": 311500,
+      "likes_formatted": "312K",
+      "views": 2800000,
+      "views_formatted": "2.8M",
+      "comments": 8331,
+      "comments_formatted": "8K",
+      "shares": 11500,
+      "average_rating": 5.25,
+      "food_count": 4,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7558211203458174222",
+      "thumbnail_url": "https://www.tiktok.com/@davis_big_dawg/video/7558211203458174222"
+    }
+  ],
+  "key_phrases": [
+    "Pretty good",
+    "Pretty good",
+    "Really good",
+    "It's kind of mushy",
+    "It's pretty good",
+    "Super good",
+    "Super bland",
+    "It's not that great",
+    "It's pretty good",
+    "It's kind of dry, but it's still pretty good",
+    "One of my favorite sodas",
+    "Mixing the turkey with that will be very good",
+    "Not the biggest green bean guy",
+    "Nice and hot",
+    "Definitely some seasoning",
+    "That's really good",
+    "Kind of unfortunate, but very good",
+    "It's nice and moist",
+    "It's not dry",
+    "It's kind of soggy",
+    "I love apple juice",
+    "The chicken is really good, though",
+    "Not that great",
+    "Very, very mediocre",
+    "How's the porky taste? not that great",
+    "The bread is pretty good",
+    "It's very dry, though",
+    "The barbecue sauce definitely, like, kind of carries it",
+    "Um, which is kind of unfortunate",
+    "They're still pretty good, though"
+  ],
+  "posts_table": [
+    {
+      "post_id": "7575304937580547342",
+      "day_number": 30,
+      "date": "2025-11-21",
+      "timestamp": 1763763162,
+      "average_rating": 7.0,
+      "food_count": 2,
+      "foods": [
+        {
+          "name": "Burger on a biscuit",
+          "score": 6,
+          "category": "main_dish"
+        },
+        {
+          "name": "Tropical Lime Baha Blast",
+          "score": 8,
+          "category": "drink"
+        }
+      ],
+      "likes": 32900,
+      "views": 173900,
+      "comments": 1924,
+      "shares": 399,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7575304937580547342",
+      "needs_review": false,
+      "review_number": 31
+    },
+    {
+      "post_id": "7574180246979759373",
+      "day_number": 29,
+      "date": "2025-11-18",
+      "timestamp": 1763501305,
+      "average_rating": 6.9,
+      "food_count": 5,
+      "foods": [
+        {
+          "name": "Turkey with gravy",
+          "score": 8,
+          "category": "main_dish"
+        },
+        {
+          "name": "Stuffing",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Mashed potatoes",
+          "score": 7,
+          "category": "side"
+        },
+        {
+          "name": "Green beans",
+          "score": 5,
+          "category": "side"
+        },
+        {
+          "name": "Apple cobbler",
+          "score": 8.5,
+          "category": "dessert"
+        }
+      ],
+      "likes": 47500,
+      "views": 261700,
+      "comments": 1150,
+      "shares": 686,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7574180246979759373",
+      "needs_review": false,
+      "review_number": 30
+    },
+    {
+      "post_id": "7573851741700033805",
+      "day_number": 28,
+      "date": "2025-11-17",
+      "timestamp": 1763424806,
+      "average_rating": 6.5,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Barbecue sandwich",
+          "score": 7.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Curly fries",
+          "score": 5,
+          "category": "side"
+        },
+        {
+          "name": "Cheesy broccoli",
+          "score": 5.5,
+          "category": "side"
+        },
+        {
+          "name": "Apple juice",
+          "score": 8,
+          "category": "drink"
+        }
+      ],
+      "likes": 40000,
+      "views": 213000,
+      "comments": 914,
+      "shares": 481,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7573851741700033805",
+      "needs_review": false,
+      "review_number": 29
+    },
+    {
+      "post_id": "7571954131267505421",
+      "day_number": 27,
+      "date": "2025-11-12",
+      "timestamp": 1762982988,
+      "average_rating": 6.75,
+      "food_count": 2,
+      "foods": [
+        {
+          "name": "Orange chicken and rice",
+          "score": 7.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Cucumbers with ranch",
+          "score": 6,
+          "category": "side"
+        }
+      ],
+      "likes": 54500,
+      "views": 315600,
+      "comments": 1217,
+      "shares": 873,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7571954131267505421",
+      "needs_review": false,
+      "review_number": 28
+    },
+    {
+      "post_id": "7571259716605726007",
+      "day_number": 26,
+      "date": "2025-11-10",
+      "timestamp": 1762821287,
+      "average_rating": 5.38,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Cheese bites",
+          "score": 4.5,
+          "category": "other"
+        },
+        {
+          "name": "Tater tots",
+          "score": 5,
+          "category": "side"
+        },
+        {
+          "name": "Corn",
+          "score": 5,
+          "category": "side"
+        },
+        {
+          "name": "Unknown food",
+          "score": 7,
+          "category": "other"
+        }
+      ],
+      "likes": 60700,
+      "views": 408900,
+      "comments": 1691,
+      "shares": 794,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7571259716605726007",
+      "needs_review": true,
+      "review_number": 27
+    },
+    {
+      "post_id": "7570100193492782350",
+      "day_number": 26,
+      "date": "2025-11-07",
+      "timestamp": 1762551338,
+      "average_rating": 6.67,
+      "food_count": 3,
+      "foods": [
+        {
+          "name": "Rib sandwich",
+          "score": 7,
+          "category": "main_dish"
+        },
+        {
+          "name": "Taylor Farm grapes",
+          "score": 5,
+          "category": "snack"
+        },
+        {
+          "name": "Zero sugar soda",
+          "score": 8,
+          "category": "drink"
+        }
+      ],
+      "likes": 62500,
+      "views": 458800,
+      "comments": 1532,
+      "shares": 902,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7570100193492782350",
+      "needs_review": false,
+      "review_number": 26
+    },
+    {
+      "post_id": "7569717058095598861",
+      "day_number": 25,
+      "date": "2025-11-06",
+      "timestamp": 1762462110,
+      "average_rating": 7.0,
+      "food_count": 3,
+      "foods": [
+        {
+          "name": "Original Doritos",
+          "score": 7,
+          "category": "snack"
+        },
+        {
+          "name": "Turkey and cheese sub",
+          "score": 6,
+          "category": "main_dish"
+        },
+        {
+          "name": "Zero sugar Sprite",
+          "score": 8,
+          "category": "drink"
+        }
+      ],
+      "likes": 69900,
+      "views": 430300,
+      "comments": 1980,
+      "shares": 1037,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7569717058095598861",
+      "needs_review": false,
+      "review_number": 25
+    },
+    {
+      "post_id": "7567113282427931918",
+      "day_number": 24,
+      "date": "2025-10-30",
+      "timestamp": 1761855870,
+      "average_rating": 7.0,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Spaghetti",
+          "score": 8,
+          "category": "main_dish"
+        },
+        {
+          "name": "Breadstick",
+          "score": 7,
+          "category": "side"
+        },
+        {
+          "name": "Salad",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Strawberry lemonade",
+          "score": 7,
+          "category": "drink"
+        }
+      ],
+      "likes": 80000,
+      "views": 488700,
+      "comments": 1759,
+      "shares": 1242,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7567113282427931918",
+      "needs_review": false,
+      "review_number": 24
+    },
+    {
+      "post_id": "7566414605166136590",
+      "day_number": 23,
+      "date": "2025-10-28",
+      "timestamp": 1761693210,
+      "average_rating": 6.5,
+      "food_count": 2,
+      "foods": [
+        {
+          "name": "Chicken fajita burrito",
+          "score": 7,
+          "category": "main_dish"
+        },
+        {
+          "name": "Cucumbers",
+          "score": 6,
+          "category": "side"
+        }
+      ],
+      "likes": 128400,
+      "views": 863000,
+      "comments": 2156,
+      "shares": 1806,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7566414605166136590",
+      "needs_review": false,
+      "review_number": 23
+    },
+    {
+      "post_id": "7566026545400122637",
+      "day_number": 22,
+      "date": "2025-10-27",
+      "timestamp": 1761602860,
+      "average_rating": 5.5,
+      "food_count": 5,
+      "foods": [
+        {
+          "name": "Meatball sub",
+          "score": 6.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Fry with ranch",
+          "score": 3,
+          "category": "side"
+        },
+        {
+          "name": "Fry with ketchup",
+          "score": 4,
+          "category": "side"
+        },
+        {
+          "name": "Carrot",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Zero Sugar Mountain Dew",
+          "score": 8,
+          "category": "drink"
+        }
+      ],
+      "likes": 75200,
+      "views": 455000,
+      "comments": 1707,
+      "shares": 1290,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7566026545400122637",
+      "needs_review": false,
+      "review_number": 22
+    },
+    {
+      "post_id": "7564918210517044494",
+      "day_number": 21,
+      "date": "2025-10-24",
+      "timestamp": 1761344806,
+      "average_rating": 7.3,
+      "food_count": 5,
+      "foods": [
+        {
+          "name": "Grilled cheese",
+          "score": 8.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Curly fries",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Carrots",
+          "score": 7,
+          "category": "side"
+        },
+        {
+          "name": "Applesauce",
+          "score": 9,
+          "category": "snack"
+        },
+        {
+          "name": "Zero sugar lemonade",
+          "score": 6,
+          "category": "drink"
+        }
+      ],
+      "likes": 126600,
+      "views": 794400,
+      "comments": 2762,
+      "shares": 2036,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7564918210517044494",
+      "needs_review": false,
+      "review_number": 21
+    },
+    {
+      "post_id": "7564538026064481549",
+      "day_number": 20,
+      "date": "2025-10-23",
+      "timestamp": 1761256271,
+      "average_rating": 7.6,
+      "food_count": 5,
+      "foods": [
+        {
+          "name": "Chicken Alfredo",
+          "score": 8.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Breadstick",
+          "score": 7,
+          "category": "side"
+        },
+        {
+          "name": "Alfredo on top of the breadstick",
+          "score": 8,
+          "category": "other"
+        },
+        {
+          "name": "Carrots with ranch",
+          "score": 7,
+          "category": "side"
+        },
+        {
+          "name": "Cherry Pepsi",
+          "score": 7.5,
+          "category": "drink"
+        }
+      ],
+      "likes": 116000,
+      "views": 676700,
+      "comments": 3515,
+      "shares": 2122,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7564538026064481549",
+      "needs_review": false,
+      "review_number": 20
+    },
+    {
+      "post_id": "7563755040070995214",
+      "day_number": 19,
+      "date": "2025-10-21",
+      "timestamp": 1761074001,
+      "average_rating": 6.17,
+      "food_count": 6,
+      "foods": [
+        {
+          "name": "Salad",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Grape jelly",
+          "score": 6,
+          "category": "condiment"
+        },
+        {
+          "name": "Watermelon flavored",
+          "score": 7,
+          "category": "other"
+        },
+        {
+          "name": "Whole grain",
+          "score": 5,
+          "category": "other"
+        },
+        {
+          "name": "Barbecue baked beans",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "String cheese",
+          "score": 7,
+          "category": "other"
+        }
+      ],
+      "likes": 85400,
+      "views": 538500,
+      "comments": 3037,
+      "shares": 1272,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7563755040070995214",
+      "needs_review": false,
+      "review_number": 19
+    },
+    {
+      "post_id": "7563417324812766519",
+      "day_number": 18,
+      "date": "2025-10-20",
+      "timestamp": 1760995349,
+      "average_rating": 4.5,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Mac and cheese",
+          "score": 3,
+          "category": "main_dish"
+        },
+        {
+          "name": "Popcorn chicken",
+          "score": 5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Broccoli",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Peaches",
+          "score": 4,
+          "category": "other"
+        }
+      ],
+      "likes": 139100,
+      "views": 867800,
+      "comments": 3865,
+      "shares": 2409,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7563417324812766519",
+      "needs_review": false,
+      "review_number": 18
+    },
+    {
+      "post_id": "7561906785305611534",
+      "day_number": 17,
+      "date": "2025-10-16",
+      "timestamp": 1760643637,
+      "average_rating": 6.0,
+      "food_count": 2,
+      "foods": [
+        {
+          "name": "Corn dog",
+          "score": 5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Cinnamon apples",
+          "score": 7,
+          "category": "dessert"
+        }
+      ],
+      "likes": 115400,
+      "views": 807700,
+      "comments": 3460,
+      "shares": 2868,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7561906785305611534",
+      "needs_review": false,
+      "review_number": 17
+    },
+    {
+      "post_id": "7561521738060778765",
+      "day_number": 16,
+      "date": "2025-10-15",
+      "timestamp": 1760553990,
+      "average_rating": 6.0,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Cheese bites",
+          "score": 6,
+          "category": "other"
+        },
+        {
+          "name": "Buttered corn",
+          "score": 4,
+          "category": "side"
+        },
+        {
+          "name": "Sweet potatoes",
+          "score": 5,
+          "category": "side"
+        },
+        {
+          "name": "Banana",
+          "score": 9,
+          "category": "snack"
+        }
+      ],
+      "likes": 232500,
+      "views": 1600000,
+      "comments": 6775,
+      "shares": 6100,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7561521738060778765",
+      "needs_review": false,
+      "review_number": 16
+    },
+    {
+      "post_id": "7561171790286966030",
+      "day_number": 15,
+      "date": "2025-10-14",
+      "timestamp": 1760472535,
+      "average_rating": 7.75,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Walking taco",
+          "score": 8,
+          "category": "main_dish"
+        },
+        {
+          "name": "Peaches",
+          "score": 7,
+          "category": "dessert"
+        },
+        {
+          "name": "Rice Krispie treat",
+          "score": 9,
+          "category": "dessert"
+        },
+        {
+          "name": "Apple juice",
+          "score": 7,
+          "category": "drink"
+        }
+      ],
+      "likes": 146900,
+      "views": 1000000,
+      "comments": 3698,
+      "shares": 3615,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7561171790286966030",
+      "needs_review": false,
+      "review_number": 15
+    },
+    {
+      "post_id": "7560811908505324814",
+      "day_number": 14,
+      "date": "2025-10-13",
+      "timestamp": 1760388736,
+      "average_rating": 6.5,
+      "food_count": 2,
+      "foods": [
+        {
+          "name": "Cheese quesadilla",
+          "score": 7,
+          "category": "main_dish"
+        },
+        {
+          "name": "Pineapple",
+          "score": 6,
+          "category": "side"
+        }
+      ],
+      "likes": 160500,
+      "views": 1400000,
+      "comments": 4253,
+      "shares": 3169,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7560811908505324814",
+      "needs_review": false,
+      "review_number": 14
+    },
+    {
+      "post_id": "7559702555010419981",
+      "day_number": 13,
+      "date": "2025-10-10",
+      "timestamp": 1760130461,
+      "average_rating": 6.5,
+      "food_count": 5,
+      "foods": [
+        {
+          "name": "Burger",
+          "score": 6,
+          "category": "main_dish"
+        },
+        {
+          "name": "Curly fries",
+          "score": 5,
+          "category": "side"
+        },
+        {
+          "name": "White milk",
+          "score": 9,
+          "category": "drink"
+        },
+        {
+          "name": "Cookie",
+          "score": 5.5,
+          "category": "dessert"
+        },
+        {
+          "name": "Orange or grapefruit",
+          "score": 7,
+          "category": "other"
+        }
+      ],
+      "likes": 210800,
+      "views": 1700000,
+      "comments": 5620,
+      "shares": 6022,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7559702555010419981",
+      "needs_review": false,
+      "review_number": 13
+    },
+    {
+      "post_id": "7559304585341357367",
+      "day_number": 12,
+      "date": "2025-10-09",
+      "timestamp": 1760037767,
+      "average_rating": 6.5,
+      "food_count": 5,
+      "foods": [
+        {
+          "name": "Spicy chicken sandwich",
+          "score": 6,
+          "category": "main_dish"
+        },
+        {
+          "name": "Ketchup",
+          "score": 5.5,
+          "category": "condiment"
+        },
+        {
+          "name": "Strawberry milk",
+          "score": 5,
+          "category": "drink"
+        },
+        {
+          "name": "Sweet Chili Doritos",
+          "score": 7,
+          "category": "snack"
+        },
+        {
+          "name": "Zero sugar Baja blast",
+          "score": 9,
+          "category": "drink"
+        }
+      ],
+      "likes": 168800,
+      "views": 1400000,
+      "comments": 5342,
+      "shares": 4526,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7559304585341357367",
+      "needs_review": false,
+      "review_number": 12
+    },
+    {
+      "post_id": "7558913525670776119",
+      "day_number": 11,
+      "date": "2025-10-08",
+      "timestamp": 1759946716,
+      "average_rating": 6.25,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Corn dog",
+          "score": 5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Salad",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Milk",
+          "score": 8,
+          "category": "drink"
+        },
+        {
+          "name": "Blue raspberry squeeze thing",
+          "score": 6,
+          "category": "other"
+        }
+      ],
+      "likes": 264600,
+      "views": 2100000,
+      "comments": 6097,
+      "shares": 8164,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7558913525670776119",
+      "needs_review": false,
+      "review_number": 11
+    },
+    {
+      "post_id": "7558573558402796814",
+      "day_number": 10,
+      "date": "2025-10-07",
+      "timestamp": 1759867566,
+      "average_rating": 7.5,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Meatball sub",
+          "score": 8,
+          "category": "main_dish"
+        },
+        {
+          "name": "Cucumber salad",
+          "score": 5,
+          "category": "side"
+        },
+        {
+          "name": "Banana",
+          "score": 8,
+          "category": "snack"
+        },
+        {
+          "name": "Ruffles baked cheese chips",
+          "score": 9,
+          "category": "snack"
+        }
+      ],
+      "likes": 247300,
+      "views": 1900000,
+      "comments": 5970,
+      "shares": 7357,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7558573558402796814",
+      "needs_review": false,
+      "review_number": 10
+    },
+    {
+      "post_id": "7558211203458174222",
+      "day_number": 9,
+      "date": "2025-10-06",
+      "timestamp": 1759783208,
+      "average_rating": 5.25,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Corn",
+          "score": 7,
+          "category": "side"
+        },
+        {
+          "name": "Chicken tender",
+          "score": 3,
+          "category": "main_dish"
+        },
+        {
+          "name": "Pizza slice",
+          "score": 4,
+          "category": "main_dish"
+        },
+        {
+          "name": "Berries",
+          "score": 7,
+          "category": "snack"
+        }
+      ],
+      "likes": 311500,
+      "views": 2800000,
+      "comments": 8331,
+      "shares": 11500,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7558211203458174222",
+      "needs_review": false,
+      "review_number": 9
+    },
+    {
+      "post_id": "7557183509081640206",
+      "day_number": 8,
+      "date": "2025-10-03",
+      "timestamp": 1759543925,
+      "average_rating": 5.58,
+      "food_count": 6,
+      "foods": [
+        {
+          "name": "Spicy chicken sandwich",
+          "score": 6,
+          "category": "main_dish"
+        },
+        {
+          "name": "French fry",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Fish finger",
+          "score": 6,
+          "category": "main_dish"
+        },
+        {
+          "name": "Fish finger with tartar sauce",
+          "score": 4.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Salad with ranch",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Orange",
+          "score": 5,
+          "category": "snack"
+        }
+      ],
+      "likes": 71000,
+      "views": 707100,
+      "comments": 2067,
+      "shares": 1105,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7557183509081640206",
+      "needs_review": false,
+      "review_number": 8
+    },
+    {
+      "post_id": "7556336396600937742",
+      "day_number": 7,
+      "date": "2025-10-01",
+      "timestamp": 1759346710,
+      "average_rating": 6.3,
+      "food_count": 5,
+      "foods": [
+        {
+          "name": "Chicken sandwich",
+          "score": 6.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Curly fries",
+          "score": 5,
+          "category": "side"
+        },
+        {
+          "name": "Applesauce",
+          "score": 7,
+          "category": "other"
+        },
+        {
+          "name": "Salad",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Oranges",
+          "score": 7,
+          "category": "snack"
+        }
+      ],
+      "likes": 579500,
+      "views": 8600000,
+      "comments": 11500,
+      "shares": 43500,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7556336396600937742",
+      "needs_review": false,
+      "review_number": 7
+    },
+    {
+      "post_id": "7555949335674981645",
+      "day_number": 6,
+      "date": "2025-09-30",
+      "timestamp": 1759256591,
+      "average_rating": 7.4,
+      "food_count": 5,
+      "foods": [
+        {
+          "name": "Walking taco",
+          "score": 9,
+          "category": "main_dish"
+        },
+        {
+          "name": "Rice",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Cucumber salad",
+          "score": 8,
+          "category": "side"
+        },
+        {
+          "name": "Applesauce",
+          "score": 7,
+          "category": "other"
+        },
+        {
+          "name": "Peaches",
+          "score": 7,
+          "category": "other"
+        }
+      ],
+      "likes": 468600,
+      "views": 4900000,
+      "comments": 9424,
+      "shares": 21500,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7555949335674981645",
+      "needs_review": false,
+      "review_number": 6
+    },
+    {
+      "post_id": "7555578354791877901",
+      "day_number": 5,
+      "date": "2025-09-29",
+      "timestamp": 1759170184,
+      "average_rating": 6.67,
+      "food_count": 6,
+      "foods": [
+        {
+          "name": "Sesame seed chicken or orange chicken",
+          "score": 7,
+          "category": "main_dish"
+        },
+        {
+          "name": "Fried rice",
+          "score": 5.5,
+          "category": "side"
+        },
+        {
+          "name": "Curly fries",
+          "score": 7,
+          "category": "side"
+        },
+        {
+          "name": "Potato wedges",
+          "score": 6.5,
+          "category": "side"
+        },
+        {
+          "name": "Melon",
+          "score": 8,
+          "category": "snack"
+        },
+        {
+          "name": "Pineapple",
+          "score": 6,
+          "category": "snack"
+        }
+      ],
+      "likes": 848400,
+      "views": 9500000,
+      "comments": 11900,
+      "shares": 52200,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7555578354791877901",
+      "needs_review": false,
+      "review_number": 5
+    },
+    {
+      "post_id": "7554524188732706103",
+      "day_number": 4,
+      "date": "2025-09-26",
+      "timestamp": 1758924744,
+      "average_rating": 5.5,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Rib sandwich",
+          "score": 6,
+          "category": "main_dish"
+        },
+        {
+          "name": "French fry",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Salad",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Apple",
+          "score": 4,
+          "category": "snack"
+        }
+      ],
+      "likes": 414900,
+      "views": 5300000,
+      "comments": 9482,
+      "shares": 37200,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7554524188732706103",
+      "needs_review": false,
+      "review_number": 4
+    },
+    {
+      "post_id": "7554104881016048909",
+      "day_number": 3,
+      "date": "2025-09-25",
+      "timestamp": 1758827114,
+      "average_rating": 7.67,
+      "food_count": 3,
+      "foods": [
+        {
+          "name": "Spaghetti",
+          "score": 8,
+          "category": "main_dish"
+        },
+        {
+          "name": "Melon",
+          "score": 8,
+          "category": "snack"
+        },
+        {
+          "name": "Breadstick",
+          "score": 7,
+          "category": "side"
+        }
+      ],
+      "likes": 186200,
+      "views": 3500000,
+      "comments": 3696,
+      "shares": 6538,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7554104881016048909",
+      "needs_review": false,
+      "review_number": 3
+    },
+    {
+      "post_id": "7553780390721260855",
+      "day_number": 2,
+      "date": "2025-09-24",
+      "timestamp": 1758751582,
+      "average_rating": 4.5,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Sausage pizza",
+          "score": 7,
+          "category": "main_dish"
+        },
+        {
+          "name": "Rice",
+          "score": 4,
+          "category": "side"
+        },
+        {
+          "name": "Pineapple",
+          "score": 7,
+          "category": "other"
+        },
+        {
+          "name": "Apple",
+          "score": 0,
+          "category": "other"
+        }
+      ],
+      "likes": 480200,
+      "views": 5200000,
+      "comments": 8280,
+      "shares": 15400,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7553780390721260855",
+      "needs_review": false,
+      "review_number": 2
+    },
+    {
+      "post_id": "7552977715729550606",
+      "day_number": null,
+      "date": "2025-09-22",
+      "timestamp": 1758564718,
+      "average_rating": 5.5,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Chicken nugget",
+          "score": 6,
+          "category": "main_dish"
+        },
+        {
+          "name": "Tater tot",
+          "score": 1,
+          "category": "side"
+        },
+        {
+          "name": "Breadstick",
+          "score": 8,
+          "category": "side"
+        },
+        {
+          "name": "Strawberry applesauce",
+          "score": 7,
+          "category": "other"
+        }
+      ],
+      "likes": 175300,
+      "views": 1900000,
+      "comments": 3408,
+      "shares": 6631,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7552977715729550606",
+      "needs_review": true,
+      "review_number": 1
+    }
+  ],
+  "food_frequency": [
+    {
+      "name": "Curly Fries",
+      "count": 5
+    },
+    {
+      "name": "Salad",
+      "count": 5
+    },
+    {
+      "name": "Breadstick",
+      "count": 4
+    },
+    {
+      "name": "Applesauce",
+      "count": 3
+    },
+    {
+      "name": "Peaches",
+      "count": 3
+    },
+    {
+      "name": "Pineapple",
+      "count": 3
+    },
+    {
+      "name": "Apple Juice",
+      "count": 2
+    },
+    {
+      "name": "Cheese Bites",
+      "count": 2
+    },
+    {
+      "name": "Corn",
+      "count": 2
+    },
+    {
+      "name": "Rib Sandwich",
+      "count": 2
+    }
+  ]
+}

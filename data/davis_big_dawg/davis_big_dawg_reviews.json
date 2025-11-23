@@ -1,0 +1,1342 @@
+{
+  "username": "davis_big_dawg",
+  "total_transcripts": 57,
+  "school_food_reviews": 32,
+  "other_content": 25,
+  "failed": 0,
+  "needs_manual_review": 2,
+  "reviews": [
+    {
+      "post_id": "7575304937580547342",
+      "description": "#fyp #viral #schoollunch #mid #him ",
+      "create_time": 1763763162,
+      "day_number": 30,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "burger on a biscuit",
+          "category": "main_dish",
+          "score": 6,
+          "comments": "It's kind of dry, but it's still pretty good. The tomatoes and the lettuce really add a lot."
+        },
+        {
+          "name": "Tropical Lime Baha Blast",
+          "category": "drink",
+          "score": 8,
+          "comments": "Pretty good. One of my favorite sodas."
+        }
+      ],
+      "stats": {
+        "collectCount": 318,
+        "commentCount": 1924,
+        "diggCount": 32900,
+        "playCount": 173900,
+        "shareCount": 399
+      }
+    },
+    {
+      "post_id": "7574180246979759373",
+      "description": "#thanksgiving #fyp #viral #schoollunch #him ",
+      "create_time": 1763501305,
+      "day_number": 29,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "Turkey with gravy",
+          "category": "main_dish",
+          "score": 8,
+          "comments": "Pretty good. It's like shredded Turkey and gravy. Probably need some salt and pepper though."
+        },
+        {
+          "name": "Stuffing",
+          "category": "side",
+          "score": 6,
+          "comments": "It's kind of mushy. It's alright though."
+        },
+        {
+          "name": "Mashed potatoes",
+          "category": "side",
+          "score": 7,
+          "comments": "Pretty good. You can tell it's like the instant mashed potatoes. Mixing the Turkey with that will be very good."
+        },
+        {
+          "name": "Green beans",
+          "category": "side",
+          "score": 5,
+          "comments": "Not the biggest green bean guy. It's kind of mushy."
+        },
+        {
+          "name": "Apple cobbler",
+          "category": "dessert",
+          "score": 8.5,
+          "comments": "Nice and hot. Definitely some seasoning. That's really good."
+        }
+      ],
+      "stats": {
+        "collectCount": 459,
+        "commentCount": 1150,
+        "diggCount": 47500,
+        "playCount": 261700,
+        "shareCount": 686
+      }
+    },
+    {
+      "post_id": "7573851741700033805",
+      "description": "#fyp #viral #schoollunch #mid #him ",
+      "create_time": 1763424806,
+      "day_number": 28,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "barbecue sandwich",
+          "category": "main_dish",
+          "score": 7.5,
+          "comments": "No barbecue sauce. Kind of unfortunate, but very good. It's nice and moist. It's not dry."
+        },
+        {
+          "name": "curly fries",
+          "category": "side",
+          "score": 5,
+          "comments": "It's kind of soggy."
+        },
+        {
+          "name": "cheesy broccoli",
+          "category": "side",
+          "score": 5.5,
+          "comments": "Pretty good. Not that cheesy though."
+        },
+        {
+          "name": "apple juice",
+          "category": "drink",
+          "score": 8,
+          "comments": "Pretty good. I love apple juice."
+        }
+      ],
+      "stats": {
+        "collectCount": 351,
+        "commentCount": 914,
+        "diggCount": 40000,
+        "playCount": 213000,
+        "shareCount": 481
+      }
+    },
+    {
+      "post_id": "7571954131267505421",
+      "description": "#fyp #viral #him #schoollunch #good ",
+      "create_time": 1762982988,
+      "day_number": 27,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "orange chicken and rice",
+          "category": "main_dish",
+          "score": 7.5,
+          "comments": "The chicken is really good, though. Overall, seven and a half out of 10."
+        },
+        {
+          "name": "cucumbers with ranch",
+          "category": "side",
+          "score": 6,
+          "comments": "Pretty good. I mean, it's just cucumbers and ranch."
+        }
+      ],
+      "stats": {
+        "collectCount": 459,
+        "commentCount": 1217,
+        "diggCount": 54500,
+        "playCount": 315600,
+        "shareCount": 873
+      }
+    },
+    {
+      "post_id": "7571259716605726007",
+      "description": "#mid #fyp #viral #schoollunch #him ",
+      "create_time": 1762821287,
+      "day_number": 26,
+      "needs_review": true,
+      "review_reason": "Multiple scores given without clarity on which food they correspond to.",
+      "foods": [
+        {
+          "name": "cheese bites",
+          "category": "other",
+          "score": 4.5,
+          "comments": "Not that great. They're just really bad. They're really, like, wet."
+        },
+        {
+          "name": "tater tots",
+          "category": "side",
+          "score": 5,
+          "comments": "Very, very mediocre. Cooked it. Cook longer."
+        },
+        {
+          "name": "corn",
+          "category": "side",
+          "score": 5,
+          "comments": "How's the porky taste? Not that great."
+        },
+        {
+          "name": "unknown food",
+          "category": "other",
+          "score": 7,
+          "comments": "Right now we got, um. Seven out of 10."
+        }
+      ],
+      "stats": {
+        "collectCount": 569,
+        "commentCount": 1691,
+        "diggCount": 60700,
+        "playCount": 408900,
+        "shareCount": 794
+      }
+    },
+    {
+      "post_id": "7570100193492782350",
+      "description": "#fyp #viral #schoollunch #him #mid ",
+      "create_time": 1762551338,
+      "day_number": 26,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "rib sandwich",
+          "category": "main_dish",
+          "score": 7,
+          "comments": "The bread is pretty good. It's very dry, though. The barbecue sauce definitely, like, kind of carries it."
+        },
+        {
+          "name": "Taylor Farm grapes",
+          "category": "snack",
+          "score": 5,
+          "comments": "They're mushy, not crunchy. Um, which is kind of unfortunate. They're still pretty good, though."
+        },
+        {
+          "name": "zero sugar soda",
+          "category": "drink",
+          "score": 8,
+          "comments": "Pretty good. It's pretty similar to the zero sugar, um, Sprite."
+        }
+      ],
+      "stats": {
+        "collectCount": 573,
+        "commentCount": 1532,
+        "diggCount": 62500,
+        "playCount": 458800,
+        "shareCount": 902
+      }
+    },
+    {
+      "post_id": "7569717058095598861",
+      "description": "#fyp #viral #schoollunch #yum #him ",
+      "create_time": 1762462110,
+      "day_number": 25,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "original Doritos",
+          "category": "snack",
+          "score": 7,
+          "comments": "Pretty good. I mean, I feel like everyone tried a Dorito."
+        },
+        {
+          "name": "Turkey and cheese sub",
+          "category": "main_dish",
+          "score": 6,
+          "comments": "The cheese is fake American cheese, so it's not that great. The Turkey is really good. The mustard is good."
+        },
+        {
+          "name": "zero sugar Sprite",
+          "category": "drink",
+          "score": 8,
+          "comments": "Pretty good. Can't really taste that as diet."
+        }
+      ],
+      "stats": {
+        "collectCount": 673,
+        "commentCount": 1980,
+        "diggCount": 69900,
+        "playCount": 430300,
+        "shareCount": 1037
+      }
+    },
+    {
+      "post_id": "7567113282427931918",
+      "description": "#fyp #viral #him #schoollunch #yum ",
+      "create_time": 1761855870,
+      "day_number": 24,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "spaghetti",
+          "category": "main_dish",
+          "score": 8,
+          "comments": "The spaghetti is always pretty good. I'm always happy when we have spaghetti."
+        },
+        {
+          "name": "breadstick",
+          "category": "side",
+          "score": 7,
+          "comments": "Pretty good. Nice and soft. Nice and garlicly."
+        },
+        {
+          "name": "salad",
+          "category": "side",
+          "score": 6,
+          "comments": "Pretty good salad goods."
+        },
+        {
+          "name": "strawberry lemonade",
+          "category": "drink",
+          "score": 7,
+          "comments": "I think I like this more than the regular lemonade. It's pretty good. It's not too sour, which is good."
+        }
+      ],
+      "stats": {
+        "collectCount": 738,
+        "commentCount": 1759,
+        "diggCount": 80000,
+        "playCount": 488700,
+        "shareCount": 1242
+      }
+    },
+    {
+      "post_id": "7566414605166136590",
+      "description": "#fyp #viral #him #schoollunch #good ",
+      "create_time": 1761693210,
+      "day_number": 23,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "chicken fajita burrito",
+          "category": "main_dish",
+          "score": 7,
+          "comments": "Pretty good. There's cheese in there, too. The chicken is really nice. It's nice and seasoned."
+        },
+        {
+          "name": "cucumbers",
+          "category": "side",
+          "score": 6,
+          "comments": "Pretty good. I mean, it's just cucumbers. There's no dressing on or anything."
+        }
+      ],
+      "stats": {
+        "collectCount": 1243,
+        "commentCount": 2156,
+        "diggCount": 128400,
+        "playCount": 863000,
+        "shareCount": 1806
+      }
+    },
+    {
+      "post_id": "7566026545400122637",
+      "description": "#fyp #viral #him #schoollunch #good ",
+      "create_time": 1761602860,
+      "day_number": 22,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "meatball sub",
+          "category": "main_dish",
+          "score": 6.5,
+          "comments": "Pretty good, it needs more meatballs, and probably more meat sauce."
+        },
+        {
+          "name": "fry with ranch",
+          "category": "side",
+          "score": 3,
+          "comments": "The ranch is kinda weird today. It's like, really sour."
+        },
+        {
+          "name": "fry with ketchup",
+          "category": "side",
+          "score": 4,
+          "comments": "Tried it with ketchup."
+        },
+        {
+          "name": "carrot",
+          "category": "side",
+          "score": 6,
+          "comments": "Enjoy your carrot."
+        },
+        {
+          "name": "zero Sugar Mountain Dew",
+          "category": "drink",
+          "score": 8,
+          "comments": "Pretty good."
+        }
+      ],
+      "stats": {
+        "collectCount": 695,
+        "commentCount": 1707,
+        "diggCount": 75200,
+        "playCount": 455000,
+        "shareCount": 1290
+      }
+    },
+    {
+      "post_id": "7564918210517044494",
+      "description": "#fyp #viral #schoollunch #good #him ",
+      "create_time": 1761344806,
+      "day_number": 21,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "grilled cheese",
+          "category": "main_dish",
+          "score": 8.5,
+          "comments": "Looks pretty good. I love the grilled cheese here. Only thing they don't have the tomato soup. That makes it so much better."
+        },
+        {
+          "name": "curly fries",
+          "category": "side",
+          "score": 6,
+          "comments": "They're a little cold with the curly fries they like. They cool off so fast so it's hard to get them warm. Good seasoning though."
+        },
+        {
+          "name": "carrots",
+          "category": "side",
+          "score": 7,
+          "comments": "Pretty good."
+        },
+        {
+          "name": "applesauce",
+          "category": "snack",
+          "score": 9,
+          "comments": "I love applesauce."
+        },
+        {
+          "name": "zero sugar lemonade",
+          "category": "drink",
+          "score": 6,
+          "comments": "It has like a weird taste though cause of the zero sugar."
+        }
+      ],
+      "stats": {
+        "collectCount": 1300,
+        "commentCount": 2762,
+        "diggCount": 126600,
+        "playCount": 794400,
+        "shareCount": 2036
+      }
+    },
+    {
+      "post_id": "7564538026064481549",
+      "description": "#fyp #viral #him #schoollunch #good ",
+      "create_time": 1761256271,
+      "day_number": 20,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "chicken Alfredo",
+          "category": "main_dish",
+          "score": 8.5,
+          "comments": "Pretty good. The chicken has really nice seasoning, which I'm very surprised about. And the cheese sauce is also really good."
+        },
+        {
+          "name": "breadstick",
+          "category": "side",
+          "score": 7,
+          "comments": "Pretty good. Nice and garlicky."
+        },
+        {
+          "name": "Alfredo on top of the breadstick",
+          "category": "other",
+          "score": 8,
+          "comments": "I guess it kind of, like, matched the flavor of the cheese and stuff."
+        },
+        {
+          "name": "carrots with ranch",
+          "category": "side",
+          "score": 7,
+          "comments": "Pretty good."
+        },
+        {
+          "name": "Cherry Pepsi",
+          "category": "drink",
+          "score": 7.5,
+          "comments": "Pretty good. It's definitely not like my favorite zero sugar soda."
+        }
+      ],
+      "stats": {
+        "collectCount": 1166,
+        "commentCount": 3515,
+        "diggCount": 116000,
+        "playCount": 676700,
+        "shareCount": 2122
+      }
+    },
+    {
+      "post_id": "7563755040070995214",
+      "description": "#fyp #viral #schoollunch #mid #him ",
+      "create_time": 1761074001,
+      "day_number": 19,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "salad",
+          "category": "side",
+          "score": 6,
+          "comments": "I'll give it 6 out of 10."
+        },
+        {
+          "name": "grape jelly",
+          "category": "condiment",
+          "score": 6,
+          "comments": "I feel like everyone's had it on trustable. I mean, it's pretty good, but it's just a BB and J."
+        },
+        {
+          "name": "watermelon flavored",
+          "category": "other",
+          "score": 7,
+          "comments": "I definitely like these. Every time I get school lunch, I love these."
+        },
+        {
+          "name": "whole grain",
+          "category": "other",
+          "score": 5,
+          "comments": "Since there's a whole grain, they're not as good."
+        },
+        {
+          "name": "barbecue baked beans",
+          "category": "side",
+          "score": 6,
+          "comments": "Super good. Not as good as the cheese ruffle ones."
+        },
+        {
+          "name": "string cheese",
+          "category": "other",
+          "score": 7,
+          "comments": "Pretty good. It's just cream cheese."
+        }
+      ],
+      "stats": {
+        "collectCount": 859,
+        "commentCount": 3037,
+        "diggCount": 85400,
+        "playCount": 538500,
+        "shareCount": 1272
+      }
+    },
+    {
+      "post_id": "7563417324812766519",
+      "description": "#fyp #viral #schoollunch #mid #him  thank you for 700k🎉🎉🎉",
+      "create_time": 1760995349,
+      "day_number": 18,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "Mac and cheese",
+          "category": "main_dish",
+          "score": 3,
+          "comments": "super bland. Like, this was pure plastic."
+        },
+        {
+          "name": "popcorn chicken",
+          "category": "main_dish",
+          "score": 5,
+          "comments": "Pretty good. It's not like too bland, but I mean, the chicken meat just looks funky."
+        },
+        {
+          "name": "broccoli",
+          "category": "side",
+          "score": 6,
+          "comments": "pretty good. Need some seasoning."
+        },
+        {
+          "name": "peaches",
+          "category": "other",
+          "score": 4,
+          "comments": "Not as good as today. It's not that great."
+        }
+      ],
+      "stats": {
+        "collectCount": 1625,
+        "commentCount": 3865,
+        "diggCount": 139100,
+        "playCount": 867800,
+        "shareCount": 2409
+      }
+    },
+    {
+      "post_id": "7561906785305611534",
+      "description": "#fyp #schoollunch #viral #mid #him ",
+      "create_time": 1760643637,
+      "day_number": 17,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "corn dog",
+          "category": "main_dish",
+          "score": 5,
+          "comments": "The bread's like, really dry. Like, it's definitely like one of those frozen. Like, I know it's one of the frozen ones, I guess, but it's just really dry. It's not that great. Like, it definitely could have been cooked longer."
+        },
+        {
+          "name": "cinnamon apples",
+          "category": "dessert",
+          "score": 7,
+          "comments": "This apple pie filling, it's really good."
+        }
+      ],
+      "stats": {
+        "collectCount": 1171,
+        "commentCount": 3460,
+        "diggCount": 115400,
+        "playCount": 807700,
+        "shareCount": 2868
+      }
+    },
+    {
+      "post_id": "7561521738060778765",
+      "description": "#fyp #schoollunch #viral #principalsoffice #him ",
+      "create_time": 1760553990,
+      "day_number": 16,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "cheese bites",
+          "category": "other",
+          "score": 6,
+          "comments": "They need more crisp and are very soggy. They taste fine, though."
+        },
+        {
+          "name": "buttered corn",
+          "category": "side",
+          "score": 4,
+          "comments": "Feels like it needs some salt, maybe some pepper."
+        },
+        {
+          "name": "sweet potatoes",
+          "category": "side",
+          "score": 5,
+          "comments": "They could be cooked a little bit longer. They're pretty good, though."
+        },
+        {
+          "name": "banana",
+          "category": "snack",
+          "score": 9,
+          "comments": "I love bananas."
+        }
+      ],
+      "stats": {
+        "collectCount": 3047,
+        "commentCount": 6775,
+        "diggCount": 232500,
+        "playCount": 1600000,
+        "shareCount": 6100
+      }
+    },
+    {
+      "post_id": "7561171790286966030",
+      "description": "",
+      "create_time": 1760472535,
+      "day_number": 15,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "walking taco",
+          "category": "main_dish",
+          "score": 8,
+          "comments": "One of my favorite meals. It's missing the sour cream."
+        },
+        {
+          "name": "peaches",
+          "category": "dessert",
+          "score": 7,
+          "comments": "Very good."
+        },
+        {
+          "name": "Rice Krispie treat",
+          "category": "dessert",
+          "score": 9,
+          "comments": "So good. Remind me of my childhood."
+        },
+        {
+          "name": "apple juice",
+          "category": "drink",
+          "score": 7,
+          "comments": "It's pretty good."
+        }
+      ],
+      "stats": {
+        "collectCount": 1851,
+        "commentCount": 3698,
+        "diggCount": 146900,
+        "playCount": 1000000,
+        "shareCount": 3615
+      }
+    },
+    {
+      "post_id": "7560811908505324814",
+      "description": "#schoollunch #fyp #him #yum #viral ",
+      "create_time": 1760388736,
+      "day_number": 14,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "cheese quesadilla",
+          "category": "main_dish",
+          "score": 7,
+          "comments": "it's pretty good. Um, it's just tortilla and cheese, but, I mean, it's better than most school lunches."
+        },
+        {
+          "name": "pineapple",
+          "category": "side",
+          "score": 6,
+          "comments": "mediocre."
+        }
+      ],
+      "stats": {
+        "collectCount": 1792,
+        "commentCount": 4253,
+        "diggCount": 160500,
+        "playCount": 1400000,
+        "shareCount": 3169
+      }
+    },
+    {
+      "post_id": "7559702555010419981",
+      "description": "#fyp #viral #schoollunch #him #mid ",
+      "create_time": 1760130461,
+      "day_number": 13,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "burger",
+          "category": "main_dish",
+          "score": 6,
+          "comments": "It's not terrible. It's not really great though. The burger patties like almost, like not real."
+        },
+        {
+          "name": "curly fries",
+          "category": "side",
+          "score": 5,
+          "comments": "They're actually warm today, which is good. No crunch, but I do like the flavor a lot."
+        },
+        {
+          "name": "white milk",
+          "category": "drink",
+          "score": 9,
+          "comments": "I love milk a lot. It's probably like top three drinks for me."
+        },
+        {
+          "name": "cookie",
+          "category": "dessert",
+          "score": 5.5,
+          "comments": "I'll give the cookie a 5.5 out of 10 without the milk and a 6 out of 10 with the milk."
+        },
+        {
+          "name": "orange or grapefruit",
+          "category": "other",
+          "score": 7,
+          "comments": "I think it's an orange or, or it's like grapefruit."
+        }
+      ],
+      "stats": {
+        "collectCount": 3380,
+        "commentCount": 5620,
+        "diggCount": 210800,
+        "playCount": 1700000,
+        "shareCount": 6022
+      }
+    },
+    {
+      "post_id": "7559304585341357367",
+      "description": "#fyp #viral #schoollunch #review #him ",
+      "create_time": 1760037767,
+      "day_number": 12,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "spicy chicken sandwich",
+          "category": "main_dish",
+          "score": 6,
+          "comments": "Mediocre again no crunch. It is kind of spicy today which is good. The bread could be better."
+        },
+        {
+          "name": "ketchup",
+          "category": "condiment",
+          "score": 5.5,
+          "comments": "I like it more with ketchup."
+        },
+        {
+          "name": "strawberry milk",
+          "category": "drink",
+          "score": 5,
+          "comments": "I prefer chocolate milk over strawberry milk. Strawberry milk is okay."
+        },
+        {
+          "name": "sweet Chili Doritos",
+          "category": "snack",
+          "score": 7,
+          "comments": "Pretty good. You have to be in the mood for them compared to like the other Doritos."
+        },
+        {
+          "name": "zero sugar Baja blast",
+          "category": "drink",
+          "score": 9,
+          "comments": "Shout out Gabe for getting me this."
+        }
+      ],
+      "stats": {
+        "collectCount": 2003,
+        "commentCount": 5342,
+        "diggCount": 168800,
+        "playCount": 1400000,
+        "shareCount": 4526
+      }
+    },
+    {
+      "post_id": "7558913525670776119",
+      "description": "#fyp #viral #schoollunch #mid #review ",
+      "create_time": 1759946716,
+      "day_number": 11,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "corn dog",
+          "category": "main_dish",
+          "score": 5,
+          "comments": "I wish the brightening had crisp. Um, it's not that great. It's not like the worst school lunch, but it's definitely not the best."
+        },
+        {
+          "name": "salad",
+          "category": "side",
+          "score": 6,
+          "comments": "I mixed Italian dressing and a little bit of ranch. Um, I like the combination."
+        },
+        {
+          "name": "milk",
+          "category": "drink",
+          "score": 8,
+          "comments": "Pretty good, but it's just chocolate milk."
+        },
+        {
+          "name": "blue raspberry squeeze thing",
+          "category": "other",
+          "score": 6,
+          "comments": "It's okay."
+        }
+      ],
+      "stats": {
+        "collectCount": 3734,
+        "commentCount": 6097,
+        "diggCount": 264600,
+        "playCount": 2100000,
+        "shareCount": 8164
+      }
+    },
+    {
+      "post_id": "7558573558402796814",
+      "description": "#fyp #viral #schoollunch #good #him ",
+      "create_time": 1759867566,
+      "day_number": 10,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "meatball sub",
+          "category": "main_dish",
+          "score": 8,
+          "comments": "the meatballs are really good, the bread is good, and cheese is good"
+        },
+        {
+          "name": "cucumber salad",
+          "category": "side",
+          "score": 5,
+          "comments": "more of the dressing"
+        },
+        {
+          "name": "banana",
+          "category": "snack",
+          "score": 8,
+          "comments": "just a basic banana"
+        },
+        {
+          "name": "ruffles baked cheese chips",
+          "category": "snack",
+          "score": 9,
+          "comments": "I really like the baked chip"
+        }
+      ],
+      "stats": {
+        "collectCount": 2969,
+        "commentCount": 5970,
+        "diggCount": 247300,
+        "playCount": 1900000,
+        "shareCount": 7357
+      }
+    },
+    {
+      "post_id": "7558211203458174222",
+      "description": "",
+      "create_time": 1759783208,
+      "day_number": 9,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "corn",
+          "category": "side",
+          "score": 7,
+          "comments": "Pretty good. Nice and buttery. Um, for corn, there's better, but like corn and messed up corn."
+        },
+        {
+          "name": "chicken tender",
+          "category": "main_dish",
+          "score": 3,
+          "comments": "It looks kind of weird, but let's see how it is. Now. Waiting for me is crazy. No crunch drink is not that good."
+        },
+        {
+          "name": "pizza slice",
+          "category": "main_dish",
+          "score": 4,
+          "comments": "It's really not that good of a pizza. There's better pizzas. Like the Mexican one."
+        },
+        {
+          "name": "berries",
+          "category": "snack",
+          "score": 7,
+          "comments": "Really good. I like berries. Um, probably more than peaches and stuff."
+        }
+      ],
+      "stats": {
+        "collectCount": 4323,
+        "commentCount": 8331,
+        "diggCount": 311500,
+        "playCount": 2800000,
+        "shareCount": 11500
+      }
+    },
+    {
+      "post_id": "7557183509081640206",
+      "description": "#fyp #viral #mid #schoollunch #chicken REPOST got tooken down because of the kids in the back ground ",
+      "create_time": 1759543925,
+      "day_number": 8,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "spicy chicken sandwich",
+          "category": "main_dish",
+          "score": 6,
+          "comments": "pretty good. No crunch. That's a little bit of cake, but not a lot."
+        },
+        {
+          "name": "French fry",
+          "category": "side",
+          "score": 6,
+          "comments": "too."
+        },
+        {
+          "name": "fish finger",
+          "category": "main_dish",
+          "score": 6,
+          "comments": "not terrible. Um, it's not really much crunch. I'm gonna try with ketchup."
+        },
+        {
+          "name": "fish finger with tartar sauce",
+          "category": "main_dish",
+          "score": 4.5,
+          "comments": "not terrible. Um, it's not really much crunch."
+        },
+        {
+          "name": "salad with ranch",
+          "category": "side",
+          "score": 6,
+          "comments": "pretty good. Lettuce is good today."
+        },
+        {
+          "name": "orange",
+          "category": "snack",
+          "score": 5,
+          "comments": "a lot of seeds. Pretty good. Um, it's not the best."
+        }
+      ],
+      "stats": {
+        "collectCount": 804,
+        "commentCount": 2067,
+        "diggCount": 71000,
+        "playCount": 707100,
+        "shareCount": 1105
+      }
+    },
+    {
+      "post_id": "7556759729863724301",
+      "description": "#viral #fyp #him #texasroadhouse #good thank you for 300k ❤️",
+      "create_time": 1759445263,
+      "day_number": null,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "barbecue chicken",
+          "category": "main_dish",
+          "score": 8,
+          "comments": "A lot of barbecue sauce, which I like. A lot of good flavor."
+        },
+        {
+          "name": "filet Mignon",
+          "category": "main_dish",
+          "score": 7,
+          "comments": "Super overcooked, but the steak is one of my favorite foods. I still really like it."
+        },
+        {
+          "name": "steak fry",
+          "category": "side",
+          "score": 7,
+          "comments": "Super good. Got a little bit of a barbecue sauce on that. Really good. Very soggy."
+        },
+        {
+          "name": "Texas roll with cinnamon butter",
+          "category": "side",
+          "score": 8,
+          "comments": "Always love these."
+        },
+        {
+          "name": "Caesar salad",
+          "category": "side",
+          "score": 8.5,
+          "comments": "The lettuce is really good. It's nice and fresh. Caesar dressing is also really good."
+        },
+        {
+          "name": "Texas onion",
+          "category": "other",
+          "score": 9,
+          "comments": "For sure, like, top 3 appetizers from, like, any restaurant."
+        }
+      ],
+      "stats": {
+        "collectCount": 7118,
+        "commentCount": 9475,
+        "diggCount": 436400,
+        "playCount": 3000000,
+        "shareCount": 11400
+      }
+    },
+    {
+      "post_id": "7556336396600937742",
+      "description": "#fyp #viral #him #schoollunch #mid ",
+      "create_time": 1759346710,
+      "day_number": 7,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "chicken sandwich",
+          "category": "main_dish",
+          "score": 6.5,
+          "comments": "The chicken is not crispy at all. It needs a lot more crisp. The buns, not bad today."
+        },
+        {
+          "name": "curly fries",
+          "category": "side",
+          "score": 5,
+          "comments": "Super cold. They definitely have a lot more flavor than the potato wedges. But these are really cold."
+        },
+        {
+          "name": "applesauce",
+          "category": "other",
+          "score": 7,
+          "comments": "We do applesauce quite often."
+        },
+        {
+          "name": "salad",
+          "category": "side",
+          "score": 6,
+          "comments": "Lettuce is not as good as last week. The dressing definitely makes it taste a lot better."
+        },
+        {
+          "name": "oranges",
+          "category": "snack",
+          "score": 7,
+          "comments": "Definitely juicy. Definitely really good."
+        }
+      ],
+      "stats": {
+        "collectCount": 12500,
+        "commentCount": 11500,
+        "diggCount": 579500,
+        "playCount": 8600000,
+        "shareCount": 43500
+      }
+    },
+    {
+      "post_id": "7555949335674981645",
+      "description": "#fyp #viral #schoollunch #him #yum",
+      "create_time": 1759256591,
+      "day_number": 6,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "walking taco",
+          "category": "main_dish",
+          "score": 9,
+          "comments": "Dude, this looks so good. Actually, I'm kind of excited. Oh, here we go. That's actually really good."
+        },
+        {
+          "name": "rice",
+          "category": "side",
+          "score": 6,
+          "comments": "Still really bland."
+        },
+        {
+          "name": "cucumber salad",
+          "category": "side",
+          "score": 8,
+          "comments": "Really good. I love cucumber."
+        },
+        {
+          "name": "applesauce",
+          "category": "other",
+          "score": 7,
+          "comments": "Just plain old applesauce."
+        },
+        {
+          "name": "peaches",
+          "category": "other",
+          "score": 7,
+          "comments": "You're the GOAT, babe."
+        }
+      ],
+      "stats": {
+        "collectCount": 8119,
+        "commentCount": 9424,
+        "diggCount": 468600,
+        "playCount": 4900000,
+        "shareCount": 21500
+      }
+    },
+    {
+      "post_id": "7555578354791877901",
+      "description": "#fyp #viral #review #schoollunch #aura ",
+      "create_time": 1759170184,
+      "day_number": 5,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "sesame seed chicken or orange chicken",
+          "category": "main_dish",
+          "score": 7,
+          "comments": "It's nice and sweet. Um, this will be a little bit warmer, but it's fine."
+        },
+        {
+          "name": "fried rice",
+          "category": "side",
+          "score": 5.5,
+          "comments": "It's kind of grainy, I would say like, you know how you want your recipe fluffy. It's not that. It's kind of bland, but it's okay."
+        },
+        {
+          "name": "curly fries",
+          "category": "side",
+          "score": 7,
+          "comments": "I really like the curly fries."
+        },
+        {
+          "name": "potato wedges",
+          "category": "side",
+          "score": 6.5,
+          "comments": "Pretty good. I think I prefer the curly fries."
+        },
+        {
+          "name": "melon",
+          "category": "snack",
+          "score": 8,
+          "comments": "Always really good. You can tell it's pretty fresh. It's not like old or anything. It's pretty, pretty new. It's really good. Not dried out, has juice."
+        },
+        {
+          "name": "pineapple",
+          "category": "snack",
+          "score": 6,
+          "comments": "Just your basic pineapple. It's a little like, little too hard."
+        }
+      ],
+      "stats": {
+        "collectCount": 19900,
+        "commentCount": 11900,
+        "diggCount": 848400,
+        "playCount": 9500000,
+        "shareCount": 52200
+      }
+    },
+    {
+      "post_id": "7554524188732706103",
+      "description": "#viral #fyp #review #him #schoollunch day 4 ",
+      "create_time": 1758924744,
+      "day_number": 4,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "rib sandwich",
+          "category": "main_dish",
+          "score": 6,
+          "comments": "The meat's pretty good. The bread is really stale though."
+        },
+        {
+          "name": "French fry",
+          "category": "side",
+          "score": 6,
+          "comments": "Pretty mediocre. French fries itself is pretty bland."
+        },
+        {
+          "name": "salad",
+          "category": "side",
+          "score": 6,
+          "comments": "Pretty good. The lettuce is very nice. It has a nice crisp."
+        },
+        {
+          "name": "apple",
+          "category": "snack",
+          "score": 4,
+          "comments": "Has some weird marks, but I'll see how it is. I prefer Red Apples."
+        }
+      ],
+      "stats": {
+        "collectCount": 7494,
+        "commentCount": 9482,
+        "diggCount": 414900,
+        "playCount": 5300000,
+        "shareCount": 37200
+      }
+    },
+    {
+      "post_id": "7554104881016048909",
+      "description": "#fyp #viral #review #him #lunch ",
+      "create_time": 1758827114,
+      "day_number": 3,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "spaghetti",
+          "category": "main_dish",
+          "score": 8,
+          "comments": "that's actually very good"
+        },
+        {
+          "name": "melon",
+          "category": "snack",
+          "score": 8,
+          "comments": "Oh, it's really good"
+        },
+        {
+          "name": "breadstick",
+          "category": "side",
+          "score": 7,
+          "comments": "Pretty, pretty decent"
+        }
+      ],
+      "stats": {
+        "collectCount": 2586,
+        "commentCount": 3696,
+        "diggCount": 186200,
+        "playCount": 3500000,
+        "shareCount": 6538
+      }
+    },
+    {
+      "post_id": "7553780390721260855",
+      "description": "#fyp #viral #review #schoollunch ",
+      "create_time": 1758751582,
+      "day_number": 2,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "sausage pizza",
+          "category": "main_dish",
+          "score": 7,
+          "comments": "badass"
+        },
+        {
+          "name": "rice",
+          "category": "side",
+          "score": 4,
+          "comments": "super bland"
+        },
+        {
+          "name": "pineapple",
+          "category": "other",
+          "score": 7,
+          "comments": "it's pretty good"
+        },
+        {
+          "name": "apple",
+          "category": "other",
+          "score": 0,
+          "comments": "Ew, that's nasty"
+        }
+      ],
+      "stats": {
+        "collectCount": 9331,
+        "commentCount": 8280,
+        "diggCount": 480200,
+        "playCount": 5200000,
+        "shareCount": 15400
+      }
+    },
+    {
+      "post_id": "7552977715729550606",
+      "description": "#review #mid #fyp#viral the apple sauce was a 9/10 ",
+      "create_time": 1758564718,
+      "day_number": null,
+      "needs_review": true,
+      "review_reason": "Multiple scores given for same food without clarity and unclear food names.",
+      "foods": [
+        {
+          "name": "chicken nugget",
+          "category": "main_dish",
+          "score": 6,
+          "comments": "It's okay. It's kind of mid."
+        },
+        {
+          "name": "tater tot",
+          "category": "side",
+          "score": 1,
+          "comments": "That's so bad."
+        },
+        {
+          "name": "breadstick",
+          "category": "side",
+          "score": 8,
+          "comments": "It's actually pretty good."
+        },
+        {
+          "name": "strawberry applesauce",
+          "category": "other",
+          "score": 7,
+          "comments": "That's very good."
+        }
+      ],
+      "stats": {
+        "collectCount": 2215,
+        "commentCount": 3408,
+        "diggCount": 175300,
+        "playCount": 1900000,
+        "shareCount": 6631
+      }
+    }
+  ],
+  "new_reviews_processed": 57,
+  "skipped_existing": 0
+}
