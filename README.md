@@ -28,6 +28,7 @@ The scripts use OpenAI's API to extract:
 - `extract_reviews.py` - Extract structured review data using OpenAI
 - `calculate_stats.py` - Calculate statistics from extracted reviews
 - `generate_dashboard_data.py` - Generate pre-computed stats for dashboard
+- `upload_to_s3.py` - Upload data files to S3 for public access
 
 ### Dashboard
 - `src/` - Eleventy static site source files
@@ -173,6 +174,49 @@ Average scores by category:
   
 Trend: ↑ Improving (+0.42 points)
 ```
+
+## Public data access
+
+All data files are available for public access via S3. These files are updated daily via GitHub Actions:
+
+**Dashboard stats** (pre-computed metrics):
+```
+https://stilesdata.com/davis.food/data/dashboard_stats.json
+```
+
+**Raw reviews** (structured review data):
+```
+https://stilesdata.com/davis.food/data/davis_big_dawg/davis_big_dawg_reviews.json
+```
+
+**Post metadata** (engagement stats, dates, URLs):
+```
+https://stilesdata.com/davis.food/data/davis_big_dawg/davis_big_dawg_posts.json
+```
+
+**Transcripts** (video transcriptions):
+```
+https://stilesdata.com/davis.food/data/davis_big_dawg/transcripts/davis_big_dawg_transcripts.json
+```
+
+### Uploading data to S3
+
+To manually upload data files:
+
+```bash
+# Set AWS credentials
+export MY_AWS_ACCESS_KEY_ID="your_key"
+export MY_AWS_SECRET_ACCESS_KEY="your_secret"
+export MY_DEFAULT_REGION="us-east-1"
+
+# Upload all data files
+python scripts/upload_to_s3.py
+```
+
+The script uploads with:
+- Public read access
+- Content-Type: application/json
+- Cache-Control: max-age=3600
 
 ## Adapting this example
 
