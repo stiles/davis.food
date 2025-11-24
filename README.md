@@ -2,7 +2,7 @@
 
 Chronicling food reviews posted by Davis, a high school student who has gained fame on TikTok for critiquing his school lunches. 
 
-🌐 **Live dashboard**: [davis.food](https://davis.food) (coming soon)
+**Live dashboard**: [davis.food](https://davis.food)
 
 ## About this project
 
