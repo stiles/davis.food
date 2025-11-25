@@ -1,9 +1,9 @@
 name: update
 
 on:
-  # Ever hour at the 5th minute
+  # Ever sixth hour at the 5th minute
   schedule:
-    - cron: '5 * * * *'
+    - cron: '5 */6 * * *'
   
   # Allow manual trigger
   workflow_dispatch:
