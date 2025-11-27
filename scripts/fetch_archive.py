@@ -145,7 +145,18 @@ def main():
             print(f"Saved to: {user_dir}/thumbnails/")
         
     except Exception as e:
-        print(f"Error fetching posts: {e}")
+        print(f"\n{'=' * 80}")
+        print(f"ERROR DETAILS")
+        print(f"{'=' * 80}")
+        print(f"Error type: {type(e).__name__}")
+        print(f"Error message: {e}")
+        import traceback
+        print(f"\nFull traceback:")
+        traceback.print_exc()
+        print(f"\nTroubleshooting:")
+        print(f"  - Check if TIKAPI_KEY is valid: https://tikapi.io/dashboard")
+        print(f"  - Check TikAPI status: https://tikapi.io/status")
+        print(f"  - Try with sandbox mode: python {sys.argv[0]} --username davis_big_dawg")
         sys.exit(1)
     
     # Step 2: Extract transcripts

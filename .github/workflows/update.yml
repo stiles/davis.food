@@ -1,9 +1,9 @@
 name: update
 
 on:
-  # Ever sixth hour at the 5th minute
+  # Every 12 hours at the 5th minute (reduced frequency to avoid rate limits)
   schedule:
-    - cron: '5 */6 * * *'
+    - cron: '5 */12 * * *'
   
   # Allow manual trigger
   workflow_dispatch:
@@ -43,9 +43,19 @@ jobs:
         env:
           TIKAPI_KEY: ${{ secrets.TIKAPI_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        continue-on-error: true
         run: |
-          echo "Fetching last 15 posts to refresh engagement stats and thumbnails..."
-          python scripts/fetch_archive.py --max-posts 15 --download-thumbnails --skip-transcripts
+          echo "Fetching last 10 posts to refresh engagement stats and thumbnails..."
+          python scripts/fetch_archive.py --max-posts 10 --download-thumbnails --skip-transcripts || {
+            echo "⚠️  Warning: Failed to fetch posts from TikAPI"
+            echo "Possible causes:"
+            echo "  - API rate limiting (workflow runs frequently)"
+            echo "  - TikAPI service issues"
+            echo "  - Invalid or expired API key"
+            echo ""
+            echo "Continuing with existing data..."
+            exit 0
+          }
           echo "Note: Reviews are manually curated. To extract reviews for new posts, run: python scripts/fetch_archive.py --update --extract-reviews"
       
       - name: Generate dashboard data
