@@ -24,6 +24,24 @@ def sentence_case(text: str) -> str:
     return text[0].upper() + text[1:].lower() if len(text) > 1 else text.upper()
 
 
+def get_local_thumbnail(post_id: str, thumbnails_dir: Path) -> str:
+    """
+    Check if thumbnail exists locally and return the path.
+    Returns the local path relative to site root, or None if not found.
+    """
+    if not post_id:
+        return None
+    
+    # Check for common image extensions
+    for ext in ['.jpg', '.jpeg', '.png', '.webp']:
+        filename = f"{post_id}{ext}"
+        filepath = thumbnails_dir / filename
+        if filepath.exists():
+            return f"data/davis_big_dawg/thumbnails/{filename}"
+    
+    return None
+
+
 def extract_key_phrases(reviews: List[Dict]) -> List[str]:
     """
     Extract Davis's characteristic phrases from food comments.
@@ -357,13 +375,14 @@ def calculate_overall_metrics(reviews: List[Dict]) -> Dict:
     }
 
 
-def get_latest_review(reviews: List[Dict], posts_data: Dict) -> Dict:
+def get_latest_review(reviews: List[Dict], posts_data: Dict, data_dir: Path) -> Dict:
     """
     Get the latest review with full details including thumbnail.
     
     Args:
         reviews: List of review dictionaries
         posts_data: Posts JSON data with metadata
+        data_dir: Data directory containing thumbnails
         
     Returns:
         Dictionary with latest review data
@@ -410,15 +429,12 @@ def get_latest_review(reviews: List[Dict], posts_data: Dict) -> Dict:
         'views_formatted': '0'
     }
     
+    # Look for locally saved thumbnail
+    thumbnails_dir = data_dir / 'davis_big_dawg' / 'thumbnails'
+    thumbnail_url = get_local_thumbnail(post_id, thumbnails_dir)
+    
     for post in posts_data.get('posts', []):
         if post.get('id') == post_id:
-            # Get cover image
-            video_data = post.get('video', {})
-            cover = video_data.get('cover', '')
-            if not cover:
-                # Try cover field directly
-                cover = video_data.get('dynamicCover', '')
-            thumbnail_url = cover
             
             # Get engagement stats
             stats = post.get('stats', {})
@@ -514,7 +530,9 @@ def generate_dashboard_data(reviews_json_path: Path, output_path: Path):
     food_frequency = calculate_food_frequency(reviews, limit=10)
     
     print("  - Getting latest review...")
-    latest_review = get_latest_review(reviews, posts_data)
+    # Pass data directory for finding thumbnails
+    data_dir = reviews_json_path.parent.parent
+    latest_review = get_latest_review(reviews, posts_data, data_dir)
     
     # Generate Pacific Time timestamp in desired format
     pacific_tz = ZoneInfo('America/Los_Angeles')

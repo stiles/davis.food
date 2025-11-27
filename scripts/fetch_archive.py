@@ -31,7 +31,7 @@ import sys
 from pathlib import Path
 
 try:
-    from tiktools import fetch_user_posts, extract_transcripts
+    from tiktools import fetch_user_posts, extract_transcripts, download_thumbnails
 except ImportError:
     print("Error: tiktools is not installed.")
     print("Install it with: pip install tiktools")
@@ -73,6 +73,23 @@ def main():
         action="store_true",
         help="Force re-download of transcripts even if they exist (USE WITH CAUTION: will overwrite manual edits)"
     )
+    parser.add_argument(
+        "--download-thumbnails",
+        action="store_true",
+        help="Download video thumbnails (recommended: URLs expire quickly)"
+    )
+    parser.add_argument(
+        "--thumbnail-type",
+        default="origin",
+        choices=["cover", "origin", "dynamic", "zoom_240", "zoom_480", "zoom_720", "zoom_960"],
+        help="Thumbnail type to download (default: origin for highest quality)"
+    )
+    parser.add_argument(
+        "--max-posts",
+        type=int,
+        default=None,
+        help="Limit number of recent posts to fetch (useful for updating engagement stats)"
+    )
     
     args = parser.parse_args()
     
@@ -98,6 +115,9 @@ def main():
     print(f"Username: @{username}")
     print(f"Output directory: {user_dir}")
     print(f"Update mode: {'Yes' if args.update else 'No'}")
+    print(f"Download thumbnails: {'Yes' if args.download_thumbnails else 'No'}")
+    if args.download_thumbnails:
+        print(f"Thumbnail type: {args.thumbnail_type}")
     print()
     
     # Step 1: Fetch posts
@@ -108,13 +128,21 @@ def main():
         posts_data = fetch_user_posts(
             username=username,
             output_file=posts_file,
-            update_mode=args.update
+            update_mode=args.update,
+            max_posts=args.max_posts,
+            download_thumbnails=args.download_thumbnails,
+            thumbnail_type=args.thumbnail_type if args.download_thumbnails else None
         )
         
         print(f"\nFetched {posts_data['fetched_count']} posts")
         if args.update and 'new_posts' in posts_data:
             print(f"New posts: {posts_data['new_posts']}")
         print(f"Saved to: {posts_file}")
+        
+        if args.download_thumbnails and 'thumbnail_results' in posts_data:
+            thumb_results = posts_data['thumbnail_results']
+            print(f"\nThumbnails downloaded: {thumb_results.get('thumbnails_downloaded', 0)}")
+            print(f"Saved to: {user_dir}/thumbnails/")
         
     except Exception as e:
         print(f"Error fetching posts: {e}")
@@ -213,17 +241,21 @@ def main():
     print("=" * 80)
     print(f"\nYour Davis Big Dawg archive is ready:")
     print(f"  Posts: {posts_file}")
+    if args.download_thumbnails:
+        print(f"  Thumbnails: {user_dir}/thumbnails/")
     if not args.skip_transcripts:
         print(f"  Transcripts: {transcripts_dir}/")
     if args.extract_reviews and os.getenv('OPENAI_API_KEY'):
         print(f"  Reviews: {reviews_file}")
     
     print("\nNext steps:")
+    if not args.download_thumbnails:
+        print(f"  - Download thumbnails: python {Path(__file__).name} --download-thumbnails")
     if not args.extract_reviews:
         print(f"  - Extract reviews: python {Path(__file__).name} --extract-reviews")
     if not args.skip_transcripts and transcripts_file.exists():
         print(f"  - Calculate stats: python calculate_stats.py {reviews_file}")
-    print(f"  - Update archive: python {Path(__file__).name} --update")
+    print(f"  - Update archive: python {Path(__file__).name} --update --download-thumbnails")
     print()
 
 

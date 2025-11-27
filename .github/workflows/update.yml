@@ -35,16 +35,18 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install --upgrade -r requirements.txt
+          echo "Installed tiktools version:"
+          pip show tiktools | grep Version
       
-      - name: Fetch new posts and reviews
+      - name: Fetch new posts and refresh engagement stats
         env:
           TIKAPI_KEY: ${{ secrets.TIKAPI_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          echo "Fetching new posts only (reviews are manually curated)..."
-          python scripts/fetch_archive.py --update
-          echo "Note: To extract reviews for new posts, run manually: python scripts/fetch_archive.py --update --extract-reviews"
+          echo "Fetching last 15 posts to refresh engagement stats and thumbnails..."
+          python scripts/fetch_archive.py --max-posts 15 --download-thumbnails --skip-transcripts
+          echo "Note: Reviews are manually curated. To extract reviews for new posts, run: python scripts/fetch_archive.py --update --extract-reviews"
       
       - name: Generate dashboard data
         run: |
@@ -65,14 +67,18 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Add data files
+          # Add data files and thumbnails
           git add data/
           
           # Check if there are changes
           if git diff --staged --quiet; then
             echo "No data changes to commit"
           else
-            git commit -m "Update data: $(date +'%Y-%m-%d %H:%M UTC')"
+            # Show what changed
+            echo "Changes detected:"
+            git diff --staged --stat
+            
+            git commit -m "Update engagement stats and thumbnails: $(date +'%Y-%m-%d %H:%M UTC')"
             
             # Pull with rebase to incorporate any remote changes
             git pull --rebase origin main

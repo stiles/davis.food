@@ -136,7 +136,7 @@
       "cumulative_shares": 194369
     },
     {
-      "date": "2025-10-04",
+      "date": "2025-10-03",
       "timestamp": 1759543925,
       "day_number": 8,
       "cumulative_likes": 3660500,
@@ -307,7 +307,7 @@
       "cumulative_shares": 262911
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "timestamp": 1762821287,
       "day_number": 26,
       "cumulative_likes": 6462600,
@@ -325,7 +325,7 @@
       "cumulative_shares": 264578
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "timestamp": 1763424806,
       "day_number": 28,
       "cumulative_likes": 6557100,
@@ -567,7 +567,7 @@
     {
       "post_id": "7573851741700033805",
       "day_number": 28,
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "timestamp": 1763424806,
       "average_rating": 6.5,
       "food_count": 4,
@@ -631,7 +631,7 @@
     {
       "post_id": "7571259716605726007",
       "day_number": 26,
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "timestamp": 1762821287,
       "average_rating": 5.38,
       "food_count": 4,
@@ -1329,7 +1329,7 @@
     {
       "post_id": "7557183509081640206",
       "day_number": 8,
-      "date": "2025-10-04",
+      "date": "2025-10-03",
       "timestamp": 1759543925,
       "average_rating": 5.58,
       "food_count": 6,
@@ -1710,7 +1710,7 @@
       }
     ],
     "average_rating": 7.0,
-    "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oYnjBfH3BBA0iiRClgi4HxE9kApIMF3w3rIZCA~tplv-tiktokx-origin.image?dr=10395&x-expires=1764025200&x-signature=g6jfy63uMX49hNj%2B28J5J7%2BxtUM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+    "thumbnail_url": null,
     "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7575304937580547342",
     "engagement": {
       "likes": 32900,

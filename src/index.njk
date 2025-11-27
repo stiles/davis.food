@@ -12,7 +12,14 @@ title: davis.food - School Lunch Reviews Dashboard
         <!-- Thumbnail -->
         <a href="{{ dashboard.latest_review.tiktok_url }}" target="_blank" rel="noopener noreferrer" class="latest-review-thumbnail" data-review-date="{{ dashboard.latest_review.date }}">
           {% if dashboard.latest_review.thumbnail_url %}
-          <img src="{{ dashboard.latest_review.thumbnail_url }}" alt="Latest review thumbnail">
+          {% if dashboard.latest_review.thumbnail_url.startsWith('http') %}
+          <img src="{{ dashboard.latest_review.thumbnail_url }}" alt="Latest review thumbnail" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+          <div class="thumbnail-placeholder" style="display: none;">
+            <i class="fas fa-video"></i>
+          </div>
+          {% else %}
+          <img src="/{{ dashboard.latest_review.thumbnail_url }}" alt="Latest review thumbnail">
+          {% endif %}
           {% else %}
           <div class="thumbnail-placeholder">
             <i class="fas fa-video"></i>

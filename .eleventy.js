@@ -2,6 +2,7 @@ module.exports = function(eleventyConfig) {
   // Pass through assets
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/js");
+  eleventyConfig.addPassthroughCopy({"src/davis-food-card.jpg": "davis-food-card.jpg"});
   eleventyConfig.addPassthroughCopy("CNAME");
   
   // Pass through data directory for access to dashboard_stats.json

@@ -126,13 +126,28 @@ python calculate_stats.py data/davis_big_dawg/davis_big_dawg_reviews.json
 
 ## Updating your archive
 
+### Refresh engagement stats for recent posts
+
+To update engagement metrics (views, likes, etc.) for the last few posts:
+
+```bash
+# Refresh stats for last 15 posts (fast, cheap)
+python fetch_archive.py --max-posts 15 --download-thumbnails --skip-transcripts
+```
+
+Perfect for automated workflows to keep engagement numbers fresh.
+
+### Full update with new content
+
 To fetch only new content since last run:
 
 ```bash
-python fetch_archive.py --update --extract-reviews
+python fetch_archive.py --update --extract-reviews --download-thumbnails
 ```
 
 This saves API costs by skipping content you already have.
+
+**Note**: Always use `--download-thumbnails` as TikTok CDN URLs expire within hours.
 
 ## Example output
 
@@ -248,6 +263,9 @@ Options:
   --update                 Only fetch new content
   --extract-reviews        Extract reviews using OpenAI
   --skip-transcripts       Only fetch posts, skip transcripts
+  --download-thumbnails    Download video thumbnails (URLs expire quickly)
+  --thumbnail-type TYPE    Thumbnail quality: cover, origin (default: origin)
+  --max-posts N            Limit to N recent posts (useful for refreshing engagement stats)
 ```
 
 ## Requirements

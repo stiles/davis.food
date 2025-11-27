@@ -3,8 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary Meta Tags -->
   <title>{{ title or "davis.food - School Lunch Reviews by Davis Big Dawg" }}</title>
-  <meta name="description" content="Dashboard tracking Davis Big Dawg's school lunch reviews on TikTok. See ratings, trends, and stats for every meal.">
+  <meta name="title" content="davis.food - School Lunch Reviews by Davis Big Dawg">
+  <meta name="description" content="Dashboard tracking Davis Big Dawg's school lunch reviews on TikTok. See ratings, trends and stats for every meal reviewed by the viral high school food critic.">
+  <meta name="keywords" content="Davis Big Dawg, school lunch reviews, TikTok food critic, cafeteria food, lunch ratings, viral TikTok, food dashboard">
+  <meta name="author" content="Matt Stiles">
+  <link rel="canonical" href="https://davis.food">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://davis.food">
+  <meta property="og:title" content="davis.food - School Lunch Reviews by Davis Big Dawg">
+  <meta property="og:description" content="Dashboard tracking Davis Big Dawg's viral school lunch reviews on TikTok. See ratings, trends and stats for every meal.">
+  <meta property="og:image" content="https://davis.food/davis-food-card.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:site_name" content="davis.food">
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://davis.food">
+  <meta name="twitter:title" content="davis.food - School Lunch Reviews by Davis Big Dawg">
+  <meta name="twitter:description" content="Dashboard tracking Davis Big Dawg's viral school lunch reviews on TikTok. See ratings, trends and stats for every meal.">
+  <meta name="twitter:image" content="https://davis.food/davis-food-card.jpg">
+  <meta name="twitter:creator" content="@stiles">
+  
+  <!-- Additional Meta Tags -->
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+  <meta name="revisit-after" content="7 days">
+  <meta name="theme-color" content="#00f2ea">
   
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-23PP3D5NT3"></script>
@@ -26,6 +56,27 @@
   
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "davis.food",
+    "url": "https://davis.food",
+    "description": "Dashboard tracking Davis Big Dawg's school lunch reviews on TikTok",
+    "author": {
+      "@type": "Person",
+      "name": "Matt Stiles",
+      "url": "https://mattstiles.me"
+    },
+    "about": {
+      "@type": "Person",
+      "name": "Davis Big Dawg",
+      "sameAs": "https://www.tiktok.com/@davis_big_dawg"
+    }
+  }
+  </script>
 </head>
 <body>
   {% include "header.njk" %}
