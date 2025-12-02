@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T04:16:56.206225-08:00",
-  "generated_at_formatted": "Dec. 1, 2025, at 4 a.m. PT",
+  "generated_at": "2025-12-01T16:40:09.499035-08:00",
+  "generated_at_formatted": "Dec. 1, 2025, at 4 p.m. PT",
   "username": "davis_big_dawg",
   "overall_metrics": {
     "total_reviews": 32,
@@ -1713,14 +1713,14 @@
     "thumbnail_url": "data/davis_big_dawg/thumbnails/7575304937580547342.jpg",
     "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7575304937580547342",
     "engagement": {
-      "likes": 49900,
-      "comments": 2503,
-      "shares": 648,
-      "views": 329500,
+      "likes": 50300,
+      "comments": 2508,
+      "shares": 654,
+      "views": 333200,
       "likes_formatted": "50K",
       "comments_formatted": "3K",
-      "shares_formatted": "648",
-      "views_formatted": "330K"
+      "shares_formatted": "654",
+      "views_formatted": "333K"
     }
   }
 }
