@@ -222,27 +222,30 @@ def main():
             print("\nSkipping review extraction...")
         else:
             try:
-                # Import the extract_reviews script from the same directory
+                # Run the extract_reviews script directly
+                import subprocess
                 script_dir = Path(__file__).parent
-                sys.path.insert(0, str(script_dir))
-                from extract_reviews import process_transcripts
+                extract_script = script_dir / "02_extract_reviews.py"
                 
-                review_results = process_transcripts(
-                    transcripts_json=str(transcripts_file),
-                    update_mode=args.update,
-                    existing_reviews_file=reviews_file if args.update else None
-                )
+                cmd = [
+                    sys.executable,
+                    str(extract_script),
+                    str(transcripts_file)
+                ]
                 
-                print(f"\nReview extraction complete:")
-                print(f"  School food reviews: {review_results['school_food_reviews']}")
-                print(f"  Other content: {review_results['other_content']}")
-                print(f"  Failed: {review_results['failed']}")
-                print(f"  Needs manual review: {review_results['needs_manual_review']}")
-                print(f"\nSaved to: {reviews_file}")
+                if args.update:
+                    cmd.append("--update")
                 
-            except ImportError:
-                print("Error: extract_reviews.py not found in current directory")
-                print("Make sure you're running this from examples/food_reviews/")
+                result = subprocess.run(cmd, capture_output=True, text=True)
+                
+                if result.returncode == 0:
+                    print(result.stdout)
+                    print(f"\nReview extraction complete")
+                    print(f"Saved to: {reviews_file}")
+                else:
+                    print(f"Error extracting reviews:")
+                    print(result.stderr)
+                
             except Exception as e:
                 print(f"Error extracting reviews: {e}")
     
