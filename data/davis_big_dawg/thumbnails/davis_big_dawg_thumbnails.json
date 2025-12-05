@@ -3,8 +3,8 @@
   "thumbnail_type": "origin",
   "summary": {
     "total_posts": 10,
-    "thumbnails_found": 10,
-    "thumbnails_downloaded": 10,
+    "thumbnails_found": 0,
+    "thumbnails_downloaded": 0,
     "failed": 0
   },
   "thumbnails": [
