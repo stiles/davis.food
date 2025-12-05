@@ -39,14 +39,14 @@ jobs:
           echo "Installed tiktools version:"
           pip show tiktools | grep Version
       
-      - name: Fetch new posts and refresh engagement stats
+      - name: Fetch new posts, extract reviews and refresh engagement stats
         env:
           TIKAPI_KEY: ${{ secrets.TIKAPI_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         continue-on-error: true
         run: |
-          echo "Fetching last 10 posts to refresh engagement stats and thumbnails..."
-          python scripts/fetch_archive.py --max-posts 10 --download-thumbnails --skip-transcripts || {
+          echo "Fetching last 10 posts, extracting reviews and refreshing engagement stats..."
+          python scripts/fetch_archive.py --max-posts 10 --download-thumbnails --update --extract-reviews || {
             echo "⚠️  Warning: Failed to fetch posts from TikAPI"
             echo "Possible causes:"
             echo "  - API rate limiting (workflow runs frequently)"
@@ -56,7 +56,7 @@ jobs:
             echo "Continuing with existing data..."
             exit 0
           }
-          echo "Note: Reviews are manually curated. To extract reviews for new posts, run: python scripts/fetch_archive.py --update --extract-reviews"
+          echo "Review extraction complete for new posts"
       
       - name: Generate dashboard data
         run: |
