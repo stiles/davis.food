@@ -1,29 +1,29 @@
 {
-  "generated_at": "2025-12-05T14:32:45.515102-08:00",
+  "generated_at": "2025-12-05T14:42:10.029617-08:00",
   "generated_at_formatted": "Dec. 5, 2025, at 2 p.m. PT",
   "username": "davis_big_dawg",
   "overall_metrics": {
-    "total_reviews": 32,
-    "school_lunch_reviews": 31,
-    "total_food_items": 131,
-    "overall_average_rating": 6.44,
+    "total_reviews": 34,
+    "school_lunch_reviews": 33,
+    "total_food_items": 138,
+    "overall_average_rating": 6.46,
     "favorite_category": "drink",
     "category_counts": {
-      "main_dish": 34,
+      "main_dish": 36,
       "drink": 13,
-      "side": 46,
+      "side": 48,
       "dessert": 5,
-      "other": 17,
+      "other": 20,
       "snack": 14,
       "condiment": 2
     }
   },
   "category_stats": {
     "main_dish": {
-      "average_rating": 6.51,
-      "count": 34,
+      "average_rating": 6.58,
+      "count": 36,
       "min": 3,
-      "max": 9
+      "max": 9.5
     },
     "drink": {
       "average_rating": 7.58,
@@ -32,8 +32,8 @@
       "max": 9
     },
     "side": {
-      "average_rating": 5.89,
-      "count": 46,
+      "average_rating": 5.85,
+      "count": 48,
       "min": 1,
       "max": 8.5
     },
@@ -44,10 +44,10 @@
       "max": 9
     },
     "other": {
-      "average_rating": 6.21,
-      "count": 17,
+      "average_rating": 6.4,
+      "count": 20,
       "min": 0,
-      "max": 9
+      "max": 9.5
     },
     "snack": {
       "average_rating": 7.07,
@@ -350,6 +350,24 @@
       "cumulative_views": 64261100,
       "cumulative_comments": 147987,
       "cumulative_shares": 266144
+    },
+    {
+      "date": "2025-12-01",
+      "timestamp": 1764620596,
+      "day_number": 31,
+      "cumulative_likes": 6671100,
+      "cumulative_views": 64440300,
+      "cumulative_comments": 148938,
+      "cumulative_shares": 266638
+    },
+    {
+      "date": "2025-12-04",
+      "timestamp": 1764886183,
+      "day_number": 31,
+      "cumulative_likes": 6689900,
+      "cumulative_views": 64531700,
+      "cumulative_comments": 149435,
+      "cumulative_shares": 266849
     }
   ],
   "top_posts": [
@@ -464,14 +482,16 @@
   ],
   "key_phrases": [
     "Pretty good",
+    "It's pretty good",
     "Pretty good",
     "Really good",
     "It's kind of mushy",
-    "It's pretty good",
+    "Not that great",
     "Super good",
     "Super bland",
     "It's not that great",
     "It's pretty good",
+    "It's nice and sweet",
     "It's kind of dry, but it's still pretty good",
     "One of my favorite sodas",
     "Mixing the turkey with that will be very good",
@@ -485,16 +505,83 @@
     "It's kind of soggy",
     "I love apple juice",
     "The chicken is really good, though",
-    "Not that great",
     "Very, very mediocre",
     "How's the porky taste? not that great",
     "The bread is pretty good",
     "It's very dry, though",
     "The barbecue sauce definitely, like, kind of carries it",
-    "Um, which is kind of unfortunate",
-    "They're still pretty good, though"
+    "Um, which is kind of unfortunate"
   ],
   "posts_table": [
+    {
+      "post_id": "7580128374031535374",
+      "day_number": 31,
+      "date": "2025-12-04",
+      "timestamp": 1764886183,
+      "average_rating": 5.75,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Spaghetti",
+          "score": 6,
+          "category": "main_dish"
+        },
+        {
+          "name": "Breadstick",
+          "score": 4,
+          "category": "side"
+        },
+        {
+          "name": "Peaches",
+          "score": 6,
+          "category": "other"
+        },
+        {
+          "name": "Barbecue flavor (unspecified food)",
+          "score": 7,
+          "category": "other"
+        }
+      ],
+      "likes": 18800,
+      "views": 91400,
+      "comments": 497,
+      "shares": 211,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7580128374031535374",
+      "needs_review": false,
+      "review_number": 33
+    },
+    {
+      "post_id": "7578987568356789559",
+      "day_number": 31,
+      "date": "2025-12-01",
+      "timestamp": 1764620596,
+      "average_rating": 8.33,
+      "food_count": 3,
+      "foods": [
+        {
+          "name": "Grilled cheese",
+          "score": 9.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Tomato soup",
+          "score": 9.5,
+          "category": "other"
+        },
+        {
+          "name": "French fries",
+          "score": 6,
+          "category": "side"
+        }
+      ],
+      "likes": 33600,
+      "views": 179200,
+      "comments": 951,
+      "shares": 494,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7578987568356789559",
+      "needs_review": false,
+      "review_number": 32
+    },
     {
       "post_id": "7575304937580547342",
       "day_number": 30,
@@ -1654,19 +1741,23 @@
       "count": 5
     },
     {
+      "name": "Breadstick",
+      "count": 5
+    },
+    {
       "name": "Salad",
       "count": 5
     },
     {
-      "name": "Breadstick",
+      "name": "Peaches",
       "count": 4
     },
     {
-      "name": "Applesauce",
+      "name": "Spaghetti",
       "count": 3
     },
     {
-      "name": "Peaches",
+      "name": "Applesauce",
       "count": 3
     },
     {
@@ -1684,43 +1775,51 @@
     {
       "name": "Corn",
       "count": 2
-    },
-    {
-      "name": "Rib Sandwich",
-      "count": 2
     }
   ],
   "latest_review": {
-    "post_id": "7575304937580547342",
-    "day_number": 30,
-    "review_number": 31,
-    "date": "2025-11-21",
+    "post_id": "7580128374031535374",
+    "day_number": 31,
+    "review_number": 33,
+    "date": "2025-12-04",
     "foods": [
       {
-        "name": "Burger on a biscuit",
+        "name": "Spaghetti",
         "category": "main_dish",
         "score": 6,
-        "comments": "It's kind of dry, but it's still pretty good. The tomatoes and the lettuce really add a lot."
+        "comments": "The pasta is good. Meat sauce is good."
       },
       {
-        "name": "Tropical lime baha blast",
-        "category": "drink",
-        "score": 8,
-        "comments": "Pretty good. One of my favorite sodas."
+        "name": "Breadstick",
+        "category": "side",
+        "score": 4,
+        "comments": "Could be cooked longer. Not the best today."
+      },
+      {
+        "name": "Peaches",
+        "category": "other",
+        "score": 6,
+        "comments": "I feel like they're a little old."
+      },
+      {
+        "name": "Barbecue flavor (unspecified food)",
+        "category": "other",
+        "score": 7,
+        "comments": "Nice barbecue flavor. Nice and salty."
       }
     ],
-    "average_rating": 7.0,
-    "thumbnail_url": "data/davis_big_dawg/thumbnails/7575304937580547342.jpg",
-    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7575304937580547342",
+    "average_rating": 5.8,
+    "thumbnail_url": "data/davis_big_dawg/thumbnails/7580128374031535374.jpg",
+    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7580128374031535374",
     "engagement": {
-      "likes": 51100,
-      "comments": 2526,
-      "shares": 671,
-      "views": 345500,
-      "likes_formatted": "51K",
-      "comments_formatted": "3K",
-      "shares_formatted": "671",
-      "views_formatted": "346K"
+      "likes": 18800,
+      "comments": 497,
+      "shares": 211,
+      "views": 91400,
+      "likes_formatted": "19K",
+      "comments_formatted": "497",
+      "shares_formatted": "211",
+      "views_formatted": "91K"
     }
   }
 }
