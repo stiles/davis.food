@@ -1,10 +1,10 @@
 {
   "username": "davis_big_dawg",
   "total_transcripts": 66,
-  "school_food_reviews": 0,
-  "other_content": 32,
+  "school_food_reviews": 3,
+  "other_content": 31,
   "failed": 0,
-  "needs_manual_review": 0,
+  "needs_manual_review": 1,
   "reviews": [
     {
       "post_id": "7575304937580547342",
@@ -1337,6 +1337,53 @@
       }
     },
     {
+      "post_id": "7572392806510054669",
+      "description": "#moessouthwestgrill #fyp #viral #him #good ",
+      "create_time": 1763085118,
+      "day_number": null,
+      "needs_review": true,
+      "review_reason": "Multiple scores given for the same food without clarity",
+      "foods": [
+        {
+          "name": "burrito with chicken, rice, sour cream, lettuce, tomatoes, cheese, and queso",
+          "category": "main_dish",
+          "score": 6.5,
+          "comments": "Without the queso, it's pretty good but a little bland."
+        },
+        {
+          "name": "burrito with chicken, rice, sour cream, lettuce, tomatoes, cheese, and queso",
+          "category": "main_dish",
+          "score": 7.5,
+          "comments": "With the queso, it's a lot better."
+        },
+        {
+          "name": "chips",
+          "category": "snack",
+          "score": null,
+          "comments": "Used to scoop the queso."
+        },
+        {
+          "name": "queso",
+          "category": "condiment",
+          "score": null,
+          "comments": "Makes the burrito a lot better."
+        },
+        {
+          "name": "drink",
+          "category": "drink",
+          "score": null,
+          "comments": "Part of the value meal."
+        }
+      ],
+      "stats": {
+        "collectCount": 575,
+        "commentCount": 1250,
+        "diggCount": 53500,
+        "playCount": 321300,
+        "shareCount": 707
+      }
+    },
+    {
       "post_id": "7580128374031535374",
       "description": "#fyp #viral #good #schoollunch #him ",
       "create_time": 1764886183,
@@ -1347,7 +1394,7 @@
         {
           "name": "spaghetti",
           "category": "main_dish",
-          "score": 6,
+          "score": 6.5,
           "comments": "The pasta is good. Meat sauce is good."
         },
         {
@@ -1363,7 +1410,7 @@
           "comments": "I feel like they're a little old."
         },
         {
-          "name": "barbecue flavor (unspecified food)",
+          "name": "barbecue flavor",
           "category": "other",
           "score": 7,
           "comments": "Nice barbecue flavor. Nice and salty."
@@ -1386,22 +1433,16 @@
       "review_reason": null,
       "foods": [
         {
-          "name": "grilled cheese",
+          "name": "grilled cheese and tomato soup",
           "category": "main_dish",
           "score": 9.5,
-          "comments": "I wish the cheese was melted more. It's pretty good."
-        },
-        {
-          "name": "tomato soup",
-          "category": "other",
-          "score": 9.5,
-          "comments": "The tomato soup is really good. It's nice and sweet. It's nice and warm."
+          "comments": "I wish the cheese was melted more. It's pretty good, though. The tomato soup is really good. It's nice and sweet. It's nice and warm. This combo, one of my favorite."
         },
         {
           "name": "French fries",
           "category": "side",
           "score": 6,
-          "comments": "Not that great. Kind of bland and really potatoey."
+          "comments": "Not that great. Um, kind of bland and really potatoey."
         }
       ],
       "stats": {
@@ -1413,6 +1454,6 @@
       }
     }
   ],
-  "new_reviews_processed": 32,
-  "skipped_existing": 34
+  "new_reviews_processed": 34,
+  "skipped_existing": 32
 }

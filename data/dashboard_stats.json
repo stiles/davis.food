@@ -1,27 +1,27 @@
 {
-  "generated_at": "2025-12-05T14:42:10.029617-08:00",
+  "generated_at": "2025-12-05T14:50:01.958818-08:00",
   "generated_at_formatted": "Dec. 5, 2025, at 2 p.m. PT",
   "username": "davis_big_dawg",
   "overall_metrics": {
-    "total_reviews": 34,
-    "school_lunch_reviews": 33,
-    "total_food_items": 138,
-    "overall_average_rating": 6.46,
+    "total_reviews": 35,
+    "school_lunch_reviews": 34,
+    "total_food_items": 142,
+    "overall_average_rating": 6.45,
     "favorite_category": "drink",
     "category_counts": {
-      "main_dish": 36,
-      "drink": 13,
+      "main_dish": 38,
+      "drink": 14,
       "side": 48,
       "dessert": 5,
-      "other": 20,
-      "snack": 14,
-      "condiment": 2
+      "other": 19,
+      "snack": 15,
+      "condiment": 3
     }
   },
   "category_stats": {
     "main_dish": {
-      "average_rating": 6.58,
-      "count": 36,
+      "average_rating": 6.62,
+      "count": 38,
       "min": 3,
       "max": 9.5
     },
@@ -44,10 +44,10 @@
       "max": 9
     },
     "other": {
-      "average_rating": 6.4,
-      "count": 20,
+      "average_rating": 6.24,
+      "count": 19,
       "min": 0,
-      "max": 9.5
+      "max": 9
     },
     "snack": {
       "average_rating": 7.07,
@@ -136,7 +136,7 @@
       "cumulative_shares": 194369
     },
     {
-      "date": "2025-10-04",
+      "date": "2025-10-03",
       "timestamp": 1759543925,
       "day_number": 8,
       "cumulative_likes": 3660500,
@@ -307,7 +307,7 @@
       "cumulative_shares": 262911
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "timestamp": 1762821287,
       "day_number": 26,
       "cumulative_likes": 6462600,
@@ -325,49 +325,58 @@
       "cumulative_shares": 264578
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-13",
+      "timestamp": 1763085118,
+      "day_number": null,
+      "cumulative_likes": 6570600,
+      "cumulative_views": 63933800,
+      "cumulative_comments": 145249,
+      "cumulative_shares": 265285
+    },
+    {
+      "date": "2025-11-17",
       "timestamp": 1763424806,
       "day_number": 28,
-      "cumulative_likes": 6557100,
-      "cumulative_views": 63825500,
-      "cumulative_comments": 144913,
-      "cumulative_shares": 265059
+      "cumulative_likes": 6610600,
+      "cumulative_views": 64146800,
+      "cumulative_comments": 146163,
+      "cumulative_shares": 265766
     },
     {
       "date": "2025-11-18",
       "timestamp": 1763501305,
       "day_number": 29,
-      "cumulative_likes": 6604600,
-      "cumulative_views": 64087200,
-      "cumulative_comments": 146063,
-      "cumulative_shares": 265745
+      "cumulative_likes": 6658100,
+      "cumulative_views": 64408500,
+      "cumulative_comments": 147313,
+      "cumulative_shares": 266452
     },
     {
       "date": "2025-11-21",
       "timestamp": 1763763162,
       "day_number": 30,
-      "cumulative_likes": 6637500,
-      "cumulative_views": 64261100,
-      "cumulative_comments": 147987,
-      "cumulative_shares": 266144
+      "cumulative_likes": 6691000,
+      "cumulative_views": 64582400,
+      "cumulative_comments": 149237,
+      "cumulative_shares": 266851
     },
     {
       "date": "2025-12-01",
       "timestamp": 1764620596,
       "day_number": 31,
-      "cumulative_likes": 6671100,
-      "cumulative_views": 64440300,
-      "cumulative_comments": 148938,
-      "cumulative_shares": 266638
+      "cumulative_likes": 6724600,
+      "cumulative_views": 64761600,
+      "cumulative_comments": 150188,
+      "cumulative_shares": 267345
     },
     {
       "date": "2025-12-04",
       "timestamp": 1764886183,
       "day_number": 31,
-      "cumulative_likes": 6689900,
-      "cumulative_views": 64531700,
-      "cumulative_comments": 149435,
-      "cumulative_shares": 266849
+      "cumulative_likes": 6743400,
+      "cumulative_views": 64853000,
+      "cumulative_comments": 150685,
+      "cumulative_shares": 267556
     }
   ],
   "top_posts": [
@@ -482,11 +491,11 @@
   ],
   "key_phrases": [
     "Pretty good",
-    "It's pretty good",
     "Pretty good",
     "Really good",
     "It's kind of mushy",
     "Not that great",
+    "It's pretty good",
     "Super good",
     "Super bland",
     "It's not that great",
@@ -518,12 +527,12 @@
       "day_number": 31,
       "date": "2025-12-04",
       "timestamp": 1764886183,
-      "average_rating": 5.75,
+      "average_rating": 5.88,
       "food_count": 4,
       "foods": [
         {
           "name": "Spaghetti",
-          "score": 6,
+          "score": 6.5,
           "category": "main_dish"
         },
         {
@@ -537,7 +546,7 @@
           "category": "other"
         },
         {
-          "name": "Barbecue flavor (unspecified food)",
+          "name": "Barbecue flavor",
           "score": 7,
           "category": "other"
         }
@@ -548,25 +557,20 @@
       "shares": 211,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7580128374031535374",
       "needs_review": false,
-      "review_number": 33
+      "review_number": 34
     },
     {
       "post_id": "7578987568356789559",
       "day_number": 31,
       "date": "2025-12-01",
       "timestamp": 1764620596,
-      "average_rating": 8.33,
-      "food_count": 3,
+      "average_rating": 7.75,
+      "food_count": 2,
       "foods": [
         {
-          "name": "Grilled cheese",
+          "name": "Grilled cheese and tomato soup",
           "score": 9.5,
           "category": "main_dish"
-        },
-        {
-          "name": "Tomato soup",
-          "score": 9.5,
-          "category": "other"
         },
         {
           "name": "French fries",
@@ -580,7 +584,7 @@
       "shares": 494,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7578987568356789559",
       "needs_review": false,
-      "review_number": 32
+      "review_number": 33
     },
     {
       "post_id": "7575304937580547342",
@@ -607,7 +611,7 @@
       "shares": 399,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7575304937580547342",
       "needs_review": false,
-      "review_number": 31
+      "review_number": 32
     },
     {
       "post_id": "7574180246979759373",
@@ -649,12 +653,12 @@
       "shares": 686,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7574180246979759373",
       "needs_review": false,
-      "review_number": 30
+      "review_number": 31
     },
     {
       "post_id": "7573851741700033805",
       "day_number": 28,
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "timestamp": 1763424806,
       "average_rating": 6.5,
       "food_count": 4,
@@ -686,6 +690,48 @@
       "shares": 481,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7573851741700033805",
       "needs_review": false,
+      "review_number": 30
+    },
+    {
+      "post_id": "7572392806510054669",
+      "day_number": null,
+      "date": "2025-11-13",
+      "timestamp": 1763085118,
+      "average_rating": 7.0,
+      "food_count": 5,
+      "foods": [
+        {
+          "name": "Burrito with chicken, rice, sour cream, lettuce, tomatoes, cheese, and queso",
+          "score": 6.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Burrito with chicken, rice, sour cream, lettuce, tomatoes, cheese, and queso",
+          "score": 7.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Chips",
+          "score": null,
+          "category": "snack"
+        },
+        {
+          "name": "Queso",
+          "score": null,
+          "category": "condiment"
+        },
+        {
+          "name": "Drink",
+          "score": null,
+          "category": "drink"
+        }
+      ],
+      "likes": 53500,
+      "views": 321300,
+      "comments": 1250,
+      "shares": 707,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7572392806510054669",
+      "needs_review": true,
       "review_number": 29
     },
     {
@@ -718,7 +764,7 @@
     {
       "post_id": "7571259716605726007",
       "day_number": 26,
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "timestamp": 1762821287,
       "average_rating": 5.38,
       "food_count": 4,
@@ -1416,7 +1462,7 @@
     {
       "post_id": "7557183509081640206",
       "day_number": 8,
-      "date": "2025-10-04",
+      "date": "2025-10-03",
       "timestamp": 1759543925,
       "average_rating": 5.58,
       "food_count": 6,
@@ -1780,13 +1826,13 @@
   "latest_review": {
     "post_id": "7580128374031535374",
     "day_number": 31,
-    "review_number": 33,
+    "review_number": 34,
     "date": "2025-12-04",
     "foods": [
       {
         "name": "Spaghetti",
         "category": "main_dish",
-        "score": 6,
+        "score": 6.5,
         "comments": "The pasta is good. Meat sauce is good."
       },
       {
@@ -1802,13 +1848,13 @@
         "comments": "I feel like they're a little old."
       },
       {
-        "name": "Barbecue flavor (unspecified food)",
+        "name": "Barbecue flavor",
         "category": "other",
         "score": 7,
         "comments": "Nice barbecue flavor. Nice and salty."
       }
     ],
-    "average_rating": 5.8,
+    "average_rating": 5.9,
     "thumbnail_url": "data/davis_big_dawg/thumbnails/7580128374031535374.jpg",
     "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7580128374031535374",
     "engagement": {

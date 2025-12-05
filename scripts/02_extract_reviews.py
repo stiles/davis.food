@@ -32,9 +32,10 @@ Rules:
 - For each food item, extract:
   - Food name
   - Category (one of: main_dish, side, drink, dessert, condiment, snack, other)
-  - Score (out of 10, as a number)
+  - Score (out of 10, as a number - preserve decimals like 6.5, 7.5, etc.)
   - Comments (what was said about the food)
-- If a score is given as a range (like "6.5-7"), use the first number
+- If a score is given as a range (like "6.5-7" or "between 6 and 7"), use the first/lower number
+- IMPORTANT: Preserve decimal scores exactly as stated (e.g., "6.5 out of 10" should be 6.5, not 6)
 - Categorize foods appropriately:
   - main_dish: burgers, pizza, chicken nuggets, sandwiches, entrees
   - side: fries, tater tots, vegetables, salad, rice, breadsticks
