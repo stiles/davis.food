@@ -244,7 +244,10 @@ def main():
                     print(f"Saved to: {reviews_file}")
                 else:
                     print(f"Error extracting reviews:")
-                    print(result.stderr)
+                    if result.stdout:
+                        print(result.stdout)
+                    if result.stderr:
+                        print(result.stderr)
                 
             except Exception as e:
                 print(f"Error extracting reviews: {e}")

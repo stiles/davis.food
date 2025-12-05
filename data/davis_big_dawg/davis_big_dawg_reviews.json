@@ -1,10 +1,10 @@
 {
   "username": "davis_big_dawg",
-  "total_transcripts": 57,
-  "school_food_reviews": 32,
-  "other_content": 25,
+  "total_transcripts": 66,
+  "school_food_reviews": 2,
+  "other_content": 32,
   "failed": 0,
-  "needs_manual_review": 2,
+  "needs_manual_review": 0,
   "reviews": [
     {
       "post_id": "7575304937580547342",
@@ -1335,8 +1335,84 @@
         "playCount": 1900000,
         "shareCount": 6631
       }
+    },
+    {
+      "post_id": "7580128374031535374",
+      "description": "#fyp #viral #good #schoollunch #him ",
+      "create_time": 1764886183,
+      "day_number": 31,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "spaghetti",
+          "category": "main_dish",
+          "score": 6,
+          "comments": "The pasta is good. Meat sauce is good."
+        },
+        {
+          "name": "breadstick",
+          "category": "side",
+          "score": 4,
+          "comments": "Could be cooked longer. Not the best today."
+        },
+        {
+          "name": "peaches",
+          "category": "other",
+          "score": 6,
+          "comments": "I feel like they're a little old."
+        },
+        {
+          "name": "barbecue flavor (unspecified food)",
+          "category": "other",
+          "score": 7,
+          "comments": "Nice barbecue flavor. Nice and salty."
+        }
+      ],
+      "stats": {
+        "collectCount": 166,
+        "commentCount": 497,
+        "diggCount": 18800,
+        "playCount": 91400,
+        "shareCount": 211
+      }
+    },
+    {
+      "post_id": "7578987568356789559",
+      "description": "#fyp #viral #good #schoollunch #him ",
+      "create_time": 1764620596,
+      "day_number": 31,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "grilled cheese",
+          "category": "main_dish",
+          "score": 9.5,
+          "comments": "I wish the cheese was melted more. It's pretty good."
+        },
+        {
+          "name": "tomato soup",
+          "category": "other",
+          "score": 9.5,
+          "comments": "The tomato soup is really good. It's nice and sweet. It's nice and warm."
+        },
+        {
+          "name": "French fries",
+          "category": "side",
+          "score": 6,
+          "comments": "Not that great. Kind of bland and really potatoey."
+        }
+      ],
+      "stats": {
+        "collectCount": 306,
+        "commentCount": 951,
+        "diggCount": 33600,
+        "playCount": 179200,
+        "shareCount": 494
+      }
     }
   ],
-  "new_reviews_processed": 57,
-  "skipped_existing": 0
+  "new_reviews_processed": 34,
+  "skipped_existing": 32
 }
