@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 10,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 11,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -176,6 +176,23 @@
         "diggCount": 51100,
         "playCount": 345500,
         "shareCount": 671
+      }
+    },
+    {
+      "post_id": "7581219314976558350",
+      "description": "New sponge bob bundle pretty good #fyp #viral #spongebobsquarepants #burger #review ",
+      "create_time": 1765140209,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4fb1MLABBAiNHwc7gBsp0IvmIQLr5INvimCQD~tplv-tiktokx-origin.image?dr=10395&x-expires=1765324800&x-signature=GfERozAKkGmR59rRh%2FaJcqXp6EM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7581219314976558350.jpg",
+      "file_size": 82132,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 136,
+        "commentCount": 416,
+        "diggCount": 12400,
+        "playCount": 78000,
+        "shareCount": 504
       }
     }
   ]

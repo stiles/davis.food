@@ -1,7 +1,7 @@
 {
   "username": "davis_big_dawg",
-  "total_transcripts": 66,
-  "school_food_reviews": 0,
+  "total_transcripts": 67,
+  "school_food_reviews": 1,
   "other_content": 31,
   "failed": 0,
   "needs_manual_review": 0,
@@ -1452,8 +1452,49 @@
         "playCount": 179200,
         "shareCount": 494
       }
+    },
+    {
+      "post_id": "7581219314976558350",
+      "description": "New sponge bob bundle pretty good #fyp #viral #spongebobsquarepants #burger #review ",
+      "create_time": 1765140209,
+      "day_number": null,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "burger",
+          "category": "main_dish",
+          "score": 6,
+          "comments": "The bun is yellow, really thick, and overpowers the burger. It's actually really good."
+        },
+        {
+          "name": "bacon cheese tots",
+          "category": "side",
+          "score": 7,
+          "comments": "I definitely get the bacon taste, but I see no bacon. They taste pretty good though, nice and cheesy."
+        },
+        {
+          "name": "Hershey pie",
+          "category": "dessert",
+          "score": 9,
+          "comments": "Nice and chocolatey, nice and creamy. That's actually really good."
+        },
+        {
+          "name": "frozen Coca Cola",
+          "category": "drink",
+          "score": 7,
+          "comments": "Just tastes like you would imagine. It's pretty good."
+        }
+      ],
+      "stats": {
+        "collectCount": 136,
+        "commentCount": 416,
+        "diggCount": 12400,
+        "playCount": 78000,
+        "shareCount": 504
+      }
     }
   ],
-  "new_reviews_processed": 31,
+  "new_reviews_processed": 32,
   "skipped_existing": 35
 }
