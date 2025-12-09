@@ -1,17 +1,17 @@
 {
-  "generated_at": "2025-12-08T04:17:55.758983-08:00",
-  "generated_at_formatted": "Dec. 8, 2025, at 4 a.m. PT",
+  "generated_at": "2025-12-08T16:39:58.488858-08:00",
+  "generated_at_formatted": "Dec. 8, 2025, at 4 p.m. PT",
   "username": "davis_big_dawg",
   "overall_metrics": {
-    "total_reviews": 36,
-    "school_lunch_reviews": 35,
-    "total_food_items": 146,
-    "overall_average_rating": 6.48,
+    "total_reviews": 37,
+    "school_lunch_reviews": 36,
+    "total_food_items": 149,
+    "overall_average_rating": 6.49,
     "favorite_category": "dessert",
     "category_counts": {
-      "main_dish": 39,
-      "drink": 15,
-      "side": 49,
+      "main_dish": 40,
+      "drink": 16,
+      "side": 50,
       "dessert": 6,
       "other": 19,
       "snack": 15,
@@ -20,20 +20,20 @@
   },
   "category_stats": {
     "main_dish": {
-      "average_rating": 6.6,
-      "count": 39,
+      "average_rating": 6.61,
+      "count": 40,
       "min": 3,
       "max": 9.5
     },
     "drink": {
-      "average_rating": 7.54,
-      "count": 14,
+      "average_rating": 7.57,
+      "count": 15,
       "min": 5,
       "max": 9
     },
     "side": {
       "average_rating": 5.88,
-      "count": 49,
+      "count": 50,
       "min": 1,
       "max": 8.5
     },
@@ -386,6 +386,15 @@
       "cumulative_views": 64931000,
       "cumulative_comments": 151101,
       "cumulative_shares": 268060
+    },
+    {
+      "date": "2025-12-08",
+      "timestamp": 1765233795,
+      "day_number": null,
+      "cumulative_likes": 6766500,
+      "cumulative_views": 65003400,
+      "cumulative_comments": 151626,
+      "cumulative_shares": 268400
     }
   ],
   "top_posts": [
@@ -531,6 +540,38 @@
     "The barbecue sauce definitely, like, kind of carries it"
   ],
   "posts_table": [
+    {
+      "post_id": "7581621277367029006",
+      "day_number": null,
+      "date": "2025-12-08",
+      "timestamp": 1765233795,
+      "average_rating": 7.0,
+      "food_count": 3,
+      "foods": [
+        {
+          "name": "Big Mac",
+          "score": 7,
+          "category": "main_dish"
+        },
+        {
+          "name": "Grinch fries",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Diet Dr. Pepper",
+          "score": 8,
+          "category": "drink"
+        }
+      ],
+      "likes": 10700,
+      "views": 72400,
+      "comments": 525,
+      "shares": 340,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7581621277367029006",
+      "needs_review": false,
+      "review_number": 36
+    },
     {
       "post_id": "7581219314976558350",
       "day_number": null,
@@ -1870,48 +1911,42 @@
     }
   ],
   "latest_review": {
-    "post_id": "7581219314976558350",
+    "post_id": "7581621277367029006",
     "day_number": null,
-    "review_number": 35,
-    "date": "2025-12-07",
+    "review_number": 36,
+    "date": "2025-12-08",
     "foods": [
       {
-        "name": "Burger",
+        "name": "Big mac",
         "category": "main_dish",
-        "score": 6,
-        "comments": "The bun is yellow, really thick, and overpowers the burger. It's actually really good."
+        "score": 7,
+        "comments": "I really enjoyed the Big Mac sauce. It's like a thousand Islands. I feel like the three buns is a little too much."
       },
       {
-        "name": "Bacon cheese tots",
+        "name": "Grinch fries",
         "category": "side",
-        "score": 7,
-        "comments": "I definitely get the bacon taste, but I see no bacon. They taste pretty good though, nice and cheesy."
+        "score": 6,
+        "comments": "Nice pickly flavor. If you've ever had the Pickle Lay's chips, it reminds me of that seasoning. I think I prefer regular fries more."
       },
       {
-        "name": "Hershey pie",
-        "category": "dessert",
-        "score": 9,
-        "comments": "Nice and chocolatey, nice and creamy. That's actually really good."
-      },
-      {
-        "name": "Frozen coca cola",
+        "name": "Diet dr. pepper",
         "category": "drink",
-        "score": 7,
-        "comments": "Just tastes like you would imagine. It's pretty good."
+        "score": 8,
+        "comments": "It's one of my favorite diet sodas."
       }
     ],
-    "average_rating": 7.2,
-    "thumbnail_url": "data/davis_big_dawg/thumbnails/7581219314976558350.jpg",
-    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7581219314976558350",
+    "average_rating": 7.0,
+    "thumbnail_url": "data/davis_big_dawg/thumbnails/7581621277367029006.jpg",
+    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7581621277367029006",
     "engagement": {
-      "likes": 12400,
-      "comments": 416,
-      "shares": 504,
-      "views": 78000,
-      "likes_formatted": "12K",
-      "comments_formatted": "416",
-      "shares_formatted": "504",
-      "views_formatted": "78K"
+      "likes": 10700,
+      "comments": 525,
+      "shares": 340,
+      "views": 72400,
+      "likes_formatted": "11K",
+      "comments_formatted": "525",
+      "shares_formatted": "340",
+      "views_formatted": "72K"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "username": "davis_big_dawg",
-  "total_transcripts": 67,
-  "school_food_reviews": 0,
+  "total_transcripts": 68,
+  "school_food_reviews": 1,
   "other_content": 31,
   "failed": 0,
   "needs_manual_review": 0,
@@ -1493,8 +1493,43 @@
         "playCount": 78000,
         "shareCount": 504
       }
+    },
+    {
+      "post_id": "7581621277367029006",
+      "description": "#fyp #viral #grinch #mcdonalds #review ",
+      "create_time": 1765233795,
+      "day_number": null,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "Big Mac",
+          "category": "main_dish",
+          "score": 7,
+          "comments": "I really enjoyed the Big Mac sauce. It's like a thousand Islands. I feel like the three buns is a little too much."
+        },
+        {
+          "name": "Grinch fries",
+          "category": "side",
+          "score": 6,
+          "comments": "Nice pickly flavor. If you've ever had the Pickle Lay's chips, it reminds me of that seasoning. I think I prefer regular fries more."
+        },
+        {
+          "name": "diet Dr. Pepper",
+          "category": "drink",
+          "score": 8,
+          "comments": "It's one of my favorite diet sodas."
+        }
+      ],
+      "stats": {
+        "collectCount": 142,
+        "commentCount": 525,
+        "diggCount": 10700,
+        "playCount": 72400,
+        "shareCount": 340
+      }
     }
   ],
-  "new_reviews_processed": 31,
+  "new_reviews_processed": 32,
   "skipped_existing": 36
 }

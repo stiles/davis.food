@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 11,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 12,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -193,6 +193,23 @@
         "diggCount": 12400,
         "playCount": 78000,
         "shareCount": 504
+      }
+    },
+    {
+      "post_id": "7581621277367029006",
+      "description": "#fyp #viral #grinch #mcdonalds #review ",
+      "create_time": 1765233795,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oA1BhMQfxuPpFDAhQOQqRqXDgEfESoC0DANvQg~tplv-tiktokx-origin.image?dr=10395&x-expires=1765411200&x-signature=lf96ueH5QybmWa4YYilyI%2FD2dC0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7581621277367029006.jpg",
+      "file_size": 82694,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 142,
+        "commentCount": 525,
+        "diggCount": 10700,
+        "playCount": 72400,
+        "shareCount": 340
       }
     }
   ]
