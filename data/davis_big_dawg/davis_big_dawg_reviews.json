@@ -1,7 +1,7 @@
 {
   "username": "davis_big_dawg",
-  "total_transcripts": 68,
-  "school_food_reviews": 0,
+  "total_transcripts": 69,
+  "school_food_reviews": 1,
   "other_content": 31,
   "failed": 0,
   "needs_manual_review": 0,
@@ -1528,8 +1528,49 @@
         "playCount": 72400,
         "shareCount": 340
       }
+    },
+    {
+      "post_id": "7582042520259988750",
+      "description": "#fyp #viral #schoollunch #review #chicken ",
+      "create_time": 1765331853,
+      "day_number": 32,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "Mac and cheese",
+          "category": "main_dish",
+          "score": 5,
+          "comments": "It's not really cheesy. It's fake cheese. It's pretty good. It's like. It's not that great."
+        },
+        {
+          "name": "chicken nuggets",
+          "category": "main_dish",
+          "score": 6.5,
+          "comments": "Chicken nuggets are not that bad. The crust could be crunchier, but overall it's not that bad."
+        },
+        {
+          "name": "tater tots",
+          "category": "side",
+          "score": 3,
+          "comments": "Super undercooked, and they have quite a weird taste."
+        },
+        {
+          "name": "peaches",
+          "category": "other",
+          "score": 8,
+          "comments": "Peaches are pretty good."
+        }
+      ],
+      "stats": {
+        "collectCount": 145,
+        "commentCount": 451,
+        "diggCount": 16600,
+        "playCount": 81200,
+        "shareCount": 204
+      }
     }
   ],
-  "new_reviews_processed": 31,
+  "new_reviews_processed": 32,
   "skipped_existing": 37
 }

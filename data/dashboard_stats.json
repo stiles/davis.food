@@ -1,27 +1,27 @@
 {
-  "generated_at": "2025-12-09T16:40:42.231149-08:00",
-  "generated_at_formatted": "Dec. 9, 2025, at 4 p.m. PT",
+  "generated_at": "2025-12-10T04:18:02.680844-08:00",
+  "generated_at_formatted": "Dec. 10, 2025, at 4 a.m. PT",
   "username": "davis_big_dawg",
   "overall_metrics": {
-    "total_reviews": 37,
-    "school_lunch_reviews": 36,
-    "total_food_items": 149,
-    "overall_average_rating": 6.49,
+    "total_reviews": 38,
+    "school_lunch_reviews": 37,
+    "total_food_items": 153,
+    "overall_average_rating": 6.46,
     "favorite_category": "dessert",
     "category_counts": {
-      "main_dish": 40,
+      "main_dish": 42,
       "drink": 16,
-      "side": 50,
+      "side": 51,
       "dessert": 6,
-      "other": 19,
+      "other": 20,
       "snack": 15,
       "condiment": 3
     }
   },
   "category_stats": {
     "main_dish": {
-      "average_rating": 6.61,
-      "count": 40,
+      "average_rating": 6.57,
+      "count": 42,
       "min": 3,
       "max": 9.5
     },
@@ -32,8 +32,8 @@
       "max": 9
     },
     "side": {
-      "average_rating": 5.88,
-      "count": 50,
+      "average_rating": 5.82,
+      "count": 51,
       "min": 1,
       "max": 8.5
     },
@@ -44,8 +44,8 @@
       "max": 9
     },
     "other": {
-      "average_rating": 6.24,
-      "count": 19,
+      "average_rating": 6.33,
+      "count": 20,
       "min": 0,
       "max": 9
     },
@@ -395,6 +395,15 @@
       "cumulative_views": 65003400,
       "cumulative_comments": 151626,
       "cumulative_shares": 268400
+    },
+    {
+      "date": "2025-12-10",
+      "timestamp": 1765331853,
+      "day_number": 32,
+      "cumulative_likes": 6783100,
+      "cumulative_views": 65084600,
+      "cumulative_comments": 152077,
+      "cumulative_shares": 268604
     }
   ],
   "top_posts": [
@@ -511,12 +520,12 @@
     "Pretty good",
     "It's pretty good",
     "Pretty good",
+    "It's not that great",
     "Really good",
     "It's kind of mushy",
     "Not that great",
     "Super good",
     "Super bland",
-    "It's not that great",
     "It's pretty good",
     "That's actually really good",
     "It's nice and sweet",
@@ -540,6 +549,43 @@
     "The barbecue sauce definitely, like, kind of carries it"
   ],
   "posts_table": [
+    {
+      "post_id": "7582042520259988750",
+      "day_number": 32,
+      "date": "2025-12-10",
+      "timestamp": 1765331853,
+      "average_rating": 5.62,
+      "food_count": 4,
+      "foods": [
+        {
+          "name": "Mac and cheese",
+          "score": 5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Chicken nuggets",
+          "score": 6.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Tater tots",
+          "score": 3,
+          "category": "side"
+        },
+        {
+          "name": "Peaches",
+          "score": 8,
+          "category": "other"
+        }
+      ],
+      "likes": 16600,
+      "views": 81200,
+      "comments": 451,
+      "shares": 204,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582042520259988750",
+      "needs_review": false,
+      "review_number": 37
+    },
     {
       "post_id": "7581621277367029006",
       "day_number": null,
@@ -1883,7 +1929,7 @@
     },
     {
       "name": "Peaches",
-      "count": 4
+      "count": 5
     },
     {
       "name": "Spaghetti",
@@ -1906,47 +1952,53 @@
       "count": 2
     },
     {
-      "name": "Corn",
+      "name": "Tater Tots",
       "count": 2
     }
   ],
   "latest_review": {
-    "post_id": "7581621277367029006",
-    "day_number": null,
-    "review_number": 36,
-    "date": "2025-12-08",
+    "post_id": "7582042520259988750",
+    "day_number": 32,
+    "review_number": 37,
+    "date": "2025-12-10",
     "foods": [
       {
-        "name": "Big mac",
+        "name": "Mac and cheese",
         "category": "main_dish",
-        "score": 7,
-        "comments": "I really enjoyed the Big Mac sauce. It's like a thousand Islands. I feel like the three buns is a little too much."
+        "score": 5,
+        "comments": "It's not really cheesy. It's fake cheese. It's pretty good. It's like. It's not that great."
       },
       {
-        "name": "Grinch fries",
+        "name": "Chicken nuggets",
+        "category": "main_dish",
+        "score": 6.5,
+        "comments": "Chicken nuggets are not that bad. The crust could be crunchier, but overall it's not that bad."
+      },
+      {
+        "name": "Tater tots",
         "category": "side",
-        "score": 6,
-        "comments": "Nice pickly flavor. If you've ever had the Pickle Lay's chips, it reminds me of that seasoning. I think I prefer regular fries more."
+        "score": 3,
+        "comments": "Super undercooked, and they have quite a weird taste."
       },
       {
-        "name": "Diet dr. pepper",
-        "category": "drink",
+        "name": "Peaches",
+        "category": "other",
         "score": 8,
-        "comments": "It's one of my favorite diet sodas."
+        "comments": "Peaches are pretty good."
       }
     ],
-    "average_rating": 7.0,
-    "thumbnail_url": "data/davis_big_dawg/thumbnails/7581621277367029006.jpg",
-    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7581621277367029006",
+    "average_rating": 5.6,
+    "thumbnail_url": "data/davis_big_dawg/thumbnails/7582042520259988750.jpg",
+    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582042520259988750",
     "engagement": {
-      "likes": 10700,
-      "comments": 525,
-      "shares": 340,
-      "views": 72400,
-      "likes_formatted": "11K",
-      "comments_formatted": "525",
-      "shares_formatted": "340",
-      "views_formatted": "72K"
+      "likes": 16600,
+      "comments": 451,
+      "shares": 204,
+      "views": 81200,
+      "likes_formatted": "17K",
+      "comments_formatted": "451",
+      "shares_formatted": "204",
+      "views_formatted": "81K"
     }
   }
 }
