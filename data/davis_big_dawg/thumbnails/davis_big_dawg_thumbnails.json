@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 13,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 14,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -227,6 +227,23 @@
         "diggCount": 16600,
         "playCount": 81200,
         "shareCount": 204
+      }
+    },
+    {
+      "post_id": "7582428410220252430",
+      "description": "Day 32 of reviewing school luck today we got spicy chicken sandwich and tomato soup #fyp #viral #schoollunch #review #chicken ",
+      "create_time": 1765421704,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oMAB6FRFJOloDMLGRfnBjnEfgSE5DEMIspzFIh~tplv-tiktokx-origin.image?dr=10395&x-expires=1765627200&x-signature=tTCMj3AJHKaP4Vl07gO7cH7Uj7o%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7582428410220252430.jpg",
+      "file_size": 71873,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 102,
+        "commentCount": 446,
+        "diggCount": 13100,
+        "playCount": 67700,
+        "shareCount": 173
       }
     }
   ]

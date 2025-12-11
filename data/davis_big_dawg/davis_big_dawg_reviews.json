@@ -1,7 +1,7 @@
 {
   "username": "davis_big_dawg",
-  "total_transcripts": 69,
-  "school_food_reviews": 0,
+  "total_transcripts": 70,
+  "school_food_reviews": 1,
   "other_content": 31,
   "failed": 0,
   "needs_manual_review": 0,
@@ -1569,8 +1569,43 @@
         "playCount": 81200,
         "shareCount": 204
       }
+    },
+    {
+      "post_id": "7582428410220252430",
+      "description": "Day 32 of reviewing school luck today we got spicy chicken sandwich and tomato soup #fyp #viral #schoollunch #review #chicken ",
+      "create_time": 1765421704,
+      "day_number": 33,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "spicy chicken sandwich",
+          "category": "main_dish",
+          "score": 6.5,
+          "comments": "The chicken sandwich needs more of a crunch. It's nice and spicy, though."
+        },
+        {
+          "name": "tomato soup",
+          "category": "other",
+          "score": 8,
+          "comments": "Nice and sweet. It's not really hot, but it's good."
+        },
+        {
+          "name": "peaches",
+          "category": "other",
+          "score": 6,
+          "comments": "They're, like, really mushy. Not that great."
+        }
+      ],
+      "stats": {
+        "collectCount": 102,
+        "commentCount": 446,
+        "diggCount": 13100,
+        "playCount": 67700,
+        "shareCount": 173
+      }
     }
   ],
-  "new_reviews_processed": 31,
+  "new_reviews_processed": 32,
   "skipped_existing": 38
 }

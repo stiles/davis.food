@@ -1,19 +1,19 @@
 {
-  "generated_at": "2025-12-10T16:41:59.448082-08:00",
-  "generated_at_formatted": "Dec. 10, 2025, at 4 p.m. PT",
+  "generated_at": "2025-12-11T04:18:39.414956-08:00",
+  "generated_at_formatted": "Dec. 11, 2025, at 4 a.m. PT",
   "username": "davis_big_dawg",
   "overall_metrics": {
-    "total_reviews": 38,
-    "school_lunch_reviews": 37,
-    "total_food_items": 153,
-    "overall_average_rating": 6.46,
+    "total_reviews": 39,
+    "school_lunch_reviews": 38,
+    "total_food_items": 156,
+    "overall_average_rating": 6.47,
     "favorite_category": "dessert",
     "category_counts": {
-      "main_dish": 42,
+      "main_dish": 43,
       "drink": 16,
       "side": 51,
       "dessert": 6,
-      "other": 20,
+      "other": 22,
       "snack": 15,
       "condiment": 3
     }
@@ -21,7 +21,7 @@
   "category_stats": {
     "main_dish": {
       "average_rating": 6.57,
-      "count": 42,
+      "count": 43,
       "min": 3,
       "max": 9.5
     },
@@ -44,8 +44,8 @@
       "max": 9
     },
     "other": {
-      "average_rating": 6.33,
-      "count": 20,
+      "average_rating": 6.39,
+      "count": 22,
       "min": 0,
       "max": 9
     },
@@ -404,6 +404,15 @@
       "cumulative_views": 65084600,
       "cumulative_comments": 152077,
       "cumulative_shares": 268604
+    },
+    {
+      "date": "2025-12-11",
+      "timestamp": 1765421704,
+      "day_number": 33,
+      "cumulative_likes": 6796200,
+      "cumulative_views": 65152300,
+      "cumulative_comments": 152523,
+      "cumulative_shares": 268777
     }
   ],
   "top_posts": [
@@ -519,11 +528,11 @@
   "key_phrases": [
     "Pretty good",
     "It's pretty good",
+    "Not that great",
     "Pretty good",
     "It's not that great",
     "Really good",
     "It's kind of mushy",
-    "Not that great",
     "Super good",
     "Super bland",
     "It's pretty good",
@@ -549,6 +558,38 @@
     "The barbecue sauce definitely, like, kind of carries it"
   ],
   "posts_table": [
+    {
+      "post_id": "7582428410220252430",
+      "day_number": 33,
+      "date": "2025-12-11",
+      "timestamp": 1765421704,
+      "average_rating": 6.83,
+      "food_count": 3,
+      "foods": [
+        {
+          "name": "Spicy chicken sandwich",
+          "score": 6.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Tomato soup",
+          "score": 8,
+          "category": "other"
+        },
+        {
+          "name": "Peaches",
+          "score": 6,
+          "category": "other"
+        }
+      ],
+      "likes": 13100,
+      "views": 67700,
+      "comments": 446,
+      "shares": 173,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582428410220252430",
+      "needs_review": false,
+      "review_number": 38
+    },
     {
       "post_id": "7582042520259988750",
       "day_number": 32,
@@ -1916,6 +1957,10 @@
   ],
   "food_frequency": [
     {
+      "name": "Peaches",
+      "count": 6
+    },
+    {
       "name": "Curly Fries",
       "count": 5
     },
@@ -1925,10 +1970,6 @@
     },
     {
       "name": "Salad",
-      "count": 5
-    },
-    {
-      "name": "Peaches",
       "count": 5
     },
     {
@@ -1944,61 +1985,55 @@
       "count": 3
     },
     {
+      "name": "Spicy Chicken Sandwich",
+      "count": 3
+    },
+    {
       "name": "Apple Juice",
       "count": 2
     },
     {
       "name": "Cheese Bites",
       "count": 2
-    },
-    {
-      "name": "Tater Tots",
-      "count": 2
     }
   ],
   "latest_review": {
-    "post_id": "7582042520259988750",
-    "day_number": 32,
-    "review_number": 37,
-    "date": "2025-12-10",
+    "post_id": "7582428410220252430",
+    "day_number": 33,
+    "review_number": 38,
+    "date": "2025-12-11",
     "foods": [
       {
-        "name": "Mac and cheese",
-        "category": "main_dish",
-        "score": 5,
-        "comments": "It's not really cheesy. It's fake cheese. It's pretty good. It's like. It's not that great."
-      },
-      {
-        "name": "Chicken nuggets",
+        "name": "Spicy chicken sandwich",
         "category": "main_dish",
         "score": 6.5,
-        "comments": "Chicken nuggets are not that bad. The crust could be crunchier, but overall it's not that bad."
+        "comments": "The chicken sandwich needs more of a crunch. It's nice and spicy, though."
       },
       {
-        "name": "Tater tots",
-        "category": "side",
-        "score": 3,
-        "comments": "Super undercooked, and they have quite a weird taste."
+        "name": "Tomato soup",
+        "category": "other",
+        "score": 8,
+        "comments": "Nice and sweet. It's not really hot, but it's good."
       },
       {
         "name": "Peaches",
         "category": "other",
-        "score": 8,
-        "comments": "Peaches are pretty good."
+        "score": 6,
+        "comments": "They're, like, really mushy. Not that great."
       }
     ],
-    "average_rating": 5.6,
-    "thumbnail_url": "data/davis_big_dawg/thumbnails/7582042520259988750.jpg",
-    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582042520259988750",
+    "average_rating": 6.8,
+    "thumbnail_url": "data/davis_big_dawg/thumbnails/7582428410220252430.jpg",
+    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582428410220252430",
     "engagement": {
-      "likes": 16600,
-      "comments": 451,
-      "shares": 204,
-      "views": 81200,
-      "likes_formatted": "17K",
-      "comments_formatted": "451",
-      "shares_formatted": "204",
-      "views_formatted": "81K"
+      "likes": 13100,
+      "comments": 446,
+      "shares": 173,
+      "views": 67700,
+      "likes_formatted": "13K",
+      "comments_formatted": "446",
+      "shares_formatted": "173",
+      "views_formatted": "68K"
     }
   }
 }
