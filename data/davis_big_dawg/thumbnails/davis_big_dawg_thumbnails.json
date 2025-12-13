@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 14,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 15,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -244,6 +244,23 @@
         "diggCount": 13100,
         "playCount": 67700,
         "shareCount": 173
+      }
+    },
+    {
+      "post_id": "7582774213333847309",
+      "description": "#fyp #viral #schoollunch #review #spagetti ",
+      "create_time": 1765502223,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oIRrQWLDPKIZvvF7OCGAQf7KGfkAbF8RfaIXex~tplv-tiktokx-origin.image?dr=10395&x-expires=1765756800&x-signature=oWxByJ68K5cbIC%2FjQBVimVkpAuQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7582774213333847309.jpg",
+      "file_size": 97535,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 163,
+        "commentCount": 543,
+        "diggCount": 18700,
+        "playCount": 87300,
+        "shareCount": 235
       }
     }
   ]

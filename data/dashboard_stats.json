@@ -1,17 +1,17 @@
 {
-  "generated_at": "2025-12-12T04:16:49.822756-08:00",
-  "generated_at_formatted": "Dec. 12, 2025, at 4 a.m. PT",
+  "generated_at": "2025-12-12T16:39:00.499248-08:00",
+  "generated_at_formatted": "Dec. 12, 2025, at 4 p.m. PT",
   "username": "davis_big_dawg",
   "overall_metrics": {
-    "total_reviews": 39,
-    "school_lunch_reviews": 38,
-    "total_food_items": 156,
-    "overall_average_rating": 6.47,
+    "total_reviews": 40,
+    "school_lunch_reviews": 39,
+    "total_food_items": 161,
+    "overall_average_rating": 6.48,
     "favorite_category": "dessert",
     "category_counts": {
-      "main_dish": 43,
-      "drink": 16,
-      "side": 51,
+      "main_dish": 44,
+      "drink": 17,
+      "side": 54,
       "dessert": 6,
       "other": 22,
       "snack": 15,
@@ -21,19 +21,19 @@
   "category_stats": {
     "main_dish": {
       "average_rating": 6.57,
-      "count": 43,
+      "count": 44,
       "min": 3,
       "max": 9.5
     },
     "drink": {
-      "average_rating": 7.57,
-      "count": 15,
+      "average_rating": 7.56,
+      "count": 16,
       "min": 5,
       "max": 9
     },
     "side": {
-      "average_rating": 5.82,
-      "count": 51,
+      "average_rating": 5.86,
+      "count": 54,
       "min": 1,
       "max": 8.5
     },
@@ -413,6 +413,15 @@
       "cumulative_views": 65152300,
       "cumulative_comments": 152523,
       "cumulative_shares": 268777
+    },
+    {
+      "date": "2025-12-12",
+      "timestamp": 1765502223,
+      "day_number": 33,
+      "cumulative_likes": 6814900,
+      "cumulative_views": 65239600,
+      "cumulative_comments": 153066,
+      "cumulative_shares": 269012
     }
   ],
   "top_posts": [
@@ -558,6 +567,48 @@
     "The barbecue sauce definitely, like, kind of carries it"
   ],
   "posts_table": [
+    {
+      "post_id": "7582774213333847309",
+      "day_number": 33,
+      "date": "2025-12-12",
+      "timestamp": 1765502223,
+      "average_rating": 6.7,
+      "food_count": 5,
+      "foods": [
+        {
+          "name": "Meat sauce and noodles",
+          "score": 6.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Salad with ranch",
+          "score": 8,
+          "category": "side"
+        },
+        {
+          "name": "Corn",
+          "score": 5.5,
+          "category": "side"
+        },
+        {
+          "name": "Breadstick",
+          "score": 6,
+          "category": "side"
+        },
+        {
+          "name": "Apple juice",
+          "score": 7.5,
+          "category": "drink"
+        }
+      ],
+      "likes": 18700,
+      "views": 87300,
+      "comments": 543,
+      "shares": 235,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582774213333847309",
+      "needs_review": false,
+      "review_number": 39
+    },
     {
       "post_id": "7582428410220252430",
       "day_number": 33,
@@ -1957,6 +2008,10 @@
   ],
   "food_frequency": [
     {
+      "name": "Breadstick",
+      "count": 6
+    },
+    {
       "name": "Peaches",
       "count": 6
     },
@@ -1965,12 +2020,16 @@
       "count": 5
     },
     {
-      "name": "Breadstick",
+      "name": "Salad",
       "count": 5
     },
     {
-      "name": "Salad",
-      "count": 5
+      "name": "Apple Juice",
+      "count": 3
+    },
+    {
+      "name": "Corn",
+      "count": 3
     },
     {
       "name": "Spaghetti",
@@ -1987,53 +2046,57 @@
     {
       "name": "Spicy Chicken Sandwich",
       "count": 3
-    },
-    {
-      "name": "Apple Juice",
-      "count": 2
-    },
-    {
-      "name": "Cheese Bites",
-      "count": 2
     }
   ],
   "latest_review": {
-    "post_id": "7582428410220252430",
+    "post_id": "7582774213333847309",
     "day_number": 33,
-    "review_number": 38,
-    "date": "2025-12-11",
+    "review_number": 39,
+    "date": "2025-12-12",
     "foods": [
       {
-        "name": "Spicy chicken sandwich",
+        "name": "Meat sauce and noodles",
         "category": "main_dish",
         "score": 6.5,
-        "comments": "The chicken sandwich needs more of a crunch. It's nice and spicy, though."
+        "comments": "The noodles are really soft and mushy, but it's really not that bad."
       },
       {
-        "name": "Tomato soup",
-        "category": "other",
+        "name": "Salad with ranch",
+        "category": "side",
         "score": 8,
-        "comments": "Nice and sweet. It's not really hot, but it's good."
+        "comments": "The lettuce is really good today."
       },
       {
-        "name": "Peaches",
-        "category": "other",
+        "name": "Corn",
+        "category": "side",
+        "score": 5.5,
+        "comments": "Nice and buttery, nice and sweet, could use some more salt and pepper."
+      },
+      {
+        "name": "Breadstick",
+        "category": "side",
         "score": 6,
-        "comments": "They're, like, really mushy. Not that great."
+        "comments": "It's really hard today, nice and garlicky though."
+      },
+      {
+        "name": "Apple juice",
+        "category": "drink",
+        "score": 7.5,
+        "comments": "Pretty good, 100% juice, no sugar added."
       }
     ],
-    "average_rating": 6.8,
-    "thumbnail_url": "data/davis_big_dawg/thumbnails/7582428410220252430.jpg",
-    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582428410220252430",
+    "average_rating": 6.7,
+    "thumbnail_url": "data/davis_big_dawg/thumbnails/7582774213333847309.jpg",
+    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582774213333847309",
     "engagement": {
-      "likes": 13100,
-      "comments": 446,
-      "shares": 173,
-      "views": 67700,
-      "likes_formatted": "13K",
-      "comments_formatted": "446",
-      "shares_formatted": "173",
-      "views_formatted": "68K"
+      "likes": 18700,
+      "comments": 543,
+      "shares": 235,
+      "views": 87300,
+      "likes_formatted": "19K",
+      "comments_formatted": "543",
+      "shares_formatted": "235",
+      "views_formatted": "87K"
     }
   }
 }

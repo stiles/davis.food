@@ -1,7 +1,7 @@
 {
   "username": "davis_big_dawg",
-  "total_transcripts": 70,
-  "school_food_reviews": 0,
+  "total_transcripts": 71,
+  "school_food_reviews": 1,
   "other_content": 31,
   "failed": 0,
   "needs_manual_review": 0,
@@ -1604,8 +1604,55 @@
         "playCount": 67700,
         "shareCount": 173
       }
+    },
+    {
+      "post_id": "7582774213333847309",
+      "description": "#fyp #viral #schoollunch #review #spagetti ",
+      "create_time": 1765502223,
+      "day_number": 33,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "meat sauce and noodles",
+          "category": "main_dish",
+          "score": 6.5,
+          "comments": "The noodles are really soft and mushy, but it's really not that bad."
+        },
+        {
+          "name": "salad with ranch",
+          "category": "side",
+          "score": 8,
+          "comments": "The lettuce is really good today."
+        },
+        {
+          "name": "corn",
+          "category": "side",
+          "score": 5.5,
+          "comments": "Nice and buttery, nice and sweet, could use some more salt and pepper."
+        },
+        {
+          "name": "breadstick",
+          "category": "side",
+          "score": 6,
+          "comments": "It's really hard today, nice and garlicky though."
+        },
+        {
+          "name": "apple juice",
+          "category": "drink",
+          "score": 7.5,
+          "comments": "Pretty good, 100% juice, no sugar added."
+        }
+      ],
+      "stats": {
+        "collectCount": 163,
+        "commentCount": 543,
+        "diggCount": 18700,
+        "playCount": 87300,
+        "shareCount": 235
+      }
     }
   ],
-  "new_reviews_processed": 31,
+  "new_reviews_processed": 32,
   "skipped_existing": 39
 }
