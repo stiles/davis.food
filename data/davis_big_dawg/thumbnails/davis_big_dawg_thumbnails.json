@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 16,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 17,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -278,6 +278,23 @@
         "diggCount": 3596,
         "playCount": 20100,
         "shareCount": 65
+      }
+    },
+    {
+      "post_id": "7584521833655897399",
+      "description": "#fyp #viral #snacks #review #international",
+      "create_time": 1765909146,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oM34fABoaodBpiI10vScDBpCwIDBAT1IRR1Nih~tplv-tiktokx-origin.image?dr=10395&x-expires=1766102400&x-signature=qk1Ea4TxFC89RlaQmJXaE4pJCac%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7584521833655897399.jpg",
+      "file_size": 83223,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 91,
+        "commentCount": 370,
+        "diggCount": 9726,
+        "playCount": 45100,
+        "shareCount": 113
       }
     }
   ]
