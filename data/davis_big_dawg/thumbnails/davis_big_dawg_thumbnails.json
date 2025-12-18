@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 17,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 18,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -295,6 +295,23 @@
         "diggCount": 9726,
         "playCount": 45100,
         "shareCount": 113
+      }
+    },
+    {
+      "post_id": "7585038450403986743",
+      "description": "Ok, ummm pretty good #fyp #viral #superman #comeonsupermansayyourstupidline #good ",
+      "create_time": 1766029415,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oQpeGCLUpyDsoJaGBqFEgVD0EQARnllQQrfrS3~tplv-tiktokx-origin.image?dr=10395&x-expires=1766232000&x-signature=8f2juNJY4PtvN09DFp5QoNixV2U%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7585038450403986743.jpg",
+      "file_size": 71470,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 122,
+        "commentCount": 274,
+        "diggCount": 21200,
+        "playCount": 107600,
+        "shareCount": 230
       }
     }
   ]
