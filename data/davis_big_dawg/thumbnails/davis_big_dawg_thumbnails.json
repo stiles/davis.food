@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 18,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 19,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -312,6 +312,23 @@
         "diggCount": 21200,
         "playCount": 107600,
         "shareCount": 230
+      }
+    },
+    {
+      "post_id": "7587563265794821390",
+      "description": "Trying which which pretty good #fyp #viral #review #sandwich #good ",
+      "create_time": 1766617268,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oQMMt70BNUPEtUsixELwGy4cBBIagi9v7BWAI~tplv-tiktokx-origin.image?dr=10395&x-expires=1766793600&x-signature=SBg3W%2FBORWiNVMOT4q%2Bg9Uyb8QQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7587563265794821390.jpg",
+      "file_size": 78779,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 37,
+        "commentCount": 199,
+        "diggCount": 3270,
+        "playCount": 17300,
+        "shareCount": 33
       }
     }
   ]
