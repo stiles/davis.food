@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 19,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 20,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -329,6 +329,23 @@
         "diggCount": 3270,
         "playCount": 17300,
         "shareCount": 33
+      }
+    },
+    {
+      "post_id": "7587951146451389751",
+      "description": "#fyp #viral #review #christmas #lasagna ",
+      "create_time": 1766707583,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oYviaBA4BkiSB3xNY3EII6G9gXcF00QAYzUUT~tplv-tiktokx-origin.image?dr=10395&x-expires=1766880000&x-signature=NZgU9%2BHMUmwGFPpU%2FAuOM96QbKs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7587951146451389751.jpg",
+      "file_size": 90412,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 34,
+        "commentCount": 266,
+        "diggCount": 3987,
+        "playCount": 21300,
+        "shareCount": 75
       }
     }
   ]
