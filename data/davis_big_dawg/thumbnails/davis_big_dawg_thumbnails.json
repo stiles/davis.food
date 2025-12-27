@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 20,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 21,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -346,6 +346,23 @@
         "diggCount": 3987,
         "playCount": 21300,
         "shareCount": 75
+      }
+    },
+    {
+      "post_id": "7588263080312835342",
+      "description": "Really good smash burger and shoutout to @Shady Rays Sunglasses for the pair of sunglasses #fyp #viral #review #good #burger ",
+      "create_time": 1766780212,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/ogEA5I42ELBs7umUDOCaBIaV7GOrAgsiTaiUP~tplv-tiktokx-origin.image?dr=10395&x-expires=1766966400&x-signature=bV%2B9VVIKOIqUCi8%2BQBbKV7CZQHw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7588263080312835342.jpg",
+      "file_size": 146158,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 182,
+        "commentCount": 575,
+        "diggCount": 16300,
+        "playCount": 100500,
+        "shareCount": 262
       }
     }
   ]
