@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 21,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 22,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -363,6 +363,23 @@
         "diggCount": 16300,
         "playCount": 100500,
         "shareCount": 262
+      }
+    },
+    {
+      "post_id": "7588970788334669070",
+      "description": "New Taco Bell teams are pretty good #fyp #viral #review #tacobell #tacos @tacobell ",
+      "create_time": 1766944989,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/owFs4Xe4DQ6b4i1AAOFCSkRwWBf7p0DQEogCEU~tplv-tiktokx-origin.image?dr=10395&x-expires=1767139200&x-signature=CoGvN9Wof8u1cSDMOojSQKupAxk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7588970788334669070.jpg",
+      "file_size": 92207,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 137,
+        "commentCount": 439,
+        "diggCount": 12500,
+        "playCount": 67200,
+        "shareCount": 263
       }
     }
   ]

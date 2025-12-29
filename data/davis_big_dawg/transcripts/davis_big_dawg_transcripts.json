@@ -1,9 +1,9 @@
 {
   "username": "davis_big_dawg",
   "summary": {
-    "total_posts": 21,
-    "transcripts_found": 0,
-    "transcripts_downloaded": 0,
+    "total_posts": 22,
+    "transcripts_found": 1,
+    "transcripts_downloaded": 1,
     "failed": 1
   },
   "transcripts": [
@@ -1297,6 +1297,23 @@
         "diggCount": 16300,
         "playCount": 100500,
         "shareCount": 262
+      }
+    },
+    {
+      "post_id": "7588970788334669070",
+      "description": "New Taco Bell teams are pretty good #fyp #viral #review #tacobell #tacos @tacobell ",
+      "create_time": 1766944989,
+      "transcript": "My name is Davis, and today I'm trying a new queso Rito from, um, Taco Bell. Pretty excited to try this. It's been hyped up quite a lot. This is what it looks like. Let's see how it is. Okay, pretty good. I feel like the tortillas kind of burnt, but it's nice and cheesy. It's not terrible. It's not the best though. I'll probably give this a six out of 10. It's not terrible. Alright, now we got their new steak dipping burritos. Um, I have their garlic sauce. I'll try it with and without. So without. Okay, that is really good. Wasn't too sure how to expect these. Really good. Um, they have some, like, sauce in there. Don't know what it is, but it's very good. I'll give this probably a 7 out of 10. I'll try it with the garlic sauce. Okay, pretty good with the garlic sauce. I'll give that 7.5 out of 10. Well, thank you guys. That was the new Taco Bell Quesarito and burrito, the stick dipping burritos. And I'll see you guys tomorrow.",
+      "language": "eng-US",
+      "source": "ASR",
+      "is_original_audio": true,
+      "music_author": "Davis_Big_Dawg",
+      "stats": {
+        "collectCount": 137,
+        "commentCount": 439,
+        "diggCount": 12500,
+        "playCount": 67200,
+        "shareCount": 263
       }
     }
   ]
