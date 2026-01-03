@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 22,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 23,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -380,6 +380,23 @@
         "diggCount": 12500,
         "playCount": 67200,
         "shareCount": 263
+      }
+    },
+    {
+      "post_id": "7590776358205279501",
+      "description": "Reviewing soup dumplings overall not bad #fyp #viral #review #soup #dumblings ",
+      "create_time": 1767365418,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/o02JXAvseSBODiIpNVifDBgPI3RF23I3RYByEE~tplv-tiktokx-origin.image?dr=10395&x-expires=1767571200&x-signature=cN39yiILt3tkrHxo36fwQjnABFA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7590776358205279501.jpg",
+      "file_size": 90195,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 105,
+        "commentCount": 301,
+        "diggCount": 8960,
+        "playCount": 58500,
+        "shareCount": 131
       }
     }
   ]
