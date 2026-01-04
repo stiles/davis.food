@@ -1,9 +1,9 @@
 {
   "username": "davis_big_dawg",
   "summary": {
-    "total_posts": 23,
-    "transcripts_found": 0,
-    "transcripts_downloaded": 0,
+    "total_posts": 24,
+    "transcripts_found": 1,
+    "transcripts_downloaded": 1,
     "failed": 1
   },
   "transcripts": [
@@ -1331,6 +1331,23 @@
         "diggCount": 8960,
         "playCount": 58500,
         "shareCount": 131
+      }
+    },
+    {
+      "post_id": "7591213380837362999",
+      "description": "Peño chicken shawarma very good decently recommend fyp #viral #review #chicken #fry ",
+      "create_time": 1767467135,
+      "transcript": "My name is Davis. Today I'm at Pino trying their new chicken shawarma. Um, let's see how it is. Oh, well, nice garlic sauce. Um, the chicken is really good. They put, like, potatoes in there. That's pretty. That's really good. Um, I'll probably give that, like, an 8.5 out of 10. That's. That's actually really good. Um, now we got their fries. I'll dip them in a ketchup. Here you go. We got some crunch there. It's pretty good. Nice and seasoned. I'll probably give these, like, a seven out of 10. Well, thank you, guys. That's Pino. Um, make sure you guys come here. It's pretty good, actually. And I'll see you guys tomorrow.",
+      "language": "eng-US",
+      "source": "ASR",
+      "is_original_audio": true,
+      "music_author": "Davis_Big_Dawg",
+      "stats": {
+        "collectCount": 68,
+        "commentCount": 244,
+        "diggCount": 7615,
+        "playCount": 40600,
+        "shareCount": 98
       }
     }
   ]

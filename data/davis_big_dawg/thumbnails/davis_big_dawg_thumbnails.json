@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 23,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 24,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -397,6 +397,23 @@
         "diggCount": 8960,
         "playCount": 58500,
         "shareCount": 131
+      }
+    },
+    {
+      "post_id": "7591213380837362999",
+      "description": "Peño chicken shawarma very good decently recommend fyp #viral #review #chicken #fry ",
+      "create_time": 1767467135,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oMa9aADh2IXEO0ILV4IiUgMlBPhM99iZBdwAn~tplv-tiktokx-origin.image?dr=10395&x-expires=1767657600&x-signature=kfjmL5aQprutNrCHNdRFZmnXCPg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7591213380837362999.jpg",
+      "file_size": 62655,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 68,
+        "commentCount": 244,
+        "diggCount": 7615,
+        "playCount": 40600,
+        "shareCount": 98
       }
     }
   ]
