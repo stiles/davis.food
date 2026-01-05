@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 24,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 25,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -414,6 +414,23 @@
         "diggCount": 7615,
         "playCount": 40600,
         "shareCount": 98
+      }
+    },
+    {
+      "post_id": "7591588493558566158",
+      "description": "Smith fields over all pretty good #viral #review #fyp #bbq #smithfield ",
+      "create_time": 1767554466,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oEFnagBStAhHHafBEe9XFjvCkQafIDdtIpiAID~tplv-tiktokx-origin.image?dr=10395&x-expires=1767744000&x-signature=mYeG77S%2FGaCEEnvYXl7ZX%2B%2BP1AE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7591588493558566158.jpg",
+      "file_size": 99025,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 62,
+        "commentCount": 214,
+        "diggCount": 6292,
+        "playCount": 35400,
+        "shareCount": 63
       }
     }
   ]

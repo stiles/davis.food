@@ -1,9 +1,9 @@
 {
   "username": "davis_big_dawg",
   "summary": {
-    "total_posts": 24,
-    "transcripts_found": 0,
-    "transcripts_downloaded": 0,
+    "total_posts": 25,
+    "transcripts_found": 1,
+    "transcripts_downloaded": 1,
     "failed": 1
   },
   "transcripts": [
@@ -1348,6 +1348,23 @@
         "diggCount": 7615,
         "playCount": 40600,
         "shareCount": 98
+      }
+    },
+    {
+      "post_id": "7591588493558566158",
+      "description": "Smith fields over all pretty good #viral #review #fyp #bbq #smithfield ",
+      "create_time": 1767554466,
+      "transcript": "It's Davis. And today I'm at Smithfield's. Pretty excited to try this. Um, first up, uh, pulled pork. Really good. Nice and vinegary. Um, tastes really good. I'll probably give that 8.7 out of 5, maybe 9 out of 10. I really like that. That's really good. I know. We got the fries. Pretty good price thing. They're really similar to McDonald's. Nice and salted. I'll probably give those, like, an 8 out of 10. Those are good. Um, now we got brunsviks do. First time ever trying brunsviks do, so I'm pretty excited. Here we go. It's sort of like tomato soup, but I'm a lot thicker. Some veggies in there. Potato. And then is this chicken? I think it's chicken. Very good. All right, now we got, um, hush puppies. Look pretty good. Not the biggest fan of Hush Puppies, but they're pretty good. Um, never had a hush puppy. It's kind of like. Kind of like sweet bread. Um, and then, like, fried. Pretty good. I'll give those six out of 10. And then the Brunswick Zoo, seven out of 10. Well, that's Smithfield's guys. Overall pretty good. You should come here. And, um, Happy New Years, and I'll see you tomorrow.",
+      "language": "eng-US",
+      "source": "ASR",
+      "is_original_audio": true,
+      "music_author": "Davis_Big_Dawg",
+      "stats": {
+        "collectCount": 62,
+        "commentCount": 214,
+        "diggCount": 6292,
+        "playCount": 35400,
+        "shareCount": 63
       }
     }
   ]
