@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 26,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 27,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -448,6 +448,23 @@
         "diggCount": 2637,
         "playCount": 13600,
         "shareCount": 47
+      }
+    },
+    {
+      "post_id": "7592398993632628023",
+      "description": "Day 34 of reviewing school food one of the best they have walking taco #viral #review #fyp #taco #foryoupage ",
+      "create_time": 1767743178,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oEE4IScOZDAsng0yxZFoDRpBlEegNBXXIsfmdE~tplv-tiktokx-origin.image?dr=10395&x-expires=1767916800&x-signature=fMwW1OI3glTOIJ7nxrQde55lo8g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7592398993632628023.jpg",
+      "file_size": 119577,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 21,
+        "commentCount": 90,
+        "diggCount": 2446,
+        "playCount": 11900,
+        "shareCount": 32
       }
     }
   ]
