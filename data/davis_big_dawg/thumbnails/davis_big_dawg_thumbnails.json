@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 27,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 28,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -465,6 +465,23 @@
         "diggCount": 2446,
         "playCount": 11900,
         "shareCount": 32
+      }
+    },
+    {
+      "post_id": "7593194971793034510",
+      "description": "Reviewing Chick-fil-A and also opening there new limited time cups #viral #review #fyp #chickfila #food ",
+      "create_time": 1767928501,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oEIAJiB7BJqfZ8str0aYArpgSgICIaRvBCcEiw~tplv-tiktokx-origin.image?dr=10395&x-expires=1768132800&x-signature=OPMoTyy5NaRXp%2F%2FLSkPdFuqXgao%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7593194971793034510.jpg",
+      "file_size": 92678,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 221,
+        "commentCount": 337,
+        "diggCount": 16300,
+        "playCount": 97400,
+        "shareCount": 378
       }
     }
   ]

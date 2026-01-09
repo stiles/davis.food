@@ -1,9 +1,9 @@
 {
   "username": "davis_big_dawg",
   "summary": {
-    "total_posts": 27,
-    "transcripts_found": 0,
-    "transcripts_downloaded": 0,
+    "total_posts": 28,
+    "transcripts_found": 1,
+    "transcripts_downloaded": 1,
     "failed": 1
   },
   "transcripts": [
@@ -1399,6 +1399,23 @@
         "diggCount": 2446,
         "playCount": 11900,
         "shareCount": 32
+      }
+    },
+    {
+      "post_id": "7593194971793034510",
+      "description": "Reviewing Chick-fil-A and also opening there new limited time cups #viral #review #fyp #chickfila #food ",
+      "create_time": 1767928501,
+      "transcript": "My name is Davis, and today I'm reviewing chick fil A, but also to opening the new Classic cups. There's four different types, and if you get the Golden Cup, you get one, uh, year of free chick fil a. Um, so definitely stay tuned to the end of the video to watch me open this. First, I'm gonna review Dr. Pepper Frosty. Okay. Yeah, you can definitely taste the ice cream in there. It's nice and sweet. It's really creamy. Um, nice and vanilla. Yeah, I feel like there are ice creams very. Has a lot of vanilla in it. It's pretty good. I'll probably give this like a eight out of 10. I really like that we got the spicy chicken deluxe. There's lettuce, tomato, and then pepper Jack cheese on here. Wow. Really nice flavor. Chicken. Nice and spicy. I'll probably give this seven out of 10. It's pretty good. Really spicy. Not bad. And now we got tortilla soup or chicken noodle soup. I don't really know. Oh, god. It's not too watery. It's nice and thick. The broth. Pretty sure that's chicken noodle soup. I'll probably give this like a 8 out of 10. Now to open up the cup, the most important part, and see what I get. Okay, I got the one with, like, the old chicken. This is actually probably my favorite one they have. Unfortunately, I did not get the. The Golden Cup for one free year of chick fil a. Though I do like this design, I feel like they could add a little bit more on the cup, but I like it. Well, that's chick fil A, guys, and I'll see you tomorrow.",
+      "language": "eng-US",
+      "source": "ASR",
+      "is_original_audio": true,
+      "music_author": "Davis_Big_Dawg",
+      "stats": {
+        "collectCount": 221,
+        "commentCount": 337,
+        "diggCount": 16300,
+        "playCount": 97400,
+        "shareCount": 378
       }
     }
   ]
