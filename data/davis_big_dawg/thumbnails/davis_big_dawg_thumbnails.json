@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 28,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 29,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -482,6 +482,23 @@
         "diggCount": 16300,
         "playCount": 97400,
         "shareCount": 378
+      }
+    },
+    {
+      "post_id": "7595742735970159886",
+      "description": "Cava is super good definitely recommend #cava #fyp #viral #review #muckbang ",
+      "create_time": 1768521682,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/o8O7BPmrBB50is7CXpigLcIAtApIHk5w3PI0eA~tplv-tiktokx-origin.image?dr=10395&x-expires=1768694400&x-signature=MfoJAzpQt0VpmpHMNJGfSwuRus8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7595742735970159886.jpg",
+      "file_size": 80590,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 27,
+        "commentCount": 121,
+        "diggCount": 2302,
+        "playCount": 13000,
+        "shareCount": 46
       }
     }
   ]
