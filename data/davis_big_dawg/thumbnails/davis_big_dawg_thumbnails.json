@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 29,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 30,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -499,6 +499,23 @@
         "diggCount": 2302,
         "playCount": 13000,
         "shareCount": 46
+      }
+    },
+    {
+      "post_id": "7596381655988784439",
+      "description": "McDonald’s breakfast is pretty solid #fyp #viral #mcdonalds #review #mukbang ",
+      "create_time": 1768670463,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/o0x2siPEiIdIg3aj6rffqNkARzVCpBS9DBMTBh~tplv-tiktokx-origin.image?dr=10395&x-expires=1768867200&x-signature=7300%2BudqBoqGMU34Zo6l%2BkVXHlo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7596381655988784439.jpg",
+      "file_size": 79671,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 77,
+        "commentCount": 340,
+        "diggCount": 6761,
+        "playCount": 46900,
+        "shareCount": 146
       }
     }
   ]
