@@ -1,9 +1,9 @@
 {
   "username": "davis_big_dawg",
   "total_transcripts": 85,
-  "school_food_reviews": 0,
-  "other_content": 0,
-  "failed": 45,
+  "school_food_reviews": 1,
+  "other_content": 44,
+  "failed": 0,
   "needs_manual_review": 0,
   "reviews": [
     {
@@ -1650,6 +1650,35 @@
         "diggCount": 18700,
         "playCount": 87300,
         "shareCount": 235
+      }
+    },
+    {
+      "post_id": "7592398993632628023",
+      "description": "Day 34 of reviewing school food one of the best they have walking taco #viral #review #fyp #taco #foryoupage ",
+      "create_time": 1767743178,
+      "day_number": 34,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "walkie taco",
+          "category": "main_dish",
+          "score": 8.5,
+          "comments": "probably one of my favorite things. Nice and saucy. Nice and cheesy. Also something gives a nice song kick."
+        },
+        {
+          "name": "zero Sugar Lemonade",
+          "category": "drink",
+          "score": 6.5,
+          "comments": "kind of makes it taste pretty weird. That's like kind of a weird aftertaste. It's not terrible though."
+        }
+      ],
+      "stats": {
+        "collectCount": 21,
+        "commentCount": 90,
+        "diggCount": 2446,
+        "playCount": 11900,
+        "shareCount": 32
       }
     }
   ],

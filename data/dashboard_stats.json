@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-01-17T16:46:15.349843-08:00",
-  "generated_at_formatted": "Jan. 17, 2026, at 4 p.m. PT",
+  "generated_at": "2026-01-18T04:16:45.681114-08:00",
+  "generated_at_formatted": "Jan. 18, 2026, at 4 a.m. PT",
   "username": "davis_big_dawg",
   "overall_metrics": {
-    "total_reviews": 40,
-    "school_lunch_reviews": 39,
-    "total_food_items": 161,
-    "overall_average_rating": 6.48,
+    "total_reviews": 41,
+    "school_lunch_reviews": 40,
+    "total_food_items": 163,
+    "overall_average_rating": 6.49,
     "favorite_category": "dessert",
     "category_counts": {
-      "main_dish": 44,
-      "drink": 17,
+      "main_dish": 45,
+      "drink": 18,
       "side": 54,
       "dessert": 6,
       "other": 22,
@@ -20,14 +20,14 @@
   },
   "category_stats": {
     "main_dish": {
-      "average_rating": 6.57,
-      "count": 44,
+      "average_rating": 6.61,
+      "count": 45,
       "min": 3,
       "max": 9.5
     },
     "drink": {
-      "average_rating": 7.56,
-      "count": 16,
+      "average_rating": 7.5,
+      "count": 17,
       "min": 5,
       "max": 9
     },
@@ -422,6 +422,15 @@
       "cumulative_views": 65239600,
       "cumulative_comments": 153066,
       "cumulative_shares": 269012
+    },
+    {
+      "date": "2026-01-06",
+      "timestamp": 1767743178,
+      "day_number": 34,
+      "cumulative_likes": 6817346,
+      "cumulative_views": 65251500,
+      "cumulative_comments": 153156,
+      "cumulative_shares": 269044
     }
   ],
   "top_posts": [
@@ -567,6 +576,33 @@
     "The barbecue sauce definitely, like, kind of carries it"
   ],
   "posts_table": [
+    {
+      "post_id": "7592398993632628023",
+      "day_number": 34,
+      "date": "2026-01-06",
+      "timestamp": 1767743178,
+      "average_rating": 7.5,
+      "food_count": 2,
+      "foods": [
+        {
+          "name": "Walkie taco",
+          "score": 8.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "Zero Sugar Lemonade",
+          "score": 6.5,
+          "category": "drink"
+        }
+      ],
+      "likes": 2446,
+      "views": 11900,
+      "comments": 90,
+      "shares": 32,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7592398993632628023",
+      "needs_review": false,
+      "review_number": 40
+    },
     {
       "post_id": "7582774213333847309",
       "day_number": 33,
@@ -2049,54 +2085,36 @@
     }
   ],
   "latest_review": {
-    "post_id": "7582774213333847309",
-    "day_number": 33,
-    "review_number": 39,
-    "date": "2025-12-12",
+    "post_id": "7592398993632628023",
+    "day_number": 34,
+    "review_number": 40,
+    "date": "2026-01-06",
     "foods": [
       {
-        "name": "Meat sauce and noodles",
+        "name": "Walkie taco",
         "category": "main_dish",
-        "score": 6.5,
-        "comments": "The noodles are really soft and mushy, but it's really not that bad."
+        "score": 8.5,
+        "comments": "probably one of my favorite things. Nice and saucy. Nice and cheesy. Also something gives a nice song kick."
       },
       {
-        "name": "Salad with ranch",
-        "category": "side",
-        "score": 8,
-        "comments": "The lettuce is really good today."
-      },
-      {
-        "name": "Corn",
-        "category": "side",
-        "score": 5.5,
-        "comments": "Nice and buttery, nice and sweet, could use some more salt and pepper."
-      },
-      {
-        "name": "Breadstick",
-        "category": "side",
-        "score": 6,
-        "comments": "It's really hard today, nice and garlicky though."
-      },
-      {
-        "name": "Apple juice",
+        "name": "Zero sugar lemonade",
         "category": "drink",
-        "score": 7.5,
-        "comments": "Pretty good, 100% juice, no sugar added."
+        "score": 6.5,
+        "comments": "kind of makes it taste pretty weird. That's like kind of a weird aftertaste. It's not terrible though."
       }
     ],
-    "average_rating": 6.7,
-    "thumbnail_url": "data/davis_big_dawg/thumbnails/7582774213333847309.jpg",
-    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582774213333847309",
+    "average_rating": 7.5,
+    "thumbnail_url": "data/davis_big_dawg/thumbnails/7592398993632628023.jpg",
+    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7592398993632628023",
     "engagement": {
-      "likes": 18700,
-      "comments": 543,
-      "shares": 235,
-      "views": 87300,
-      "likes_formatted": "19K",
-      "comments_formatted": "543",
-      "shares_formatted": "235",
-      "views_formatted": "87K"
+      "likes": 2446,
+      "comments": 90,
+      "shares": 32,
+      "views": 11900,
+      "likes_formatted": "2K",
+      "comments_formatted": "90",
+      "shares_formatted": "32",
+      "views_formatted": "12K"
     }
   }
 }
