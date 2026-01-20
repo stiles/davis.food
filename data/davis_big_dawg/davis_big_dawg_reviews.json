@@ -1,8 +1,8 @@
 {
   "username": "davis_big_dawg",
   "total_transcripts": 86,
-  "school_food_reviews": 0,
-  "other_content": 45,
+  "school_food_reviews": 1,
+  "other_content": 44,
   "failed": 0,
   "needs_manual_review": 0,
   "reviews": [
@@ -1679,6 +1679,41 @@
         "diggCount": 2446,
         "playCount": 11900,
         "shareCount": 32
+      }
+    },
+    {
+      "post_id": "7574629113093229838",
+      "description": "#fyp #viral #chickfila #him #good ",
+      "create_time": 1763605799,
+      "day_number": null,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "chicken sandwich",
+          "category": "main_dish",
+          "score": 8.5,
+          "comments": "I really like the bun. Um, it's nice and soft. Chicken's pretty good."
+        },
+        {
+          "name": "French fry",
+          "category": "side",
+          "score": 8,
+          "comments": "Only place to get waffle fries from. Always Really Good."
+        },
+        {
+          "name": "chick fil a sauce",
+          "category": "condiment",
+          "score": 9.5,
+          "comments": "It's more like a honey mustard based if you've never had it. Also really good."
+        }
+      ],
+      "stats": {
+        "collectCount": 624,
+        "commentCount": 1470,
+        "diggCount": 51000,
+        "playCount": 279500,
+        "shareCount": 915
       }
     }
   ],

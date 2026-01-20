@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-01-19T16:41:11.504795-08:00",
-  "generated_at_formatted": "Jan. 19, 2026, at 4 p.m. PT",
+  "generated_at": "2026-01-20T04:20:23.679739-08:00",
+  "generated_at_formatted": "Jan. 20, 2026, at 4 a.m. PT",
   "username": "davis_big_dawg",
   "overall_metrics": {
-    "total_reviews": 41,
-    "school_lunch_reviews": 40,
-    "total_food_items": 163,
-    "overall_average_rating": 6.49,
+    "total_reviews": 42,
+    "school_lunch_reviews": 41,
+    "total_food_items": 166,
+    "overall_average_rating": 6.53,
     "favorite_category": "dessert",
     "category_counts": {
-      "main_dish": 45,
+      "main_dish": 46,
       "drink": 18,
-      "side": 54,
+      "side": 55,
       "dessert": 6,
       "other": 22,
       "snack": 15,
-      "condiment": 3
+      "condiment": 4
     }
   },
   "category_stats": {
     "main_dish": {
-      "average_rating": 6.61,
-      "count": 45,
+      "average_rating": 6.65,
+      "count": 46,
       "min": 3,
       "max": 9.5
     },
@@ -32,8 +32,8 @@
       "max": 9
     },
     "side": {
-      "average_rating": 5.86,
-      "count": 54,
+      "average_rating": 5.9,
+      "count": 55,
       "min": 1,
       "max": 8.5
     },
@@ -56,10 +56,10 @@
       "max": 9
     },
     "condiment": {
-      "average_rating": 5.75,
-      "count": 2,
+      "average_rating": 7.0,
+      "count": 3,
       "min": 5.5,
-      "max": 6
+      "max": 9.5
     }
   },
   "time_series": [
@@ -352,85 +352,94 @@
       "cumulative_shares": 266452
     },
     {
+      "date": "2025-11-20",
+      "timestamp": 1763605799,
+      "day_number": null,
+      "cumulative_likes": 6709100,
+      "cumulative_views": 64688000,
+      "cumulative_comments": 148783,
+      "cumulative_shares": 267367
+    },
+    {
       "date": "2025-11-21",
       "timestamp": 1763763162,
       "day_number": 30,
-      "cumulative_likes": 6691000,
-      "cumulative_views": 64582400,
-      "cumulative_comments": 149237,
-      "cumulative_shares": 266851
+      "cumulative_likes": 6742000,
+      "cumulative_views": 64861900,
+      "cumulative_comments": 150707,
+      "cumulative_shares": 267766
     },
     {
       "date": "2025-12-01",
       "timestamp": 1764620596,
       "day_number": 31,
-      "cumulative_likes": 6724600,
-      "cumulative_views": 64761600,
-      "cumulative_comments": 150188,
-      "cumulative_shares": 267345
+      "cumulative_likes": 6775600,
+      "cumulative_views": 65041100,
+      "cumulative_comments": 151658,
+      "cumulative_shares": 268260
     },
     {
       "date": "2025-12-04",
       "timestamp": 1764886183,
       "day_number": 31,
-      "cumulative_likes": 6743400,
-      "cumulative_views": 64853000,
-      "cumulative_comments": 150685,
-      "cumulative_shares": 267556
+      "cumulative_likes": 6794400,
+      "cumulative_views": 65132500,
+      "cumulative_comments": 152155,
+      "cumulative_shares": 268471
     },
     {
       "date": "2025-12-07",
       "timestamp": 1765140209,
       "day_number": null,
-      "cumulative_likes": 6755800,
-      "cumulative_views": 64931000,
-      "cumulative_comments": 151101,
-      "cumulative_shares": 268060
+      "cumulative_likes": 6806800,
+      "cumulative_views": 65210500,
+      "cumulative_comments": 152571,
+      "cumulative_shares": 268975
     },
     {
       "date": "2025-12-08",
       "timestamp": 1765233795,
       "day_number": null,
-      "cumulative_likes": 6766500,
-      "cumulative_views": 65003400,
-      "cumulative_comments": 151626,
-      "cumulative_shares": 268400
+      "cumulative_likes": 6817500,
+      "cumulative_views": 65282900,
+      "cumulative_comments": 153096,
+      "cumulative_shares": 269315
     },
     {
       "date": "2025-12-10",
       "timestamp": 1765331853,
       "day_number": 32,
-      "cumulative_likes": 6783100,
-      "cumulative_views": 65084600,
-      "cumulative_comments": 152077,
-      "cumulative_shares": 268604
+      "cumulative_likes": 6834100,
+      "cumulative_views": 65364100,
+      "cumulative_comments": 153547,
+      "cumulative_shares": 269519
     },
     {
       "date": "2025-12-11",
       "timestamp": 1765421704,
       "day_number": 33,
-      "cumulative_likes": 6796200,
-      "cumulative_views": 65152300,
-      "cumulative_comments": 152523,
-      "cumulative_shares": 268777
+      "cumulative_likes": 6847200,
+      "cumulative_views": 65431800,
+      "cumulative_comments": 153993,
+      "cumulative_shares": 269692
     },
     {
       "date": "2025-12-12",
       "timestamp": 1765502223,
       "day_number": 33,
-      "cumulative_likes": 6814900,
-      "cumulative_views": 65239600,
-      "cumulative_comments": 153066,
-      "cumulative_shares": 269012
+      "cumulative_likes": 6865900,
+      "cumulative_views": 65519100,
+      "cumulative_comments": 154536,
+      "cumulative_shares": 269927
     },
     {
       "date": "2026-01-06",
       "timestamp": 1767743178,
       "day_number": 34,
-      "cumulative_likes": 6817346,
-      "cumulative_views": 65251500,
-      "cumulative_comments": 153156,
-      "cumulative_shares": 269044
+      "cumulative_likes": 6868346,
+      "cumulative_views": 65531000,
+      "cumulative_comments": 154626,
+      "cumulative_shares": 269959
     }
   ],
   "top_posts": [
@@ -601,7 +610,7 @@
       "shares": 32,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7592398993632628023",
       "needs_review": false,
-      "review_number": 40
+      "review_number": 41
     },
     {
       "post_id": "7582774213333847309",
@@ -643,7 +652,7 @@
       "shares": 235,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582774213333847309",
       "needs_review": false,
-      "review_number": 39
+      "review_number": 40
     },
     {
       "post_id": "7582428410220252430",
@@ -675,7 +684,7 @@
       "shares": 173,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582428410220252430",
       "needs_review": false,
-      "review_number": 38
+      "review_number": 39
     },
     {
       "post_id": "7582042520259988750",
@@ -712,7 +721,7 @@
       "shares": 204,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7582042520259988750",
       "needs_review": false,
-      "review_number": 37
+      "review_number": 38
     },
     {
       "post_id": "7581621277367029006",
@@ -744,7 +753,7 @@
       "shares": 340,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7581621277367029006",
       "needs_review": false,
-      "review_number": 36
+      "review_number": 37
     },
     {
       "post_id": "7581219314976558350",
@@ -781,7 +790,7 @@
       "shares": 504,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7581219314976558350",
       "needs_review": false,
-      "review_number": 35
+      "review_number": 36
     },
     {
       "post_id": "7580128374031535374",
@@ -818,7 +827,7 @@
       "shares": 211,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7580128374031535374",
       "needs_review": false,
-      "review_number": 34
+      "review_number": 35
     },
     {
       "post_id": "7578987568356789559",
@@ -845,7 +854,7 @@
       "shares": 494,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7578987568356789559",
       "needs_review": false,
-      "review_number": 33
+      "review_number": 34
     },
     {
       "post_id": "7575304937580547342",
@@ -871,6 +880,38 @@
       "comments": 1924,
       "shares": 399,
       "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7575304937580547342",
+      "needs_review": false,
+      "review_number": 33
+    },
+    {
+      "post_id": "7574629113093229838",
+      "day_number": null,
+      "date": "2025-11-20",
+      "timestamp": 1763605799,
+      "average_rating": 8.67,
+      "food_count": 3,
+      "foods": [
+        {
+          "name": "Chicken sandwich",
+          "score": 8.5,
+          "category": "main_dish"
+        },
+        {
+          "name": "French fry",
+          "score": 8,
+          "category": "side"
+        },
+        {
+          "name": "Chick fil a sauce",
+          "score": 9.5,
+          "category": "condiment"
+        }
+      ],
+      "likes": 51000,
+      "views": 279500,
+      "comments": 1470,
+      "shares": 915,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7574629113093229838",
       "needs_review": false,
       "review_number": 32
     },
@@ -2087,7 +2128,7 @@
   "latest_review": {
     "post_id": "7592398993632628023",
     "day_number": 34,
-    "review_number": 40,
+    "review_number": 41,
     "date": "2026-01-06",
     "foods": [
       {
