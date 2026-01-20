@@ -1,9 +1,9 @@
 {
   "username": "davis_big_dawg",
   "summary": {
-    "total_posts": 30,
-    "transcripts_found": 0,
-    "transcripts_downloaded": 0,
+    "total_posts": 31,
+    "transcripts_found": 1,
+    "transcripts_downloaded": 1,
     "failed": 1
   },
   "transcripts": [
@@ -1450,6 +1450,23 @@
         "diggCount": 6761,
         "playCount": 46900,
         "shareCount": 146
+      }
+    },
+    {
+      "post_id": "7597195296170315022",
+      "description": "Jersey mikes one of the best sub places #fyp #viral #review #review #sub ",
+      "create_time": 1768859894,
+      "transcript": "My name is Davis and today I'm reviewing Jersey Mikes. I got the No. 8, which is a club sub which has provolone, Turkey, ham, and oil and then like, vinegar. I think it's very wet, but that is really good. Um, you can definitely taste the bacon. I feel like the vinegar and like the oil is very needed. Tastes really good. They um, they also put seasoning on there which made it a lot better. Um, nice and fresh. The bread is pretty hard. Um, like the outside is kind of hard and then soft in the middle. It is pretty good. I'll probably give that sandwich like a 7 out of 10. When I go to Jersey Mike's, I usually get the Philly cheesesteak, which you guys definitely have to try. Super good. Um, but for the cold sub, I'll probably give that like a 7 out of ten. Alright, now we got um, dressed laid chips. Never heard of these. Never had these before, so see how they are. Okay. Um, has like a barbecue flavor and then like, um, it's kind of sweet barbecue with like a little bit of like, um, vinegar flavor, like pickle flavor. Pretty good. These chips are probably give like a 6 out of 10. Definitely not the best, but definitely pretty good. Thank you and I'll see you tomorrow.",
+      "language": "eng-US",
+      "source": "ASR",
+      "is_original_audio": true,
+      "music_author": "Davis Big Dawg",
+      "stats": {
+        "collectCount": 25,
+        "commentCount": 101,
+        "diggCount": 2808,
+        "playCount": 17400,
+        "shareCount": 58
       }
     }
   ]

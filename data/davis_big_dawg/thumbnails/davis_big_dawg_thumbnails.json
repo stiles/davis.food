@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 30,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 31,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -516,6 +516,23 @@
         "diggCount": 6761,
         "playCount": 46900,
         "shareCount": 146
+      }
+    },
+    {
+      "post_id": "7597195296170315022",
+      "description": "Jersey mikes one of the best sub places #fyp #viral #review #review #sub ",
+      "create_time": 1768859894,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oU2c9CSDpBUqYemFEhJqzAQdEDUdfbrghRQlrV~tplv-tiktokx-origin.image?dr=10395&x-expires=1769040000&x-signature=QFlxQQFkS%2FcnrVugfBiWmObNmgc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7597195296170315022.jpg",
+      "file_size": 82509,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 25,
+        "commentCount": 101,
+        "diggCount": 2808,
+        "playCount": 17400,
+        "shareCount": 58
       }
     }
   ]
