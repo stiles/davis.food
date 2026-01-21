@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 31,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 32,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -533,6 +533,23 @@
         "diggCount": 2808,
         "playCount": 17400,
         "shareCount": 58
+      }
+    },
+    {
+      "post_id": "7597569429496499470",
+      "description": "#fyp #viral #review #mukbang #food ",
+      "create_time": 1768947011,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/ociTNYsgwhue4sr4EAffpgWWfGaefBAJggmUEW~tplv-tiktokx-origin.image?dr=10395&x-expires=1769169600&x-signature=H5fTL2WTZ%2F3YtF5fByukGTvGP3Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7597569429496499470.jpg",
+      "file_size": 74036,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 93,
+        "commentCount": 353,
+        "diggCount": 11100,
+        "playCount": 62900,
+        "shareCount": 133
       }
     }
   ]

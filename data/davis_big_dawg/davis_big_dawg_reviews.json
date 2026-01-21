@@ -1,8 +1,8 @@
 {
   "username": "davis_big_dawg",
-  "total_transcripts": 86,
-  "school_food_reviews": 1,
-  "other_content": 44,
+  "total_transcripts": 87,
+  "school_food_reviews": 0,
+  "other_content": 45,
   "failed": 0,
   "needs_manual_review": 0,
   "reviews": [
@@ -1718,5 +1718,5 @@
     }
   ],
   "new_reviews_processed": 45,
-  "skipped_existing": 41
+  "skipped_existing": 42
 }
