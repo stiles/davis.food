@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 32,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 33,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -550,6 +550,23 @@
         "diggCount": 11100,
         "playCount": 62900,
         "shareCount": 133
+      }
+    },
+    {
+      "post_id": "7598355803615120695",
+      "description": "Buffalo Wild Wings ultimate sampler not bad #fyp #viral #review #mukbang #fyppppppppppppppppppppppp ",
+      "create_time": 1769130096,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/osSOEDAFLQuqzRDgXPEctPQseskpDfCBSVmpNl~tplv-tiktokx-origin.image?dr=10395&x-expires=1769342400&x-signature=wADzt04z%2FUqGDLKgGOW3IwEa3MA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7598355803615120695.jpg",
+      "file_size": 105846,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 139,
+        "commentCount": 325,
+        "diggCount": 12100,
+        "playCount": 89200,
+        "shareCount": 358
       }
     }
   ]
