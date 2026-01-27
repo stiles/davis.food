@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 33,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 34,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -567,6 +567,23 @@
         "diggCount": 12100,
         "playCount": 89200,
         "shareCount": 358
+      }
+    },
+    {
+      "post_id": "7599821064373357854",
+      "description": "Breakfast casserole is the best #fyp #viral #review #mukbang #fypシ ",
+      "create_time": 1769471240,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/oQHfZl6HQcefAXtuCPUBqAQehvu3FBMiRAh8G9~tplv-tiktokx-origin.image?dr=10395&x-expires=1769644800&x-signature=RE1D2NyGCb0DOtFsMMyhwhWar94%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7599821064373357854.jpg",
+      "file_size": 128853,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 1,
+        "commentCount": 4,
+        "diggCount": 18,
+        "playCount": 21,
+        "shareCount": 0
       }
     }
   ]
