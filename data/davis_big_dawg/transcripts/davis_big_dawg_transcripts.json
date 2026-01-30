@@ -1,9 +1,9 @@
 {
   "username": "davis_big_dawg",
   "summary": {
-    "total_posts": 34,
-    "transcripts_found": 0,
-    "transcripts_downloaded": 0,
+    "total_posts": 35,
+    "transcripts_found": 1,
+    "transcripts_downloaded": 1,
     "failed": 2
   },
   "transcripts": [
@@ -1501,6 +1501,23 @@
         "diggCount": 12100,
         "playCount": 89200,
         "shareCount": 358
+      }
+    },
+    {
+      "post_id": "7600770257283714317",
+      "description": "Chick fil a Breakfest not bad #funny #mukbang #food #fyp #viral ",
+      "create_time": 1769692294,
+      "transcript": "My name is Davis, and today we're reviewing chick fil A breakfast. Also, make sure to stay tuned to the end to watch me open up the new cups. Um, if I get the golden cup, that means I get one year of free um, chick fil A. But I. Yeah, let's start off with the chicken minis. Okay. Pretty good. Um, the chicken minis I don't have too often. They are pretty good though. Um, if you've never had one, it's like a. It's like their chicken nuggets, um, and then like in a little biscuit with like, honey and butter. Overall, it's pretty good. Um, I feel like the biscuits a little dry. I feel like, um. Yeah, it kind of dries it out, but with the chick fil A sauce, definitely really good. I'll give that probably like a 6 out of 10. Now the hash Browns, these look pretty good. They, um, instead of like the big ovals, they do like little circles. Um, they look pretty crispy and stuff. So let's see how it is. Pretty good. Um, I definitely like how they're like smaller, so like, they have more of a crunch to them. I don't know if I like these more or McDonald's more. These are definitely really good hash Browns though. I'll probably give these like a. Like a 8 out of 10. Those are really good. And now for the cup. Alright, let's see what it is. Okay. Definitely did not Get the golden one, unfortunately. But this one does look pretty cool. Um, you got, like, the chick fil A sign and then, like, some bricks on top. Honestly, not bad. I think I like the other one. Uh, the looks more on the other one, but definitely really like this one. Well, thank you. That's chick fil A. And I'll see you guys tomorrow.",
+      "language": "eng-US",
+      "source": "ASR",
+      "is_original_audio": true,
+      "music_author": "Davis Big Dawg",
+      "stats": {
+        "collectCount": 34,
+        "commentCount": 124,
+        "diggCount": 4430,
+        "playCount": 24700,
+        "shareCount": 79
       }
     }
   ]
