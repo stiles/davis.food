@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 35,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 36,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -601,6 +601,23 @@
         "diggCount": 4430,
         "playCount": 24700,
         "shareCount": 79
+      }
+    },
+    {
+      "post_id": "7601634068765166861",
+      "description": "Buffalo Wild Wings hottest wings very spicy #funny #food #mukbang #fyp #viral ",
+      "create_time": 1769893390,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oM2iBLLefQG0xrCAeySAeVInLeQrN7dcQrjabK~tplv-tiktokx-origin.image?dr=10395&x-expires=1770076800&x-signature=MMCo7IbapL3QQfWdghUylumfmJI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7601634068765166861.jpg",
+      "file_size": 87697,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 37,
+        "commentCount": 137,
+        "diggCount": 2120,
+        "playCount": 16900,
+        "shareCount": 98
       }
     }
   ]

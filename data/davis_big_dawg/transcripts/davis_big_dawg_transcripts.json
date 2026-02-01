@@ -1,9 +1,9 @@
 {
   "username": "davis_big_dawg",
   "summary": {
-    "total_posts": 35,
-    "transcripts_found": 0,
-    "transcripts_downloaded": 0,
+    "total_posts": 36,
+    "transcripts_found": 1,
+    "transcripts_downloaded": 1,
     "failed": 2
   },
   "transcripts": [
@@ -1518,6 +1518,23 @@
         "diggCount": 4430,
         "playCount": 24700,
         "shareCount": 79
+      }
+    },
+    {
+      "post_id": "7601634068765166861",
+      "description": "Buffalo Wild Wings hottest wings very spicy #funny #food #mukbang #fyp #viral ",
+      "create_time": 1769893390,
+      "transcript": "My name is Davis. Today I'm at Buffalo Wild Wings doing their hottest wing. It is called the Blazing Knockout. It is 350,000 Scoville units. So, uh, let's give it a try. Oh, god. Starting off not too, um, spicy. I'm trying to feel it now a little bit more in the mouth. It's really, um, smoky. Um, they don't really smell spicy. They kind of smell, like, sweet. Oh, I can really feel it now in the mouth. It's a really big mouth feel. Um, they said this. It has the nine hottest peppers in the world in it. I'm trying to hold off from the milk, but. Oh, I can feel it. Oh, I know. It's kind of reaching the throat. Um, I'm tearing up. Okay. Also, make sure you go look at my cameo. It's in my bio. I need milk. Okay. I was expecting a lot worse. It's not. It's not good, though. I'll give this, like, a three out of 10. I don't enjoy this. Well, that's the blazing wings, guys. Thank you, and I'll see you tomorrow.",
+      "language": "eng-US",
+      "source": "ASR",
+      "is_original_audio": true,
+      "music_author": "Davis Big Dawg",
+      "stats": {
+        "collectCount": 37,
+        "commentCount": 137,
+        "diggCount": 2120,
+        "playCount": 16900,
+        "shareCount": 98
       }
     }
   ]
