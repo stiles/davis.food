@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 36,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 37,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -618,6 +618,23 @@
         "diggCount": 2120,
         "playCount": 16900,
         "shareCount": 98
+      }
+    },
+    {
+      "post_id": "7603942649560599822",
+      "description": "Wing stop for the Super Bowl #food #superbowl #viral #fyp #wings ",
+      "create_time": 1770430887,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oAfuIdqGAZfGAIFdmoIW90L7RZOGIoeoFRBfGW~tplv-tiktokx-origin.image?dr=10395&x-expires=1770638400&x-signature=%2F7XdxjrQOqNonxjgb5eS9yx1VQY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7603942649560599822.jpg",
+      "file_size": 106853,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 22,
+        "commentCount": 87,
+        "diggCount": 2276,
+        "playCount": 10900,
+        "shareCount": 24
       }
     }
   ]

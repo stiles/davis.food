@@ -2,10 +2,678 @@
   "username": "davis_big_dawg",
   "display_name": "Davis Big Dawg",
   "sec_uid": "MS4wLjABAAAAAyE2IuUL_P4nefRAwJIqkoTB_Ptcsyy3GCxX7cOXHQRCYOOwis5QYUdlFH1KhGmO",
-  "total_videos": 93,
-  "fetched_count": 36,
-  "new_posts": 0,
+  "total_videos": 94,
+  "fetched_count": 37,
+  "new_posts": 1,
   "posts": [
+    {
+      "AIGCDescription": "",
+      "CategoryType": 111,
+      "IsHDBitrate": false,
+      "anchors": [
+        {
+          "description": "CapCut · Video Editor",
+          "extraInfo": {
+            "subtype": ""
+          },
+          "icon": {
+            "urlList": [
+              "https://p16-common-sign.tiktokcdn-eu.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=Z9ZYeZWpcjquWn02hn0Z9AOePSk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+              "https://p19-common-sign.tiktokcdn-eu.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=eTDuYuzG%2BFnSecGk%2BKSlubBGN8k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+              "https://p16-common-sign.tiktokcdn-eu.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.jpeg?dr=10386&x-expires=1770487200&x-signature=ZTCKFtN4T3LOdo1kom%2FsJ7RXRa4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a"
+            ]
+          },
+          "id": "0",
+          "keyword": "CapCut · Editing made easy",
+          "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut · Editing made easy\",\"anchor_title_detail\":\"None\",\"anchor_title_id\":21502485763,\"anchor_type\":\"TT_CAPCUT\",\"capability_key\":\"default\",\"ccep_vip\":0,\"if_race_trigger\":0,\"is_two_line\":0,\"landing_page_style_id\":21502486275,\"maker_source\":\"\",\"publish_key\":\"default\",\"template_id\":\"none\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":1,\"video_type_id\":1}",
+          "schema": "https://www.capcut.com/tools/desktop-video-editor?channel=capcutpc_ttweb_anchor_edit1&download_channel=capcutpc_ttweb_anchor_edit1&enter_from=capcutpc_ttweb_anchor_edit1&force_dp=1&from_page=capcutpc_ttweb_anchor_edit1&type=tools",
+          "thumbnail": {
+            "height": 64,
+            "urlList": [
+              "https://p16-common-sign.tiktokcdn-eu.com/tiktok-obj/64x_Capcut3x.png~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=9WrtXQjfHsbBBDbCfqS1RzJO6jE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+              "https://p19-common-sign.tiktokcdn-eu.com/tiktok-obj/64x_Capcut3x.png~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=JinVoii%2F9Q5zbAE1dk344qR3nDY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+              "https://p16-common-sign.tiktokcdn-eu.com/tiktok-obj/64x_Capcut3x.png~tplv-tiktokx-origin.jpeg?dr=10386&x-expires=1770487200&x-signature=psFhiusbyDPcTEKSxcheYIiJ5yM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a"
+            ],
+            "width": 64
+          },
+          "type": 54
+        }
+      ],
+      "author": {
+        "UserStoryStatus": 0,
+        "avatarLarger": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/5cd69f1aeb84812d8a2344b55a5d82d4~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=37a0ba6b&x-expires=1770638400&x-signature=sEs11hu9o4ZlQ3ccSqqHgjkHO80%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+        "avatarMedium": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/5cd69f1aeb84812d8a2344b55a5d82d4~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=a771b8ab&x-expires=1770638400&x-signature=QObdCvtrWzbQDirwQrSLhG0Az8Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+        "avatarThumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/5cd69f1aeb84812d8a2344b55a5d82d4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=975a033b&x-expires=1770638400&x-signature=3GQ9xuvQZrhKXmpM%2BdCGvfvJrWI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+        "commentSetting": 0,
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "ftc": false,
+        "id": "7551533044785988621",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickname": "Davis Big Dawg",
+        "openFavorite": false,
+        "privateAccount": false,
+        "relation": 0,
+        "secUid": "MS4wLjABAAAAAyE2IuUL_P4nefRAwJIqkoTB_Ptcsyy3GCxX7cOXHQRCYOOwis5QYUdlFH1KhGmO",
+        "secret": false,
+        "signature": "Just a big boy tryna make it💪💪💪\n\nAccount managed by parents\n\nDavisbigdawg@night.co",
+        "stitchSetting": 0,
+        "uniqueId": "davis_big_dawg",
+        "verified": false
+      },
+      "authorStats": {
+        "diggCount": 172,
+        "followerCount": 749200,
+        "followingCount": 10,
+        "friendCount": 0,
+        "heart": 10700000,
+        "heartCount": 10700000,
+        "videoCount": 94
+      },
+      "authorStatsV2": {
+        "diggCount": "172",
+        "followerCount": "749200",
+        "followingCount": "10",
+        "friendCount": "0",
+        "heart": "10700000",
+        "heartCount": "10700000",
+        "videoCount": "94"
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+        {
+          "coverLarger": "https://p16-common-sign.tiktokcdn-eu.com/tiktok-obj/1616636707043489.JPEG~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=Hnh5rv5oTrUrGWZYKnqEBCTfq3g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "coverMedium": "https://p16-common-sign.tiktokcdn-eu.com/tiktok-obj/1616636707043489.JPEG~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=Hnh5rv5oTrUrGWZYKnqEBCTfq3g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "coverThumb": "https://p16-common-sign.tiktokcdn-eu.com/tiktok-obj/1616636707043489.JPEG~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=Hnh5rv5oTrUrGWZYKnqEBCTfq3g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "desc": "",
+          "id": "5718",
+          "profileLarger": "https://p16-common-sign.tiktokcdn-eu.com/tiktok-obj/1616636701103106.JPEG~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=yaYt0wrJ1kVka3uIw2S%2FIWA4SAI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "profileMedium": "https://p16-common-sign.tiktokcdn-eu.com/tiktok-obj/1616636701103106.JPEG~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=yaYt0wrJ1kVka3uIw2S%2FIWA4SAI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "profileThumb": "https://p16-common-sign.tiktokcdn-eu.com/tiktok-obj/1616636701103106.JPEG~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=yaYt0wrJ1kVka3uIw2S%2FIWA4SAI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "title": "food"
+        },
+        {
+          "coverLarger": "",
+          "coverMedium": "",
+          "coverThumb": "",
+          "desc": "Are you ready for the Super Bowl? Pull on a jersey, pull out your grill, and get ready for the biggest game of the year. And be sure to tune in to the Super Bowl LVIII Pre-Game, LIVE on TikTok!",
+          "id": "9484",
+          "profileLarger": "https://p16-common-sign.tiktokcdn-eu.com/musically-maliva-obj/9e67b091bd975df6cdc9be7ff6e0540a.jpeg~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=8FbLmJHbMPBK3xOwlHw%2BVTGBzV8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "profileMedium": "https://p16-common-sign.tiktokcdn-eu.com/musically-maliva-obj/9e67b091bd975df6cdc9be7ff6e0540a.jpeg~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=8FbLmJHbMPBK3xOwlHw%2BVTGBzV8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "profileThumb": "https://p16-common-sign.tiktokcdn-eu.com/musically-maliva-obj/9e67b091bd975df6cdc9be7ff6e0540a.jpeg~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=8FbLmJHbMPBK3xOwlHw%2BVTGBzV8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "title": "SuperBowl"
+        },
+        {
+          "coverLarger": "https://p16-common-sign.tiktokcdn-eu.com/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=oy4nCKmvI3J2kWESDbc7as7LrV8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "coverMedium": "https://p16-common-sign.tiktokcdn-eu.com/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=oy4nCKmvI3J2kWESDbc7as7LrV8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "coverThumb": "https://p16-common-sign.tiktokcdn-eu.com/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=oy4nCKmvI3J2kWESDbc7as7LrV8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "desc": "¡descubre las canciones en tendencia! 🔥➡️ https://bit.ly/TendenciasTikTok_LATAM",
+          "id": "20884",
+          "profileLarger": "https://p16-common-sign.tiktokcdn-eu.com/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=JaULAfNEhFWov5c%2FAKvNZhOPy0Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "profileMedium": "https://p16-common-sign.tiktokcdn-eu.com/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=JaULAfNEhFWov5c%2FAKvNZhOPy0Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "profileThumb": "https://p16-common-sign.tiktokcdn-eu.com/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png~tplv-tiktokx-origin.image?dr=10386&x-expires=1770487200&x-signature=JaULAfNEhFWov5c%2FAKvNZhOPy0Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a",
+          "title": "viral"
+        },
+        {
+          "coverLarger": "",
+          "coverMedium": "",
+          "coverThumb": "",
+          "desc": "",
+          "id": "229207",
+          "profileLarger": "",
+          "profileMedium": "",
+          "profileThumb": "",
+          "title": "fyp"
+        },
+        {
+          "coverLarger": "",
+          "coverMedium": "",
+          "coverThumb": "",
+          "desc": "",
+          "id": "32383",
+          "profileLarger": "",
+          "profileMedium": "",
+          "profileThumb": "",
+          "title": "wings"
+        }
+      ],
+      "collected": false,
+      "contents": [
+        {
+          "desc": "Wing stop for the Super Bowl #food #superbowl #viral #fyp #wings ",
+          "textExtra": [
+            {
+              "awemeId": "",
+              "end": 34,
+              "hashtagName": "food",
+              "isCommerce": false,
+              "start": 29,
+              "subType": 0,
+              "type": 1
+            },
+            {
+              "awemeId": "",
+              "end": 45,
+              "hashtagName": "superbowl",
+              "isCommerce": false,
+              "start": 35,
+              "subType": 0,
+              "type": 1
+            },
+            {
+              "awemeId": "",
+              "end": 52,
+              "hashtagName": "viral",
+              "isCommerce": false,
+              "start": 46,
+              "subType": 0,
+              "type": 1
+            },
+            {
+              "awemeId": "",
+              "end": 57,
+              "hashtagName": "fyp",
+              "isCommerce": false,
+              "start": 53,
+              "subType": 0,
+              "type": 1
+            },
+            {
+              "awemeId": "",
+              "end": 64,
+              "hashtagName": "wings",
+              "isCommerce": false,
+              "start": 58,
+              "subType": 0,
+              "type": 1
+            }
+          ]
+        }
+      ],
+      "createTime": 1770430887,
+      "creatorAIComment": {
+        "eligibleVideo": false,
+        "hasAITopic": false,
+        "notEligibleReason": 101
+      },
+      "desc": "Wing stop for the Super Bowl #food #superbowl #viral #fyp #wings ",
+      "digged": false,
+      "diversificationId": 10041,
+      "duetDisplay": 0,
+      "duetEnabled": true,
+      "forFriend": false,
+      "id": "7603942649560599822",
+      "isAd": false,
+      "isReviewing": false,
+      "itemCommentStatus": 0,
+      "item_control": {
+        "can_repost": true
+      },
+      "music": {
+        "authorName": "Davis Big Dawg",
+        "coverLarge": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/5cd69f1aeb84812d8a2344b55a5d82d4~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=37a0ba6b&x-expires=1770638400&x-signature=sEs11hu9o4ZlQ3ccSqqHgjkHO80%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+        "coverMedium": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/5cd69f1aeb84812d8a2344b55a5d82d4~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=a771b8ab&x-expires=1770638400&x-signature=QObdCvtrWzbQDirwQrSLhG0Az8Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+        "coverThumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/5cd69f1aeb84812d8a2344b55a5d82d4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=975a033b&x-expires=1770638400&x-signature=3GQ9xuvQZrhKXmpM%2BdCGvfvJrWI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+        "duration": 97,
+        "id": "7603942729080376078",
+        "isCopyrighted": false,
+        "is_commerce_music": true,
+        "is_unlimited_music": false,
+        "original": true,
+        "playUrl": "https://v15m.tiktokcdn-eu.com/e73f3c3481c9bcf2b39d272534786d20/69887f60/video/tos/maliva/tos-maliva-v-27dcd7c799-us/oEgvohlu3GBEC4U8MACqZiQ5LAaYoiEaAacA0/?a=1233&bti=ODszNWYuMDE6&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ds=5&ft=.NpOcInz7Th9JiYPXq8Zmo&mime_type=audio_mpeg&qs=13&rc=anZtOXM5cmRkOTMzZzU8NEBpanZtOXM5cmRkOTMzZzU8NEAyY19rMmRrMDBhLS1kMS9zYSMyY19rMmRrMDBhLS1kMS9zcw%3D%3D&vvpl=1&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+        "private": false,
+        "shoot_duration": 97,
+        "title": "original sound",
+        "tt2dsp": {}
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+        "collectCount": 22,
+        "commentCount": 87,
+        "diggCount": 2276,
+        "playCount": 10900,
+        "shareCount": 24
+      },
+      "statsV2": {
+        "collectCount": "22",
+        "commentCount": "87",
+        "diggCount": "2276",
+        "playCount": "10900",
+        "repostCount": "0",
+        "shareCount": "24"
+      },
+      "stitchDisplay": 0,
+      "stitchEnabled": true,
+      "textExtra": [
+        {
+          "awemeId": "",
+          "end": 34,
+          "hashtagName": "food",
+          "isCommerce": false,
+          "start": 29,
+          "subType": 0,
+          "type": 1
+        },
+        {
+          "awemeId": "",
+          "end": 45,
+          "hashtagName": "superbowl",
+          "isCommerce": false,
+          "start": 35,
+          "subType": 0,
+          "type": 1
+        },
+        {
+          "awemeId": "",
+          "end": 52,
+          "hashtagName": "viral",
+          "isCommerce": false,
+          "start": 46,
+          "subType": 0,
+          "type": 1
+        },
+        {
+          "awemeId": "",
+          "end": 57,
+          "hashtagName": "fyp",
+          "isCommerce": false,
+          "start": 53,
+          "subType": 0,
+          "type": 1
+        },
+        {
+          "awemeId": "",
+          "end": 64,
+          "hashtagName": "wings",
+          "isCommerce": false,
+          "start": 58,
+          "subType": 0,
+          "type": 1
+        }
+      ],
+      "textLanguage": "en",
+      "textTranslatable": true,
+      "video": {
+        "PlayAddrStruct": {
+          "DataSize": 14104426,
+          "FileCs": "c:0-82068-c5e3",
+          "FileHash": "66be6dd67a5cf6b4448d584d0162e422",
+          "Height": 1280,
+          "Uri": "v12044gd0000d63a37vog65vnfkap8vg",
+          "UrlKey": "v12044gd0000d63a37vog65vnfkap8vg_h264_720p_1152345",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oAIGEQOcGoFGABGmdL2beRM9fZfRfINAIZolFU/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2250&bt=1125&cs=0&ds=3&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=0&rc=ODtkZjVlOGg3NzU3OWU1ZkBpajtkaXk5cjpkOTMzZzczNEBgYy80LTEzNjAxLV80XjYwYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=0f27516a5c9b277a1f963a57cd539090&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oAIGEQOcGoFGABGmdL2beRM9fZfRfINAIZolFU/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2250&bt=1125&cs=0&ds=3&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=0&rc=ODtkZjVlOGg3NzU3OWU1ZkBpajtkaXk5cjpkOTMzZzczNEBgYy80LTEzNjAxLV80XjYwYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=0f27516a5c9b277a1f963a57cd539090&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=3c92ab76b40244349e654b027c2af8c5&is_play_url=1&item_id=7603942649560599822&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmI2NTJmZWRiMzU2ZmE4YjhjNGVhMWM2YjU3NDgxN2U1&tk=tt_chain_token&video_id=v12044gd0000d63a37vog65vnfkap8vg"
+          ],
+          "Width": 720
+        },
+        "VQScore": "64.9",
+        "bitrate": 1152345,
+        "bitrateInfo": [
+          {
+            "Bitrate": 1152345,
+            "BitrateFPS": 30,
+            "CodecType": "h264",
+            "Format": "mp4",
+            "GearName": "normal_720_0",
+            "MVMAF": "{\"v2.0\": {\"srv1\": {\"v1080\": 85.962, \"v960\": 88.182, \"v864\": 89.927, \"v720\": 92.415}, \"ori\": {\"v1080\": 85.962, \"v960\": 88.182, \"v864\": 89.927, \"v720\": 92.415}}}",
+            "PlayAddr": {
+              "DataSize": 14104426,
+              "FileCs": "c:0-82068-c5e3",
+              "FileHash": "66be6dd67a5cf6b4448d584d0162e422",
+              "Height": 1280,
+              "Uri": "v12044gd0000d63a37vog65vnfkap8vg",
+              "UrlKey": "v12044gd0000d63a37vog65vnfkap8vg_h264_720p_1152345",
+              "UrlList": [
+                "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oAIGEQOcGoFGABGmdL2beRM9fZfRfINAIZolFU/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2250&bt=1125&cs=0&ds=3&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=0&rc=ODtkZjVlOGg3NzU3OWU1ZkBpajtkaXk5cjpkOTMzZzczNEBgYy80LTEzNjAxLV80XjYwYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=0f27516a5c9b277a1f963a57cd539090&tk=tt_chain_token",
+                "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oAIGEQOcGoFGABGmdL2beRM9fZfRfINAIZolFU/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2250&bt=1125&cs=0&ds=3&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=0&rc=ODtkZjVlOGg3NzU3OWU1ZkBpajtkaXk5cjpkOTMzZzczNEBgYy80LTEzNjAxLV80XjYwYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=0f27516a5c9b277a1f963a57cd539090&tk=tt_chain_token",
+                "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=3c92ab76b40244349e654b027c2af8c5&is_play_url=1&item_id=7603942649560599822&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmI2NTJmZWRiMzU2ZmE4YjhjNGVhMWM2YjU3NDgxN2U1&tk=tt_chain_token&video_id=v12044gd0000d63a37vog65vnfkap8vg"
+              ],
+              "Width": 720
+            },
+            "QualityType": 10,
+            "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 347011}, {\\\"time\\\": 2, \\\"offset\\\": 474887}, {\\\"time\\\": 3, \\\"offset\\\": 621531}, {\\\"time\\\": 4, \\\"offset\\\": 751132}, {\\\"time\\\": 5, \\\"offset\\\": 919556}, {\\\"time\\\": 10, \\\"offset\\\": 1666489}]\",\"mvmaf\":\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 85.962, \\\"v960\\\": 88.182, \\\"v864\\\": 89.927, \\\"v720\\\": 92.415}, \\\"ori\\\": {\\\"v1080\\\": 85.962, \\\"v960\\\": 88.182, \\\"v864\\\": 89.927, \\\"v720\\\": 92.415}}}\",\"ufq\":\"{\\\"enh\\\":79.11,\\\"playback\\\":{\\\"ori\\\":69.072,\\\"srv1\\\":68.598},\\\"src\\\":79.11,\\\"trans\\\":69.072,\\\"version\\\":\\\"v1.1\\\"}\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"03d260a050ac518c3e2bcdc9d6ee5088\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":64107}"
+          },
+          {
+            "Bitrate": 867884,
+            "BitrateFPS": 30,
+            "CodecType": "h265_hvc1",
+            "Format": "mp4",
+            "GearName": "adapt_lowest_1080_1",
+            "MVMAF": "{\"v2.0\": {\"srv1\": {\"v1080\": 98.915, \"v960\": 99.297, \"v864\": 99.619, \"v720\": 99.759}, \"ori\": {\"v1080\": 91.44, \"v960\": 92.606, \"v864\": 93.646, \"v720\": 94.762}}}",
+            "PlayAddr": {
+              "DataSize": 10622685,
+              "FileCs": "c:0-82182-ed47",
+              "FileHash": "df759362ae2822d9b8414db581a45243",
+              "Height": 1920,
+              "Uri": "v12044gd0000d63a37vog65vnfkap8vg",
+              "UrlKey": "v12044gd0000d63a37vog65vnfkap8vg_bytevc1_1080p_867884",
+              "UrlList": [
+                "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oAIFGU9AWoFGddfSQKIGcfeZRROLGpImAIfEZG/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1694&bt=847&cs=2&ds=4&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=15&rc=M2Y8MzQzaWczOTdnZDZlZUBpajtkaXk5cjpkOTMzZzczNEBjMTRiNTJfNWIxYzUzLmMwYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=45e8e69d62387f956444bba986898b5e&tk=tt_chain_token",
+                "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oAIFGU9AWoFGddfSQKIGcfeZRROLGpImAIfEZG/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1694&bt=847&cs=2&ds=4&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=15&rc=M2Y8MzQzaWczOTdnZDZlZUBpajtkaXk5cjpkOTMzZzczNEBjMTRiNTJfNWIxYzUzLmMwYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=45e8e69d62387f956444bba986898b5e&tk=tt_chain_token",
+                "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=3bfb136a8df446e08dbf5081e0794cf0&is_play_url=1&item_id=7603942649560599822&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjMzMzAzZTQzOTAwYjE2NTdkYzY4NGRiYjEyYWM3NDMz&tk=tt_chain_token&video_id=v12044gd0000d63a37vog65vnfkap8vg"
+              ],
+              "Width": 1080
+            },
+            "QualityType": 2,
+            "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 291480}, {\\\"time\\\": 2, \\\"offset\\\": 379640}, {\\\"time\\\": 3, \\\"offset\\\": 480734}, {\\\"time\\\": 4, \\\"offset\\\": 583589}, {\\\"time\\\": 5, \\\"offset\\\": 696004}, {\\\"time\\\": 10, \\\"offset\\\": 1306075}]\",\"mvmaf\":\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 98.915, \\\"v960\\\": 99.297, \\\"v864\\\": 99.619, \\\"v720\\\": 99.759}, \\\"ori\\\": {\\\"v1080\\\": 91.44, \\\"v960\\\": 92.606, \\\"v864\\\": 93.646, \\\"v720\\\": 94.762}}}\",\"ufq\":\"{\\\"enh\\\":79.11,\\\"playback\\\":{\\\"ori\\\":74.55,\\\"srv1\\\":78.419},\\\"src\\\":79.11,\\\"trans\\\":74.55,\\\"version\\\":\\\"v1.2\\\"}\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"c68e328902ec3bc272583c8c6c510580\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":96115,\"ps_info\":\"{\\\"vps\\\": \\\"AQwC//8BYAAAAwAAAwAAAwAAAwCWAACdzkgS\\\", \\\"sps\\\": \\\"AQMBYAAAAwAAAwAAAwAAAwCWAACgAhyAHgWWdzkySUQs0RJJJJify4d/1+bPl/1+M4gQ5qAgICCAAAADAIAAAA8E\\\", \\\"pps\\\": \\\"AcElPAiQ\\\"}\"}"
+          },
+          {
+            "Bitrate": 498673,
+            "BitrateFPS": 30,
+            "CodecType": "h265_hvc1",
+            "Format": "mp4",
+            "GearName": "adapt_lower_720_1",
+            "MVMAF": "{\"v2.0\": {\"srv1\": {\"v1080\": 96.286, \"v960\": 97.803, \"v864\": 98.403, \"v720\": 99.31}, \"ori\": {\"v1080\": 85.934, \"v960\": 88.005, \"v864\": 89.581, \"v720\": 92.444}}}",
+            "PlayAddr": {
+              "DataSize": 6103639,
+              "FileCs": "c:0-82185-4665",
+              "FileHash": "f36a68d691accd31d84aaa253819f863",
+              "Height": 1280,
+              "Uri": "v12044gd0000d63a37vog65vnfkap8vg",
+              "UrlKey": "v12044gd0000d63a37vog65vnfkap8vg_bytevc1_720p_498673",
+              "UrlList": [
+                "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ooZdfAe9IGEQfpGiRfAFIZLIARFR0mGnG5OoFW/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=972&bt=486&cs=2&ds=3&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=14&rc=ZjlnM2lkO2g1PDw0NmU8NUBpajtkaXk5cjpkOTMzZzczNEBfX2MxMDExXjUxM2MtMl4zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=1a441911496f30a1028a6215ed3b7d34&tk=tt_chain_token",
+                "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ooZdfAe9IGEQfpGiRfAFIZLIARFR0mGnG5OoFW/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=972&bt=486&cs=2&ds=3&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=14&rc=ZjlnM2lkO2g1PDw0NmU8NUBpajtkaXk5cjpkOTMzZzczNEBfX2MxMDExXjUxM2MtMl4zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=1a441911496f30a1028a6215ed3b7d34&tk=tt_chain_token",
+                "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=62a95b03f1694982ae484a3f40fdb6bc&is_play_url=1&item_id=7603942649560599822&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjE2ODdjNDU0ODgzZDc0ODFkMmQ2MmFmYTM3ZDMwNzZk&tk=tt_chain_token&video_id=v12044gd0000d63a37vog65vnfkap8vg"
+              ],
+              "Width": 720
+            },
+            "QualityType": 14,
+            "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 212263}, {\\\"time\\\": 2, \\\"offset\\\": 252297}, {\\\"time\\\": 3, \\\"offset\\\": 300032}, {\\\"time\\\": 4, \\\"offset\\\": 348997}, {\\\"time\\\": 5, \\\"offset\\\": 414481}, {\\\"time\\\": 10, \\\"offset\\\": 782454}]\",\"mvmaf\":\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 96.286, \\\"v960\\\": 97.803, \\\"v864\\\": 98.403, \\\"v720\\\": 99.31}, \\\"ori\\\": {\\\"v1080\\\": 85.934, \\\"v960\\\": 88.005, \\\"v864\\\": 89.581, \\\"v720\\\": 92.444}}}\",\"ufq\":\"{\\\"enh\\\":79.11,\\\"playback\\\":{\\\"ori\\\":69.044,\\\"srv1\\\":77.893},\\\"src\\\":79.11,\\\"trans\\\":69.044,\\\"version\\\":\\\"v1.2\\\"}\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"0ae394037572ea033285aeadc0ac4a6b\",\"dec_info\":\"\",\"gearvqm\":\"{\\\"v3.0\\\": {\\\"ori\\\": 96.395, \\\"sr20\\\": 103.288}}\",\"audio_bit_rate\":96115,\"ps_info\":\"{\\\"vps\\\": \\\"AQwC//8BYAAAAwAAAwAAAwAAAwC6AACIJEFgSA==\\\", \\\"sps\\\": \\\"AQMBYAAAAwAAAwAAAwAAAwC6AACgBaIAUBZYgkQXJIkQTNCERERERhH8Thy/v/X82fl/6/mUPkv7/1/Nn5f+v4zhAIOagICAggAAAwACAAADADwQ\\\", \\\"pps\\\": \\\"AcElPA7J\\\"}\"}"
+          },
+          {
+            "Bitrate": 390434,
+            "BitrateFPS": 30,
+            "CodecType": "h265_hvc1",
+            "Format": "mp4",
+            "GearName": "adapt_540_1",
+            "MVMAF": "{\"v2.0\": {\"srv1\": {\"v1080\": 94.28, \"v960\": 96.392, \"v864\": 97.722, \"v720\": 98.795}, \"ori\": {\"v1080\": 82.477, \"v960\": 84.862, \"v864\": 86.848, \"v720\": 89.881}}}",
+            "PlayAddr": {
+              "DataSize": 4778818,
+              "FileCs": "c:0-82185-4320",
+              "FileHash": "a103746b266c5dab18e4ae3625af06ea",
+              "Height": 1024,
+              "Uri": "v12044gd0000d63a37vog65vnfkap8vg",
+              "UrlKey": "v12044gd0000d63a37vog65vnfkap8vg_bytevc1_540p_390434",
+              "UrlList": [
+                "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/owefjRVqom9BIAIVpFZLdRTGFwEfGEGGZfIAQO/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=762&bt=381&cs=2&ds=6&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=11&rc=MzY3aDU7NDc5NTgzZGk6PEBpajtkaXk5cjpkOTMzZzczNEAtXmBfY2EvNmIxLl4vMDEtYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=042d0a9a63a03bfeaf744de104990fc1&tk=tt_chain_token",
+                "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/owefjRVqom9BIAIVpFZLdRTGFwEfGEGGZfIAQO/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=762&bt=381&cs=2&ds=6&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=11&rc=MzY3aDU7NDc5NTgzZGk6PEBpajtkaXk5cjpkOTMzZzczNEAtXmBfY2EvNmIxLl4vMDEtYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=042d0a9a63a03bfeaf744de104990fc1&tk=tt_chain_token",
+                "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=09473f2aa01542e69421d8f2bec4a300&is_play_url=1&item_id=7603942649560599822&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmEzODVhZTYyMzU4NTNhOWRkYjY5MjI4NTc2YTIzMzBj&tk=tt_chain_token&video_id=v12044gd0000d63a37vog65vnfkap8vg"
+              ],
+              "Width": 576
+            },
+            "QualityType": 28,
+            "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 188327}, {\\\"time\\\": 2, \\\"offset\\\": 219298}, {\\\"time\\\": 3, \\\"offset\\\": 256124}, {\\\"time\\\": 4, \\\"offset\\\": 292803}, {\\\"time\\\": 5, \\\"offset\\\": 345620}, {\\\"time\\\": 10, \\\"offset\\\": 635151}]\",\"mvmaf\":\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 94.28, \\\"v960\\\": 96.392, \\\"v864\\\": 97.722, \\\"v720\\\": 98.795}, \\\"ori\\\": {\\\"v1080\\\": 82.477, \\\"v960\\\": 84.862, \\\"v864\\\": 86.848, \\\"v720\\\": 89.881}}}\",\"ufq\":\"{\\\"enh\\\":79.11,\\\"playback\\\":{\\\"ori\\\":66.217,\\\"srv1\\\":76.916},\\\"src\\\":79.11,\\\"trans\\\":66.217,\\\"version\\\":\\\"v1.2\\\"}\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"12a0943fb20072e391017dc242deb5dc\",\"dec_info\":\"\",\"gearvqm\":\"{\\\"v3.0\\\": {\\\"ori\\\": 93.92, \\\"sr20\\\": 102.85}}\",\"audio_bit_rate\":64097,\"ps_info\":\"{\\\"vps\\\": \\\"AQwC//8BYAAAAwAAAwAAAwAAAwC6AACIJEFgSA==\\\", \\\"sps\\\": \\\"AQMBYAAAAwAAAwAAAwAAAwC6AACgBIIAQBZYgkQXJIkQTNCERERERhH8Thy/v/X82fl/6/mUPkv7/1/Nn5f+v4zhAIOagICAggAAAwACAAADADwQ\\\", \\\"pps\\\": \\\"AcElPA7J\\\"}\"}"
+          },
+          {
+            "Bitrate": 364020,
+            "BitrateFPS": 30,
+            "CodecType": "h264",
+            "Format": "mp4",
+            "GearName": "lowest_540_0",
+            "MVMAF": "{\"v2.0\": {\"srv1\": {\"v1080\": 79.389, \"v960\": 82.974, \"v864\": 84.331, \"v720\": 88.554}, \"ori\": {\"v1080\": 69.037, \"v960\": 73.87, \"v864\": 76.535, \"v720\": 79.802}}}",
+            "PlayAddr": {
+              "DataSize": 4455519,
+              "FileCs": "c:0-82061-794f",
+              "FileHash": "66ffd79a7f58a7ec5565c34f0a7713fe",
+              "Height": 1024,
+              "Uri": "v12044gd0000d63a37vog65vnfkap8vg",
+              "UrlKey": "v12044gd0000d63a37vog65vnfkap8vg_h264_540p_364020",
+              "UrlList": [
+                "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/okoomOReZAMyAKAfgqeRFD6G8IXiGGjQsQB78f/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=710&bt=355&cs=0&ds=6&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=5&rc=OThmZjpnOzs5NTU1ZTllNkBpajtkaXk5cjpkOTMzZzczNEAwMjUvNmI0NjYxLV4tNDQzYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=4035a7bf01ee3a68061da545e7689b5d&tk=tt_chain_token",
+                "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/okoomOReZAMyAKAfgqeRFD6G8IXiGGjQsQB78f/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=710&bt=355&cs=0&ds=6&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=5&rc=OThmZjpnOzs5NTU1ZTllNkBpajtkaXk5cjpkOTMzZzczNEAwMjUvNmI0NjYxLV4tNDQzYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=4035a7bf01ee3a68061da545e7689b5d&tk=tt_chain_token",
+                "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=637b760ba20242969878ed972c8c5536&is_play_url=1&item_id=7603942649560599822&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjdlMWEwOWVjZGUxNDBhOTE5NTMxNmYxMTk4ZjBlMTI1&tk=tt_chain_token&video_id=v12044gd0000d63a37vog65vnfkap8vg"
+              ],
+              "Width": 576
+            },
+            "QualityType": 25,
+            "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 167225}, {\\\"time\\\": 2, \\\"offset\\\": 203251}, {\\\"time\\\": 3, \\\"offset\\\": 240920}, {\\\"time\\\": 4, \\\"offset\\\": 277404}, {\\\"time\\\": 5, \\\"offset\\\": 340063}, {\\\"time\\\": 10, \\\"offset\\\": 582872}]\",\"mvmaf\":\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 79.389, \\\"v960\\\": 82.974, \\\"v864\\\": 84.331, \\\"v720\\\": 88.554}, \\\"ori\\\": {\\\"v1080\\\": 69.037, \\\"v960\\\": 73.87, \\\"v864\\\": 76.535, \\\"v720\\\": 79.802}}}\",\"ufq\":\"{\\\"enh\\\":79.11,\\\"playback\\\":{\\\"ori\\\":56.137,\\\"srv1\\\":63.428},\\\"src\\\":79.11,\\\"trans\\\":56.137,\\\"version\\\":\\\"v1.1\\\"}\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"1834aab9e1b0caae9362706a00ff9f52\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":32069}"
+          }
+        ],
+        "claInfo": {
+          "enableAutoCaption": true,
+          "hasOriginalAudio": true,
+          "noCaptionReason": 1
+        },
+        "codecType": "h264",
+        "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oQeZ2DIMmFQejXyXQXDo9AI7ROKN8GeA6GQ0sf~tplv-tiktokx-origin.image?dr=10395&x-expires=1770638400&x-signature=FytiSt4PMR2ke0Hn6tL61KgyND8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+        "definition": "720p",
+        "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/osRKsfQAIlAXeQo08eGjeG865ZMmOFYIyg8m7N/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2082&bt=1041&cs=0&ds=3&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=0&rc=OGc4OzpnO2Y7NTw0OjVoOkBpajtkaXk5cjpkOTMzZzczNEAtMy1fY2NgXi4xX19hMC8uYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=78f598b9834dc733dcffa0c7f34d1547&tk=tt_chain_token",
+        "duration": 97,
+        "dynamicCover": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oAOCoIlfGfmAfM5o9CI9FLGRGOdGdAZIFIeKZR~tplv-tiktokx-origin.image?dr=10395&x-expires=1770638400&x-signature=lbMrMucC9Nn3rDhawZYWmfuJXa4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+        "encodeUserTag": "",
+        "encodedType": "normal",
+        "format": "mp4",
+        "height": 1280,
+        "id": "7603942649560599822",
+        "originCover": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oAfuIdqGAZfGAIFdmoIW90L7RZOGIoeoFRBfGW~tplv-tiktokx-origin.image?dr=10395&x-expires=1770638400&x-signature=%2F7XdxjrQOqNonxjgb5eS9yx1VQY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+        "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oAIGEQOcGoFGABGmdL2beRM9fZfRfINAIZolFU/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2250&bt=1125&cs=0&ds=3&ft=-Csk_mgdPD12NcW3_d-Ux_J2hY3W3wv25ycAp&mime_type=video_mp4&qs=0&rc=ODtkZjVlOGg3NzU3OWU1ZkBpajtkaXk5cjpkOTMzZzczNEBgYy80LTEzNjAxLV80XjYwYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&btag=e00090000&expire=1770639584&l=20260207121807D858B0E13DB7D0595501&ply_type=2&policy=2&signature=0f27516a5c9b277a1f963a57cd539090&tk=tt_chain_token",
+        "ratio": "720p",
+        "size": 14104426,
+        "subtitleInfos": [
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "por-PT",
+            "LanguageID": "8",
+            "Size": 3170,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/e9b650c2113bf3453ac191133d34330e/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/c4ef63f4f09e4191936f7db8693917f9/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "vie-VN",
+            "LanguageID": "10",
+            "Size": 3690,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/338f713803c0c2d3194144d294624cfa/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/704fc0e5878d47cebd91d4f71717ba59/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "cmn-Hans-CN",
+            "LanguageID": "1",
+            "Size": 2980,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/1c3b498219343ef94088835186eaddf4/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/efb9ad1e2a494a5c8a89fe2d787478ee/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "ind-ID",
+            "LanguageID": "23",
+            "Size": 3346,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/03398a8409cea2b4e84cd140653a10ac/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/f7fa34c49c3c48c686a073b00ca96b61/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "ind-ID",
+            "LanguageID": "23",
+            "Size": 2560,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/82a95431c6616712a7eaec9406e63bbf/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/ac7b307123474935984ec99d30d5d2a2/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4:agent_deepSeek"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "deu-DE",
+            "LanguageID": "20",
+            "Size": 3325,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/4e88422b193407f7578169d4a4a6e529/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/67516b92a16e41a684ac6d5c19d1110c/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "deu-DE",
+            "LanguageID": "20",
+            "Size": 2466,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/1ee32c750a059e4d67918c1f7d4db81f/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/06a96d08cd8b4dc2a05d47bffb11510e/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4:glide_flash"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "deu-DE",
+            "LanguageID": "20",
+            "Size": 2613,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/a50ddae1efdd8dc628789d75a3f257ff/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/d088833f2e754080ace815385b736e31/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4:agent_deepSeek"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "fra-FR",
+            "LanguageID": "7",
+            "Size": 3387,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/862365c2163ed179e9d33ebdb131ea16/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/f10c2b69ac034434b46b0ce31ec02a2a/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "rus-RU",
+            "LanguageID": "6",
+            "Size": 4232,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/38b90199895d23f1bbb4a2174b6e8977/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/06b55f96a70549e1b07bf722b63a547a/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "ara-SA",
+            "LanguageID": "34",
+            "Size": 3386,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/09a69325327a72a5a422e0668abda043/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/deba00f43cd54e40befd31182764f51e/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "ara-SA",
+            "LanguageID": "34",
+            "Size": 2829,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/cfbfa1143d55808c7ecce43653209319/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/abcc4a7ad6d9415cba3c8c7bc6c7440b/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4:glide_flash"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "ara-SA",
+            "LanguageID": "34",
+            "Size": 3073,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/ee08db24ccb1f2abaf32ede127beac8c/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/21f0a1bf5b634367898ac86903f98bd7/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4:agent_deepSeek"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "jpn-JP",
+            "LanguageID": "3",
+            "Size": 3780,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/1acb1dd8368318f51c564c96d6f758ac/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/59b2a511a57e4715bb3427538a57f599/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "ita-IT",
+            "LanguageID": "26",
+            "Size": 3195,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/18b514af3e32c75a6693b425076226ce/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/ff5b17d376394bf186303eb7008f7047/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "spa-ES",
+            "LanguageID": "9",
+            "Size": 3283,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/cb6c74d2fd7eef9709cd344a0cdcc9f9/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/e5adf6794d2d48d6b81b038486cefd25/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "spa-ES",
+            "LanguageID": "9",
+            "Size": 2473,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/a56604baf0c5ddba7dfad746ce622c03/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/babd49b21e1447fdb36a8713092417cd/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4:glide_flash"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "spa-ES",
+            "LanguageID": "9",
+            "Size": 2568,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/2cc49e7b83b169f0252eba5a16110be3/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/dedb6ffa39bd46c6be6ddce1830afa54/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4:agent_deepSeek"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "kor-KR",
+            "LanguageID": "4",
+            "Size": 3101,
+            "Source": "MT",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/40139763ab9b11752dee38b0bd4b38be/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/b1c408d4943f493694c6d4621360ab25/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "4"
+          },
+          {
+            "Format": "webvtt",
+            "LanguageCodeName": "eng-US",
+            "LanguageID": "2",
+            "Size": 2467,
+            "Source": "ASR",
+            "Url": "https://v16-webapp.tiktokcdn-eu.com/b24350aa2bdee854903d9f62fb1f53db/6989d0e0/video/tos/maliva/tos-maliva-v-0068c799-us/cccb2e63331b41e395db7e373b39c02f/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=22328&bt=11164&ds=4&ft=_sO_C~0-C12Nvjp6IkCnRfkevHcI6IxVvY8piX&mime_type=video_mp4&qs=13&rc=ajtkaXk5cjpkOTMzZzczNEBpajtkaXk5cjpkOTMzZzczNEBzbWhrMmRzMDBhLS1kMS9zYSNzbWhrMmRzMDBhLS1kMS9zcw%3D%3D&l=20260207121807D858B0E13DB7D0595501&btag=e00050000",
+            "UrlExpire": 1770639584,
+            "Version": "1:big_caption"
+          }
+        ],
+        "videoID": "v12044gd0000d63a37vog65vnfkap8vg",
+        "videoQuality": "normal",
+        "volumeInfo": {
+          "Loudness": -18.5,
+          "Peak": 0.87096
+        },
+        "width": 720,
+        "zoomCover": {
+          "240": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oQeZ2DIMmFQejXyXQXDo9AI7ROKN8GeA6GQ0sf~tplv-photomode-zoomcover:240:240.avif?dr=10375&x-expires=1770638400&x-signature=E8uu47qntCE5SO5NsncbiVCDbOQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a&ftpl=1",
+          "480": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oQeZ2DIMmFQejXyXQXDo9AI7ROKN8GeA6GQ0sf~tplv-photomode-zoomcover:480:480.avif?dr=10375&x-expires=1770638400&x-signature=6e5t6GvTnnXhvG2SDN8ZNIRHjDg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a&ftpl=1",
+          "720": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oQeZ2DIMmFQejXyXQXDo9AI7ROKN8GeA6GQ0sf~tplv-photomode-zoomcover:720:720.avif?dr=10375&x-expires=1770638400&x-signature=OtEELigqxpV5qt7Bnurtnvht0rE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a&ftpl=1",
+          "960": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oQeZ2DIMmFQejXyXQXDo9AI7ROKN8GeA6GQ0sf~tplv-photomode-zoomcover:960:960.avif?dr=10375&x-expires=1770638400&x-signature=Yq0PtP1gwZaMgSqh72wzZAztj%2B8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a&ftpl=1"
+        }
+      }
+    },
     {
       "AIGCDescription": "",
       "CategoryType": 111,
