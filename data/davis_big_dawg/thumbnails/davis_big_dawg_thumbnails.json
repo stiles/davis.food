@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 37,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 38,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -635,6 +635,23 @@
         "diggCount": 2276,
         "playCount": 10900,
         "shareCount": 24
+      }
+    },
+    {
+      "post_id": "7605357419652336909",
+      "description": "Bronco bagels not bad @eatbronco #food #viral #fyp #review #sandwich ",
+      "create_time": 1770760280,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/ocnB0IZ3LoTA0qOqxREZCFFIjHHDDAfk5Ifu9e~tplv-tiktokx-origin.image?dr=10395&x-expires=1770940800&x-signature=RttKlTgSosl91BD0PuxtlxyssXk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7605357419652336909.jpg",
+      "file_size": 91771,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 12,
+        "commentCount": 52,
+        "diggCount": 831,
+        "playCount": 5379,
+        "shareCount": 5
       }
     }
   ]
