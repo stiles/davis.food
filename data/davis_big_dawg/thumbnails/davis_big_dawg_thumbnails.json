@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 38,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 39,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -652,6 +652,23 @@
         "diggCount": 831,
         "playCount": 5379,
         "shareCount": 5
+      }
+    },
+    {
+      "post_id": "7607517190832524557",
+      "description": "Mission bbq honestly really good #bbq #food #viral #fyp #meat",
+      "create_time": 1771263160,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oM6QSQVAgALnDV2iRFfl1pDBWfkXEEEBOyBSCT~tplv-tiktokx-origin.image?dr=10395&x-expires=1771459200&x-signature=34tg%2Bxf3N35L17bJBMjkmkU3XA0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7607517190832524557.jpg",
+      "file_size": 98094,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 13,
+        "commentCount": 37,
+        "diggCount": 875,
+        "playCount": 4764,
+        "shareCount": 19
       }
     }
   ]
