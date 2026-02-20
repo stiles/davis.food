@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 39,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 40,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -669,6 +669,23 @@
         "diggCount": 875,
         "playCount": 4764,
         "shareCount": 19
+      }
+    },
+    {
+      "post_id": "7608731449977605390",
+      "description": "Honestly really good the bbq ribs were awesome and so were the mac n cheese #bbq #food #viral #fyp #meat ",
+      "create_time": 1771545866,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/o8AQApJyhiyuLC9BI0iB4QfZIrsrwGjlBpXsuI~tplv-tiktokx-origin.image?dr=10395&x-expires=1771718400&x-signature=U8RN7bWH6VMkRp5yviMhM1LUdqs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7608731449977605390.jpg",
+      "file_size": 113340,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 4,
+        "commentCount": 15,
+        "diggCount": 190,
+        "playCount": 1144,
+        "shareCount": 7
       }
     }
   ]
