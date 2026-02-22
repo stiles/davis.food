@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 40,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 41,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -686,6 +686,23 @@
         "diggCount": 190,
         "playCount": 1144,
         "shareCount": 7
+      }
+    },
+    {
+      "post_id": "7609498441764310285",
+      "description": "@getjams #viral #fyp #review #sandwich #fypシ ",
+      "create_time": 1771724441,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/owJq58DSQEq3fLRDlvpE0DWBmQEJSkqfgA2FkR~tplv-tiktokx-origin.image?dr=10395&x-expires=1771934400&x-signature=QjVBCFAXfq4tUN9ZEkMEK5RfEkk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7609498441764310285.jpg",
+      "file_size": 107348,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 7,
+        "commentCount": 35,
+        "diggCount": 1082,
+        "playCount": 7114,
+        "shareCount": 12
       }
     }
   ]
