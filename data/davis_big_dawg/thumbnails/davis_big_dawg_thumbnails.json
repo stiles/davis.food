@@ -2,9 +2,9 @@
   "username": "davis_big_dawg",
   "thumbnail_type": "origin",
   "summary": {
-    "total_posts": 41,
-    "thumbnails_found": 0,
-    "thumbnails_downloaded": 0,
+    "total_posts": 42,
+    "thumbnails_found": 1,
+    "thumbnails_downloaded": 1,
     "failed": 0
   },
   "thumbnails": [
@@ -703,6 +703,23 @@
         "diggCount": 1082,
         "playCount": 7114,
         "shareCount": 12
+      }
+    },
+    {
+      "post_id": "7610611262711532813",
+      "description": "Reviewing little caesars #viral #fyp #review #pizza #mukbang ",
+      "create_time": 1771983547,
+      "thumbnail_type": "origin",
+      "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oMve5DAPeAQIdwMnCGjTtxCwUIHkLIuZCJbQqe~tplv-tiktokx-origin.image?dr=10395&x-expires=1772193600&x-signature=VskLk%2BSu8UH%2F69OqBSqqT7vNH9s%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "file_path": "data/davis_big_dawg/thumbnails/7610611262711532813.jpg",
+      "file_size": 79729,
+      "extension": ".jpg",
+      "stats": {
+        "collectCount": 18,
+        "commentCount": 75,
+        "diggCount": 2211,
+        "playCount": 12800,
+        "shareCount": 43
       }
     }
   ]
