@@ -1,9 +1,9 @@
 {
   "username": "davis_big_dawg",
   "summary": {
-    "total_posts": 42,
-    "transcripts_found": 0,
-    "transcripts_downloaded": 0,
+    "total_posts": 43,
+    "transcripts_found": 1,
+    "transcripts_downloaded": 1,
     "failed": 2
   },
   "transcripts": [
@@ -1637,6 +1637,23 @@
         "diggCount": 2211,
         "playCount": 12800,
         "shareCount": 43
+      }
+    },
+    {
+      "post_id": "7611659771896139022",
+      "description": "8 pound burger challenge from Sammy seas with @Davieunderwater @Tag #viral #fyp #mukbang #challege #burger ",
+      "create_time": 1772227670,
+      "transcript": "My name is davis, and today i'm reviewing this eight pound burger at sammy's seas with tag eats food and DB underwater. And now to time to try the burger. For being eight pounds, that actually is really good. Um, the patty is nice and juicy. It's nice and cheesy. Uh, you got some bacon on there too. Like the lettuce and tomato. Honestly, that's a really good burger, especially for like the size of it. I'll give it like an eight point five out of ten. That is really good. Alright, now time to try the fries. Okay, not bad. They're not really crunchy, but they are like, they have a lot of potato. Nice and seasoned. Um, they're overall pretty decent. Not like the best fries i've ever had. Probably like a six out of ten. Overall it was pretty good, but I think i'm gonna tap out now. Barely made a dent. Um, it was pretty good though. Highly suggest trying it at sammy seas. Well, thank you guys, and i'll see you tomorrow.",
+      "language": "eng-US",
+      "source": "ASR",
+      "is_original_audio": true,
+      "music_author": "Davis Big Dawg",
+      "stats": {
+        "collectCount": 26,
+        "commentCount": 87,
+        "diggCount": 2020,
+        "playCount": 12300,
+        "shareCount": 51
       }
     }
   ]
