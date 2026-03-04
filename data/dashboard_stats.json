@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-03T04:25:13.245698-08:00",
-  "generated_at_formatted": "Mar. 3, 2026, at 4 a.m. PT",
+  "generated_at": "2026-03-04T04:24:42.875228-08:00",
+  "generated_at_formatted": "Mar. 4, 2026, at 4 a.m. PT",
   "username": "davis_big_dawg",
   "overall_metrics": {
-    "total_reviews": 42,
-    "school_lunch_reviews": 41,
-    "total_food_items": 166,
-    "overall_average_rating": 6.53,
+    "total_reviews": 43,
+    "school_lunch_reviews": 42,
+    "total_food_items": 169,
+    "overall_average_rating": 6.55,
     "favorite_category": "dessert",
     "category_counts": {
-      "main_dish": 46,
-      "drink": 18,
-      "side": 55,
+      "main_dish": 47,
+      "drink": 19,
+      "side": 56,
       "dessert": 6,
       "other": 22,
       "snack": 15,
@@ -20,22 +20,22 @@
   },
   "category_stats": {
     "main_dish": {
-      "average_rating": 6.65,
-      "count": 46,
+      "average_rating": 6.64,
+      "count": 47,
       "min": 3,
       "max": 9.5
     },
     "drink": {
-      "average_rating": 7.5,
-      "count": 17,
+      "average_rating": 7.56,
+      "count": 18,
       "min": 5,
       "max": 9
     },
     "side": {
-      "average_rating": 5.9,
-      "count": 55,
+      "average_rating": 5.96,
+      "count": 56,
       "min": 1,
-      "max": 8.5
+      "max": 9
     },
     "dessert": {
       "average_rating": 7.67,
@@ -440,6 +440,15 @@
       "cumulative_views": 65531000,
       "cumulative_comments": 154626,
       "cumulative_shares": 269959
+    },
+    {
+      "date": "2026-03-04",
+      "timestamp": 1772585192,
+      "day_number": null,
+      "cumulative_likes": 6869113,
+      "cumulative_views": 65535615,
+      "cumulative_comments": 154653,
+      "cumulative_shares": 269988
     }
   ],
   "top_posts": [
@@ -585,6 +594,38 @@
     "The barbecue sauce definitely, like, kind of carries it"
   ],
   "posts_table": [
+    {
+      "post_id": "7613195388866284830",
+      "day_number": null,
+      "date": "2026-03-04",
+      "timestamp": 1772585192,
+      "average_rating": 7.83,
+      "food_count": 3,
+      "foods": [
+        {
+          "name": "Big Arch Burger",
+          "score": 6,
+          "category": "main_dish"
+        },
+        {
+          "name": "Fries",
+          "score": 9,
+          "category": "side"
+        },
+        {
+          "name": "Shamrock Shake",
+          "score": 8.5,
+          "category": "drink"
+        }
+      ],
+      "likes": 767,
+      "views": 4615,
+      "comments": 27,
+      "shares": 29,
+      "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7613195388866284830",
+      "needs_review": false,
+      "review_number": 42
+    },
     {
       "post_id": "7592398993632628023",
       "day_number": 34,
@@ -2126,36 +2167,42 @@
     }
   ],
   "latest_review": {
-    "post_id": "7592398993632628023",
-    "day_number": 34,
-    "review_number": 41,
-    "date": "2026-01-06",
+    "post_id": "7613195388866284830",
+    "day_number": null,
+    "review_number": 42,
+    "date": "2026-03-04",
     "foods": [
       {
-        "name": "Walkie taco",
+        "name": "Big arch burger",
         "category": "main_dish",
-        "score": 8.5,
-        "comments": "probably one of my favorite things. Nice and saucy. Nice and cheesy. Also something gives a nice song kick."
+        "score": 6,
+        "comments": "Not terrible. It is pretty good, though. I feel like it is a little dry. I feel like it needs more sauce. Not bad. Probably give it like, um, like a 7 out of 10. It's definitely not like the best burger they have."
       },
       {
-        "name": "Zero sugar lemonade",
+        "name": "Fries",
+        "category": "side",
+        "score": 9,
+        "comments": "Always good. Always nice and salty. Not bad fries. Probably like a 9 out of 10. Some of the best fries, honestly."
+      },
+      {
+        "name": "Shamrock shake",
         "category": "drink",
-        "score": 6.5,
-        "comments": "kind of makes it taste pretty weird. That's like kind of a weird aftertaste. It's not terrible though."
+        "score": 8.5,
+        "comments": "Honestly very good. It's pretty minty. It's like a mint shake. Uh, mint vanilla shake. Honestly really good."
       }
     ],
-    "average_rating": 7.5,
-    "thumbnail_url": "data/davis_big_dawg/thumbnails/7592398993632628023.jpg",
-    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7592398993632628023",
+    "average_rating": 7.8,
+    "thumbnail_url": "data/davis_big_dawg/thumbnails/7613195388866284830.jpg",
+    "tiktok_url": "https://www.tiktok.com/@davis_big_dawg/video/7613195388866284830",
     "engagement": {
-      "likes": 2446,
-      "comments": 90,
-      "shares": 32,
-      "views": 11900,
-      "likes_formatted": "2K",
-      "comments_formatted": "90",
-      "shares_formatted": "32",
-      "views_formatted": "12K"
+      "likes": 767,
+      "comments": 27,
+      "shares": 29,
+      "views": 4615,
+      "likes_formatted": "767",
+      "comments_formatted": "27",
+      "shares_formatted": "29",
+      "views_formatted": "5K"
     }
   }
 }
