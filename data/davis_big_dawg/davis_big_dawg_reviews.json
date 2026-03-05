@@ -1,9 +1,9 @@
 {
   "username": "davis_big_dawg",
   "total_transcripts": 98,
-  "school_food_reviews": 0,
-  "other_content": 52,
-  "failed": 3,
+  "school_food_reviews": 1,
+  "other_content": 54,
+  "failed": 0,
   "needs_manual_review": 0,
   "reviews": [
     {
@@ -1749,6 +1749,35 @@
         "diggCount": 767,
         "playCount": 4615,
         "shareCount": 29
+      }
+    },
+    {
+      "post_id": "7609498441764310285",
+      "description": "@getjams #viral #fyp #review #sandwich #fypシ ",
+      "create_time": 1771724441,
+      "day_number": null,
+      "needs_review": false,
+      "review_reason": null,
+      "foods": [
+        {
+          "name": "PB jams",
+          "category": "snack",
+          "score": 8,
+          "comments": "Pretty good. The whole thing about this is like the peanut butter has like protein in it. Can't really taste it though, honestly. Really good."
+        },
+        {
+          "name": "snack mix",
+          "category": "snack",
+          "score": null,
+          "comments": "Overall, pretty good lunch, um, at school."
+        }
+      ],
+      "stats": {
+        "collectCount": 7,
+        "commentCount": 35,
+        "diggCount": 1082,
+        "playCount": 7114,
+        "shareCount": 12
       }
     }
   ],
